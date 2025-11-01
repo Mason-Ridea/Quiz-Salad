@@ -1,0 +1,73 @@
+{
+    "title" : "American history 1712-1790, part 1",
+    "questions":[
+        {
+            "prompt":"New orleans was founded by who in 1718?",
+            "awnser":["Jean Baptiste LeMoyne","LeMoyne"]
+        },
+        {
+            "prompt":"which english pirate is captured and executed in 1718",
+            "awnser":["Edward Teach/Blackbeard","Edward Teach","Teach","Blackbread"]
+        },
+        {
+            "prompt":"georgia was founded by who in 1733 with 150 debtors",
+            "awnser":["James Oglethorpe","Oglethorpe"]
+        },
+        {
+            "prompt":"This puritan preacher started the first great awakening with his sermen 'sinners in the hand of an angry god'",
+            "awnser":["Johnathan Edwards","Edwards"]
+        },
+        {
+            "prompt":"who published the 'The Way to Wealth' which was a collection from 'Poor Richards Almanack'?",
+            "awnser":["Benjamin Franklin","Franklin"]
+        },
+        {
+            "prompt":"what ends the french and indian war in 1763",
+            "awnser":["Treaty of Paris","Paris"]
+        },
+        {
+            "prompt":"Major Robert Rogers led what group to victory at detroit in 1760",
+            "awnser":["Rodger's rangers"]
+        },
+        {
+            "prompt":"Who was the french general at the Battle of Quebec and died at the plains of abraham",
+            "awnser":["Marquis de Montcalm","De Montcalm"]
+        },
+        {
+            "prompt":"who was the british general at the battle of quebec",
+            "awnser":["James Wolfe","Wolfe"]
+        },
+        {
+            "prompt":"the Battle of Quebec was fought where",
+            "awnser":["Plains of Abraham","Abraham"]
+        },
+        {
+            "prompt":"What was the secret society founded in boston to oppose british oppression",
+            "awnser":["Sons of Liberty"]
+        },
+        {
+            "prompt":"which tax was established in 1767 after the stamp act inorder to raise revenue",
+            "awnser":["Townshend acts","Townshend"]
+        },        {
+            "prompt":"poems on various subjects was a book published by which black servants",
+            "awnser":["Phyllis Wheatly","Wheatly"]
+        },        {
+            "prompt":"Who founded san diego as the first spanish mission in 1769?",
+            "awnser":["Junipero Serra","Serra"]
+        },        {
+            "prompt":"during the boston massacre who was the affrican america that was killed?",
+            "awnser":["Crispus Attucks","Attucks"]
+        },
+        {
+            "prompt":"who founds Boonesboro, Kentucky and blazed The Wilderness Trail",
+            "awnser":["Daniel Boone","Boone"]
+        },
+        {
+            "prompt":"where did the first continental congress meet after the intolerable acts in 1774",
+            "awnser":["Carpenter Hall, Philadelphia","Carpenter Hall"]
+        }
+        
+        
+        
+    ]
+}

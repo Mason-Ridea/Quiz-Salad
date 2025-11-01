@@ -69,6 +69,16 @@ class card {
         */
 
     }
+    //multiple awnser can be accepted thus a function is needed to manage them
+    CompareAwnsers(input){
+        for (let i = 0; i < this.awnser.length; i++) {
+            const element = this.awnser[i];
+            if (element == input) {
+                return true;
+            }
+        }
+        return false;
+    }
     selfDestruct(){
         setTimeout(() =>{
             this.cardElement.remove()
@@ -133,9 +143,10 @@ function verifyAwnser(){
     //obtains the user input and resets the input box
     let userAwnser = awnserBox.value;
     awnserBox.value = "";
+    const isCorrect = currentCard.CompareAwnsers(userAwnser); 
     
     //if user awnsers right on the first try
-    if (userAwnser == currentCard.awnser && !hasAwnseredIncorrectly) {
+    if (isCorrect && !hasAwnseredIncorrectly) {
         currentStreak++;
         if(currentCard.destructable) { //doesn't add single use cards if they are correct
             console.log("asdf")
@@ -149,7 +160,7 @@ function verifyAwnser(){
         hasAwnseredIncorrectly = false;
     }
     //if user gets it after a try or two (main focus)
-    else if (userAwnser == currentCard.awnser && hasAwnseredIncorrectly){
+    else if (isCorrect && hasAwnseredIncorrectly){
         currentStreak = 0;
         //moves the card to the failed pile and gets a new card
         currentCard.ChangeCardPostion("toFailPosition");

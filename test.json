@@ -1,8 +1,8 @@
 {
-    "moduleTitle" : "testing",
+    "title" : "testing",
     "questions" : [
-        {"prompt":"one","awnser":"1"},
-        {"prompt":"two","awnser":"2"},
-        {"prompt":"three","awnser":"3"}
+        {"prompt":"one","awnser":["1","one","a"]},
+        {"prompt":"two","awnser":["2","two","aa"]},
+        {"prompt":"three","awnser":["3","three","aaa"]}
     ]
 }
