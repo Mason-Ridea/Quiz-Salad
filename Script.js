@@ -237,7 +237,7 @@ let placeholderFront
 
 async function startFromFile(){
     //gets the json file 
-    await fetch("Question_Sets/America_Hist_1712-90.json")
+    await fetch("Question_Sets/America_Hist_1712-90_p2.json")
         .then(response => {
             // Check if the request was successful
             if (!response.ok) {
@@ -252,9 +252,9 @@ async function startFromFile(){
 }
 
 window.onload = async function(){
-await startFromFile();
-//starts the entire quizing loop
-PlayingDeck.pushCardToBoard()
+    await startFromFile();
+    //starts the entire quizing loop
+    PlayingDeck.pushCardToBoard()
 }
 
 //to check for if the user has pressed enter.
