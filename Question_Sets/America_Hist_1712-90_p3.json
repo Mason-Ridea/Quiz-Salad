@@ -1,0 +1,53 @@
+{
+    "title":"American history 1712-1790, part 3",
+    "questions":[
+        {
+            "prompt":"who was the first secretary of state?",
+            "awnser":["Thomas Jefferson","Jefferson"]
+        },        {
+            "prompt":"who was the first secretary of the treasury",
+            "awnser":["Alexander Hamilton","Hamilton"]
+        },        {
+            "prompt":"who was the first Secretary of War",
+            "awnser":["Henry Knox","Knox"]
+        },        {
+            "prompt":"who is the first Cheif Justice?",
+            "awnser":["John Jay","Jay"]
+        },        {
+            "prompt":"who opens the first successful cotton mill?",
+            "awnser":["Samuel Slater","Slater"]
+        },        {
+            "prompt":"where did the first successful cotton mill open?",
+            "awnser":["Pawtucket, Rhode island","Pawtucket"]
+        },        {
+            "prompt":"what was name under which Hamilton, Madison, and Jay published the Federlist papers",
+            "awnser":["Publius"]
+        },        {
+            "prompt":"who was the traitor that tried to surrender west point",
+            "awnser":["Benedict Arnold","Arnold"]
+        },        {
+            "prompt":"what did Benedict Arnold tried to surrender?",
+            "awnser":["West Point"]
+        },        {
+            "prompt":"who did Benedict Arnold try to surrender west point to?",
+            "awnser":["John Andre","Andre"]
+        },        {
+            "prompt":"who gains the nickname 'mad anthony' for his daring bayonet charge",
+            "awnser":["Anthony Wayne","Wayne"]
+        },        {
+            "prompt":"who was the colonial printer that established freedom of the press",
+            "awnser":["John Peter Zenger","Zenger"]
+        },        {
+            "prompt":"who is the first Antory General",
+            "awnser":["Edmund Randolph","Randolph"]
+        },        {
+            "prompt":"what was the framework for creating and governing the northwest territories",
+            "awnser":["Northwest Ordinance"]
+        },        {
+            "prompt":" The Eleanor, The beaver, The dartmouth were the shipped raided in what act of rebellion in Boston, Massachusets?",
+            "awnser":["Boston Tea Party"]
+        }
+    ]
+
+
+}

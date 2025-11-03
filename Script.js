@@ -67,7 +67,6 @@ class card {
         console.log(DestructableDeck);
         NewVoidCard.addCardToMainBoard(true);
         */
-
     }
     //multiple awnser can be accepted thus a function is needed to manage them
     CompareAwnsers(input){
@@ -238,7 +237,7 @@ let placeholderFront
 
 async function startFromFile(){
     //gets the json file 
-    await fetch("./test.json")
+    await fetch("Question_Sets/America_Hist_1712-90.json")
         .then(response => {
             // Check if the request was successful
             if (!response.ok) {

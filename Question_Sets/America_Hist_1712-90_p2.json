@@ -1,0 +1,71 @@
+{
+    "title": "American history 1712-1790, part 2",
+    "questions":[
+        {
+            "prompt":"Who says 'give me liberty or give me death!'",
+            "awnser":["Patrick Henry","henry"]
+        },        {
+            "prompt":"Who rode through lexington and concord proclaiming 'the regulars are coming!'",
+            "awnser":["Paul Revere","Revere"]
+        },        {
+            "prompt":"who lead the green mountain boys and took Fort Ticonderoga with benedict arnold?",
+            "awnser":["Ethan Allen","Allen"]
+        },        {
+            "prompt":"what is the petition sent to george III for last moment peace talks?",
+            "awnser":["Olive Branch Petition"]
+        },        {
+            "prompt":"Which pamphleteer publishes American Crisis and Common Sense?",
+            "awnser":["Thomas Paine"]
+        },        {
+            "prompt":"Who was the first person to sign the decleration of independence and has the largest signature",
+            "awnser":["John Hancock","Hancock"]
+        },        {
+            "prompt":"Connecticut Schoolteacher, hung by the english for being a traitor",
+            "awnser":["Nathan Hale","Hale"]
+        },        {
+            "prompt":"Washington crossed which river (named after a state with captial:dover) to win at the battle of trenton",
+            "awnser":["Delaware River"]
+        },        {
+            "prompt":"Washington crossed the Delaware River for which battle where he beat hessian troops",
+            "awnser":["Battle of Trenton","Trenton"]
+        },        {
+            "prompt":"which general won the battle of Saratoga",
+            "awnser":["Horatio Gates","Gates"]
+        },        {
+            "prompt":"which general lost the Battle of Saratoga",
+            "awnser":["Burgoyne"]
+        },        {
+            "prompt":"where did Washington bring his troops to train during the winter",
+            "awnser":["Valley Forge"]
+        },        {
+            "prompt":"which prussian general trained washington's troops at valley forge?",
+            "awnser":["von Steuben"]
+        },        {
+            "prompt":" 'I have not yet begun to fight' was said which captain when he fought the Serpis",
+            "awnser":["John Paul Jones","Jones"]
+        },        {
+            "prompt":"which 'swamp fox' organizes a gorilla band to fight in south carolina",
+            "awnser":["Francis Marion","Marion"]
+        },        {
+            "prompt":"who publishes 'American Spelling Book' in 1783",
+            "awnser":["Noah Webster","Webster"]
+        },        {
+            "prompt":"who is the father of the consitution?",
+            "awnser":["James Madison","Madison"]
+        },{
+            "prompt":"who lead 1200 farmers in a rebellion in massachusets",
+            "awnser":["Daniel Shays","Shays"]
+        },{
+            "prompt":"who was the father of the navy and later became a russian admiral",
+            "awnser":["John Paul Jones","Jones"]
+        },{
+            "prompt":"fitsy catholic bishop",
+            "awnser":["John Carroll","Carroll"]
+        },{
+            "prompt":"where is george washington inaugurated?",
+            "awnser":["New York"]
+        }
+    ]
+
+
+}
