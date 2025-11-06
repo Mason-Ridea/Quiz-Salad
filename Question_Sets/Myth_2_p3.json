@@ -1,0 +1,43 @@
+{
+    "title":"Myth 2 p3",
+    "questions":[
+        {
+            "prompt":"the twins of gemini",
+            "awnser":["Castor and Pollux"]
+        },
+        {
+            "prompt":"whose wife died and was promised to be able to guide her back to the land of the living if he didn't look back",
+            "awnser":["Orpheus and Eurydice"]
+        },
+        {
+            "prompt":"Sons of Oedipus, after their father died they fought on oppsite sides in the civil war",
+            "awnser":["Eteocles and Polynices"]
+        },
+        {
+            "prompt":"beautiful sculptor and his beautiful creation",
+            "awnser":["Pygmalion and Galatea"]
+        },
+        {
+            "prompt":"their story is told in Shakespeare's A Midsummer Night's Dream.",
+            "awnser":["Pyramus and Thisbe"]
+        },
+        {
+            "prompt":"son of priam and the one who fell for him but was traded for trojan prisoners",
+            "awnser":["Troilus and Cressida"]
+        },
+        {
+            "prompt":"when one drowned the other threw herself into the sea",
+            "awnser":["Hero and Leander"]
+        },
+        {
+            "prompt":"poor elderly couple who embrace the disguised god with full hospitality",
+            "awnser":["Philemon and Baucis"]
+        },
+        {
+            "prompt":"one offered to taken hostage when the other was sentenced to death. the other returned and both were pardoned after he display of friendship",
+            "awnser":["Damon and Pythiast"]
+        }        
+    ]
+
+
+}

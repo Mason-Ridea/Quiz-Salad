@@ -12,10 +12,10 @@
             "awnser":["Ethan Allen","Allen"]
         },        {
             "prompt":"what is the petition sent to george III for last moment peace talks?",
-            "awnser":["Olive Branch Petition"]
+            "awnser":["Olive Branch Petition","olive branch"]
         },        {
             "prompt":"Which pamphleteer publishes American Crisis and Common Sense?",
-            "awnser":["Thomas Paine"]
+            "awnser":["Thomas Paine","Paine"]
         },        {
             "prompt":"Who was the first person to sign the decleration of independence and has the largest signature",
             "awnser":["John Hancock","Hancock"]

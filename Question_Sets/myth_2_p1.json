@@ -1,0 +1,82 @@
+{
+	"title":"Mythology two",
+	"questions" :[ 
+			{
+		"prompt": "Who was the ancient Greek in Attica who would ensure that travelers were the size of his bed?",
+		"awnser": ["Procrustes"]
+		},
+			{
+		"prompt": "Who was the king of troy during the trojan war?",
+		"awnser": ["Priam"]
+		},
+			{
+		"prompt": "Who was the king of corinth who was doomed to roll a boulder up a hlil",
+		"awnser": ["Sisyphus"]
+		},
+			{
+		"prompt": "Who is a child of Zeus and stole his favorite dog, while giving ambrosia to men. His punishment was to stand chin deep in water have fruit be just out of news?",
+		"awnser": ["Tanatlus"]
+		},
+			{
+		"prompt": "Father of Hippolytus, he slays the minotaurs and marries hippolyta after fighting the Amazons",
+		"awnser": ["Theseus"]
+		},
+			{
+		"prompt": " Son of Odysseus who was reunited with his father after 20 years",
+		"awnser": ["Telemachus"]
+		},
+			{
+		"prompt": "Blind prophet who warns Oedipus that he was the killer of King Laertes",
+		"awnser": ["Tiresias"]
+		},
+			{
+		"prompt": "written about in a play by Euripides and wife of Hector in the Trojan War",
+		"awnser": ["Andromache"]
+		},
+			{
+		"prompt": "Who is the daughter of Cepheus and Cassiopeia? She was chained to a rock but later saved by Perseus.",
+		"awnser": ["Andromeda"]
+		},
+			{
+		"prompt": "Daughter of Oedipus and Jocasta, her story is told by sophocles wherein she gave her brothers a proper burial and then gets entombed in a cave.",
+		"awnser": ["Antigone"]
+		},
+			{
+		"prompt": "She was a weaver in Lydia who challenged Athena to a weaving contest and then gets turned into a spider",
+		"awnser": ["Arachne"]
+		},
+			{
+		"prompt": "Queen of the amazons",
+		"awnser": ["Hippolyta"]
+		},
+			{
+		"prompt": "Daughter of agamemnon",
+		"awnser": ["Iphigenia"]
+		},
+			{
+		"prompt": "mother and later wife of oedipus, orignial wife of laius of thebes",
+		"awnser": ["Jocasta"]
+		},
+			{
+		"prompt": "wife of Jason and original possesor of the golden fleece, Daughter of the King of Colchis,",
+		"awnser": ["Medea"]
+		},
+			{
+		"prompt": "the firts mortal woman who opened a box that brought about all bad things in the world",
+		"awnser": ["Pandora"]
+		},
+			{
+		"prompt": "the long waiting wife of odysessus who would unweave her shourd inorder to not remarry.",
+		"awnser": ["Penelope"]
+		},
+
+		{
+		"prompt": "the mother of Achilles and wife of peleus",
+		"awnser": ["Thetis"]
+		},
+		{
+			"prompt": "the lesbian poet",
+			"awnser": ["Saphho"]
+		}
+] 
+}

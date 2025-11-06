@@ -7,6 +7,7 @@ for testing features which can only be done over http
 const PlayingBoard = document.getElementById("board");
 const awnserBox = document.getElementById("awnser");
 const streakDisplay = document.getElementById("streak");
+const startingFile = "Question_Sets/myth_2_p1.json";
 let questionFile;
 
 class card {
@@ -237,7 +238,7 @@ let placeholderFront
 
 async function startFromFile(){
     //gets the json file 
-    await fetch("Question_Sets/America_Hist_1712-90_p2.json")
+    await fetch(startingFile)
         .then(response => {
             // Check if the request was successful
             if (!response.ok) {

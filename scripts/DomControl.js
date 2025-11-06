@@ -10,7 +10,8 @@ import { card, deck } from "./CardControl.js";
 const PlayingBoard = document.getElementById("board");
 const awnserBox = document.getElementById("awnser");
 const streakDisplay = document.getElementById("streak");
-
+const RevealText = document.getElementById("reveal");
+const startingFile = "Question_Sets/myth_2_p1.json";
 //creates the decks which will be used later
 let PlayingDeck = new deck();
 let FailDeck =  new deck();
@@ -23,7 +24,7 @@ let placeholderCardfront; //for the placeholder cardfront
 
 async function startFromFile(){
     //gets the json file 
-    await fetch("test.json")
+    await fetch("./" + startFromFile)
         .then(response => {
             // Check if the request was successful
             if (!response.ok) {
@@ -129,23 +130,22 @@ function verifyAwnser(){
     else if (isCorrect && hasAwnseredIncorrectly){
         currentStreak = 0;
         FailDeck.addCardToDeck(currentCard);
-        currentCard.ChangeCardPostion("toSuccessfulPosition");
+        currentCard.ChangeCardPostion("toFailPosition");
         drawNextCard()
         
         //resets the varible for the next question 
         hasAwnseredIncorrectly = false;
+        RevealText.textContent = "";
     }
     //if user is just straight up wrong
     else if (!hasAwnseredIncorrectly) {
         hasAwnseredIncorrectly = true;
         DestructableDeck.addCardToDeck(currentCard.createVoidCard(PlayingBoard))
         currentStreak = 0;
+        RevealText.textContent = `The actual awnser is: ${currentCard.awnser[0]}`
     }
     //changes the streak counter
     streakDisplay.textContent =  `Your current streak is: ${currentStreak}`;
-    
-    
-    console.log(isCorrect);
 }
 document.addEventListener("keydown", (input) => {
     //when the user presses enter and there is awnser it verifies the awnser

@@ -1,0 +1,61 @@
+{
+    "title":"Mythological creatures",
+    "questions":[
+        {
+            "prompt":"The monster with a 100 eyes which is slain by hermes",
+            "awnser":["Argus"]
+        },
+        {
+            "prompt":"creatures which are half man and half horse",
+            "a":["Centaur"]
+        },        {
+            "prompt":"The bird which rises from its own ashes",
+            "awnser":["Pheonix"]
+        },        {
+            "prompt":"three headed dog of hades",
+            "awnser":["Cerberus"]
+        },        {
+            "prompt":"A sea monster that would suck in ships with typoons and was found with Scylla at the Straits of Messina.",
+            "awnser":["charybdis"]
+        },        {
+            "prompt":"A mythological fire-breathing monster from Lycia that is lion-headed, goat­ middled, and serpent-hinded. was killed by Belleraphon atop pegasus",
+            "awnser":["Chimaera"]
+        },        {
+            "prompt":"tutor of Achilles and teacher of Asclepias.",
+            "awnser":["Chiron"]
+        },        {
+            "prompt":"A monster with.the body of a lion and the head and wings ofan eagle.",
+            "awnser":["Griffin"]
+        },        {
+            "prompt":"snakes for hair, medusa is the most famous.",
+            "awnser":["Gorgon"]
+        },        {
+            "prompt":"A monster with one head that would grow two more if one was cut off",
+            "awnser":["Hydra"]
+        },        {
+            "prompt":"Offspring of a bull and Pasiphae, trapped in a labrinyth by minos",
+            "awnser":["Minotaur"]
+        },        {
+            "prompt":"Fabulous lion which Heracules was sent to kill as one of his labors",
+            "awnser":["Nemean Lion"]
+        },        {
+            "prompt":"Wing horse which was brought to life by the blood of the slain medusa",
+            "awnser":["Pegasus"]
+        },        {
+            "prompt":"The cyclops in The odyssey",
+            "awnser":["Polyphemus"]
+        },        {
+            "prompt":"A great snake",
+            "awnser":["Python"]
+        },        {
+            "prompt":"attendents of Dionysus",
+            "awnser":["Satyr"]
+        },        {
+            "prompt":"Sea nymph which was loved by poseidon and turned into a sea monster by his wife",
+            "awnser":["Scylla"]
+        },        {
+            "prompt":"Early fire-breathing monster who is father to the Sphinx and the Chimaera.",
+            "awnser":["Typhon"]
+        }
+    ]
+}
