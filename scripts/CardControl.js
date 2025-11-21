@@ -8,23 +8,31 @@ class card {
         this.cardElement = document.createElement("div");
         this.cardFront = document.createElement("div");
         this.cardBack  = document.createElement("div");
-        
+        this.PromptText = document.createElement("div"); //text needs a spefific format, thus its own element
         //puts the prompt on the back of the card
-        this.cardBack.textContent = this.prompt
+        this.PromptText.textContent = this.prompt;
         //adds the appropiate classes to the divs
         this.cardElement.classList.add("card");
         this.cardFront.classList.add("front");
         this.cardBack.classList.add("back");
+        this.PromptText.classList.add("promptTextMultiLine");
+        //if the prompts is more than one line there should be a different format inorder to obey the card lines
         if(this.destructable){
             this.cardBack.classList.add("destroyableBack");
         }
         //appends the front and back to the cardElement
+        this.cardBack.appendChild(this.PromptText)
         this.cardElement.appendChild(this.cardBack);
         this.cardElement.appendChild(this.cardFront);
+        
     }
-    
-    //moves card to fail pile
+    addCardToBoard(Board){
+        PlayingBoard.appendChild(this.cardElement)
+        
+    }
     ChangeCardPostion(NewPosition){
+        console.log(window.getComputedStyle(this.PromptText).lineHeight);
+
         //corresponsds to a css class
         for (let i = 0; i < this.cardElement.childNodes.length; i++) {
             const element = this.cardElement.children[i];
@@ -81,7 +89,6 @@ class deck {
         }
         else{
         let nextCard = this.cards.pop();
-        //nextCard.addCardToMainBoard(PlayingBoard);
         PlayingBoard.appendChild(nextCard.cardElement);
         return nextCard;
         }

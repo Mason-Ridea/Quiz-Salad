@@ -53,13 +53,36 @@ body {
     position: absolute;
 }
 .back{
-    background-color: green;
     position: absolute;
     /* because the card will be flipped this needs to be upside down*/
     transform: rotateX(180deg);
     display: flex;
     justify-content: center;
     align-items: center; 
+    text-align: center;
+    font-size: large;
+    background-image: url(./Sprites/blankCard.svg);
+    background-size: 100%;
+}
+
+.promptTextSingleLine{
+    position: relative;
+    bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 20spx;
+    line-height: 1;
+}
+.promptTextMultiLine{
+    position: relative;
+    top: 9px;
+    line-height: 2;
+    color: blueviolet;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 20spx;
+    max-width: 100%;
+    max-height: 100%;
 }
 .destroyableBack {
     background-color: rgb(63, 74, 69);

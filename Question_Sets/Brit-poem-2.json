@@ -1,0 +1,118 @@
+{
+    "title":"Brit Poem 2",
+    "questions":[
+        {
+            "prompt":"To Lucasta, going to the wars",
+            "awnser":["Lovelace"]
+        },
+        {
+            "prompt":"She Stoops to conquer",
+            "awnser":["Goldsmith"]
+        },        {
+            "prompt":"A red, red rose",
+            "awnser":["Burns"]
+        },        {
+            "prompt":"To A Mouse",
+            "awnser":["Burns"]
+        },        {
+            "prompt":"Auld lang syne",
+            "awnser":["Burns"]
+        },        {
+            "prompt":"songs of innocence and songs of experience",
+            "awnser":["Blake"]
+        },        {
+            "prompt":"The tyger",
+            "awnser":["Blake"]
+        },        {
+            "prompt":"The chimmny sweeper",
+            "awnser":["Blake"]
+        },        {
+            "prompt":"Tolines written  a few mils above tinturn abbey",
+            "awnser":["wordsworth"]
+        },        {
+            "prompt":"I wandered lonely as a cloud",
+            "awnser":["wordsworth"]
+        },        {
+            "prompt":"the world is too much with us",
+            "awnser":["Wordsworth"]
+        },        {
+            "prompt":"The Prelude",
+            "awnser":["Wordsworth"]
+        },        {
+            "prompt":"Kubali Khan",
+            "awnser":["coleridge"]
+        },        {
+            "prompt":"The time of the ancient mariner",
+            "awnser":["Coleridge"]
+        },        {
+            "prompt":"Chritobel",
+            "awnser":["Coleridge"]
+        },        {
+            "prompt":"Dejection: an ode",
+            "awnser":["Coleridge"]
+        },        {
+            "prompt":"ode on a grecian urn",
+            "awnser":["keats"]
+        },        {
+            "prompt":"ode to a nighting gale",
+            "awnser":["keats"]
+        },        {
+            "prompt":"the eve of saint agnes",
+            "awnser":["keats"]
+        },{
+            "prompt":"on first loooking into chapman's homer",
+            "awnser":["keats"]
+        },
+        {
+            "prompt":"Endymion",
+            "awnser":["keats"]
+        },
+        {
+            "prompt":"to autumn",
+            "awnser":["keats"]
+        },
+        {
+            "prompt":"la belle dame sans merci",
+            "awnser":["keats"]
+        },
+        {
+            "prompt":"ode to the west wind",
+            "awnser":["shelly"]
+        },
+        {
+            "prompt":"ozymandias",
+            "awnser":["shelly"]
+        },
+        {
+            "prompt":"adonais",
+            "awnser":["shelly"]
+        },
+        {
+            "prompt":"Dover beach",
+            "awnser":["Arnold"]
+        },
+        {
+            "prompt":"The lady of shalott",
+            "awnser":["Tennyson"]
+        },
+        {
+            "prompt":"the lotos eaters",
+            "awnser":["Tennyson"]
+        },
+        {
+            "prompt":"ulysses",
+            "awnser":["Tennyson"]
+        },
+        {
+            "prompt":"crossing the bar",
+            "awnser":["Tennyson"]
+        },
+        {
+            "prompt":"In memorium A H H",
+            "awnser":["Tennyson"]
+        }
+        
+    ]
+
+
+}

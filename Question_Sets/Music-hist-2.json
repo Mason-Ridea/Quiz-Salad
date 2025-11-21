@@ -1,0 +1,53 @@
+{
+    "title":"",
+    "questions":[
+        {
+            "prompt":"tales of the hoffman",
+            "awnser":["offenbach"]
+        },        {
+            "prompt":"hungarian dances",
+            "awnser":["brahms"]
+        },        {
+            "prompt":"danse macabre",
+            "awnser":["saint-saens"]
+        },        {
+            "prompt":"romeo and juliet",
+            "awnser":["tchaikovsky"]
+        },        {
+            "prompt":"sleeping beauty",
+            "awnser":["tchaikovsky"]
+        },        {
+            "prompt":"symphonies pathetique",
+            "awnser":["tchaikovsky"]
+        },        {
+            "prompt":"eugene onegrin",
+            "awnser":["tchaikovsky"]
+        },        {
+            "prompt":"peer gynt suite",
+            "awnser":["grieg"]
+        },        {
+            "prompt":"la boheem",
+            "awnser":["puccini"]
+        },        {
+            "prompt":"tosca",
+            "awnser":["puccini"]
+        },        {
+            "prompt":"turandot",
+            "awnser":["puccini"]
+        },        {
+            "prompt":"trial by jury",
+            "awnser":["gilbert and sullivan"]
+        },        {
+            "prompt":"the mikado",
+            "awnser":["gilbert and sullivan"]
+        },        {
+            "prompt":"boris godnuv",
+            "awnser":["moussorgsky"]
+        },        {
+            "prompt":"night on bald moutain",
+            "awnser":["moussorgsky"]
+        }
+    ]
+
+
+}

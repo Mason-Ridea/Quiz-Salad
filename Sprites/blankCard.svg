@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="302mm"
+   height="198mm"
+   viewBox="0 0 302 198"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.44259734"
+     inkscape:cx="608.9056"
+     inkscape:cy="532.08634"
+     inkscape:window-width="1472"
+     inkscape:window-height="920"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#fcfaea;stroke-width:2.81463;stroke-linecap:round;fill-opacity:1"
+       id="rect1"
+       width="300"
+       height="197.89999"
+       x="1.0819666"
+       y="0.54098332"
+       ry="21.166767" />
+    <path
+       style="fill:#ff0000;stroke:#aa0000;stroke-width:2.39126;stroke-linecap:round"
+       d="M 2.9597847,17.183734 H 299.31208"
+       id="path2"
+       inkscape:label="path2" />
+    <path
+       style="fill:#ff0000;stroke:#4b87bb;stroke-width:2.39126;stroke-linecap:round;stroke-opacity:1"
+       d="M 4.1234301,49.183983 H 300.47573"
+       id="path4"
+       inkscape:label="path2" />
+    <path
+       style="fill:#ff0000;stroke:#4b87bb;stroke-width:2.39126;stroke-linecap:round;stroke-opacity:1"
+       d="M 3.911537,76.52965 H 300.26383"
+       id="path7"
+       inkscape:label="path2" />
+    <path
+       style="fill:#ff0000;stroke:#4b87bb;stroke-width:2.39126;stroke-linecap:round;stroke-opacity:1"
+       d="M 4.1234301,103.87532 H 300.47573"
+       id="path9"
+       inkscape:label="path2" />
+    <path
+       style="fill:#ff0000;stroke:#4b87bb;stroke-width:2.39126;stroke-linecap:round;stroke-opacity:1"
+       d="M 4.6253512,131.22098 H 300.97765"
+       id="path10"
+       inkscape:label="path2" />
+    <path
+       style="fill:#ff0000;stroke:#4b87bb;stroke-width:2.39126;stroke-linecap:round;stroke-opacity:1"
+       d="M 3.6598323,156.27987 H 300.01213"
+       id="path11"
+       inkscape:label="path2" />
+    <path
+       style="fill:#ff0000;stroke:#4b87bb;stroke-width:2.39126;stroke-linecap:round;stroke-opacity:1"
+       d="M 2.4961869,183.62553 H 298.84848"
+       id="path12"
+       inkscape:label="path2" />
+  </g>
+</svg>

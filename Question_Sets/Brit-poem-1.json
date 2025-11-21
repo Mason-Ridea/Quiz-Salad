@@ -1,0 +1,108 @@
+{
+    "title":"british poem 1",
+    "questions":[
+        {
+            "prompt":"The parilament of fowles",
+            "awnser":["Chaucer"]
+        },
+        {
+            "prompt":"The Nymph's reply to the sheperd",
+            "awnser":["Raleigh"]
+        },        {
+            "prompt":"colin clout",
+            "awnser":["Skelton"]
+        },        {
+            "prompt":"Hero and Leander",
+            "awnser":["Marlowe"]
+        },        {
+            "prompt":"Tamburlaine",
+            "awnser":["Marlowe"]
+        },        {
+            "prompt":"The Jew of Malta",
+            "awnser":["Marlowe"]
+        },        {
+            "prompt":"The Flea",
+            "awnser":["Donne"]
+        },        {
+            "prompt":"Holy sonnet 10",
+            "awnser":["Donne"]
+        },        {
+            "prompt":"the Comedy of Errors",
+            "awnser":["Shakesphere"]
+        },        {
+            "prompt":"Herny IV part I",
+            "awnser":["Shakesphere"]
+        },        {
+            "prompt":"The two gentlemen of verona",
+            "awnser":["Shakesphere"]
+        },        {
+            "prompt":"Richard II",
+            "awnser":["Shakesphere"]
+        },        {
+            "prompt":"Richard III",
+            "awnser":["Shakesphere"]
+        },        {
+            "prompt":"A midsummer's night dream",
+            "awnser":["Shakesphere"]
+        },        {
+            "prompt":"Troilus and cressida",
+            "awnser":["Shakesphere"]
+        },        {
+            "prompt":"Song: to celia",
+            "awnser":["Jonson"]
+        },        {
+            "prompt":"Volpone",
+            "awnser":["Johnson"]
+        },        {
+            "prompt":"Every Man and his humour",
+            "awnser":["Jonson"]
+        },        {
+            "prompt":"The Alchemist",
+            "awnser":["Ben Jonson"]
+        },        {
+            "prompt":"The Duchess of Malfi",
+            "awnser":["Webster"]
+        },        {
+            "prompt":"To the virgins, to make much of time",
+            "awnser":["Herrick"]
+        },        {
+            "prompt":"To His coy mistress",
+            "awnser":["Marvell"]
+        },        {
+            "prompt":"Lycidas",
+            "awnser":["Milton"]
+        },        {
+            "prompt":"Aeropagticas",
+            "awnser":["Milton"]
+        },        {
+            "prompt":"Samson Agonistes",
+            "awnser":["Milton"]
+        }, {
+            "prompt":"To althea from prison",
+            "awnser":["Lovelace"]
+        },{
+            "prompt":"A song for st,, cecilia's day",
+            "awnser":["Congreve"]
+        },{
+            "prompt":"An essay of criticism",
+            "awnser":["Pope"]
+        },{
+            "prompt":"An essay on man",
+            "awnser":["Pope"]
+        },{
+            "prompt":"The Vanity of human wishes",
+            "awnser":["Johnson"]
+        },{
+            "prompt":"The Seasons",
+            "awnser":["Thomson"]
+        },{
+            "prompt":"Elegy written in country churchyard",
+            "awnser":["Gray"]
+        },{
+            "prompt":"The deserted Village",
+            "awnser":["Goldsmith"]
+        }
+    ]
+
+
+}
