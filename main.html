@@ -5,12 +5,22 @@
     </head>
 
     <body>
+        <canvas id = "Background"></canvas>
         <p class="reveal" id="reveal" ></p>
         <p class = "streakCounter" id="streak">your current streak is: </p>
         <div id="board">
         </div>
+
         <input class="awnser" id="awnser">
+        <script type="importmap">
+			{
+				"imports": {
+					"three": "https://cdn.jsdelivr.net/npm/three@0.161.0/build/three.module.js",
+                    "jsm/": "https://cdn.jsdelivr.net/npm/three@0.161.0/examples/jsm/"
+        }
+			}
+		</script>
+        <script type="module" src="scripts/Background.js"></script>
         <script type="module" src="scripts/DomControl.js"></script>
-        <!-- <script src="Script.js"></script> -->
     </body>
 </html>

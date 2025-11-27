@@ -1,0 +1,41 @@
+{
+    "title":"",
+    "questions":[
+        {
+            "prompt":"who pays for the printing costs of newtons prinpia mathematica?",
+            "awnser":["Edmund Halley","Halley"]
+        },        {
+            "prompt":"what has its begnning as an insurer of maritime interests?",
+            "awnser":["Lloyd's of London","Lloyd's"]
+        },        {
+            "prompt":"Louis XIV revokes what and caused more than 50,000 Huguenot families to emigrate from France",
+            "awnser":["edict of Nantes"]
+        },        {
+            "prompt":"who revoked the edict of nantes and made it illegal to follow any religion execpt catholicism",
+            "awnser":["Louis XIV"]
+        },        {
+            "prompt":"what brings William III (of Orange) and Mary II to the throne of England--and ends four years of Roman Catholic rule of England",
+            "awnser":["Glorious Revolution"]
+        },        {
+            "prompt":"what observatory is established to study the moon amoung fixed",
+            "awnser":["Greenwich"]
+        },        {
+            "prompt":"Aristotle Contemplating the Bust of Homer, Storm on the Sea of Galilei, The Night Watch, The Anatomy Lesson of Dr. Tulp, and The Blinding of Samson were works by this dutch painter",
+            "awnser":["Rembrandt van Rinj","rembrant"]
+        },        {
+            "prompt":"who becomes the king of england after the death of Cromwell?",
+            "awnser":["Charles II"]
+        },        {
+            "prompt":"Philip II of Spain, The Rape of the Sabines, Venus and Adonis, and The Judgment of Paris were works by who?",
+            "awnser":["Peter Paul Rubens","Paul Rubens"]
+        },        {
+            "prompt":"who publishes Pensees",
+            "awnser":["pascal"]
+        },        {
+            "prompt":"Forces under cromwell expell charles I where?",
+            "awnser":["Marston Moor"]
+        }
+    ]
+
+
+}

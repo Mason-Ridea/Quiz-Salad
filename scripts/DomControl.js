@@ -11,7 +11,7 @@ const PlayingBoard = document.getElementById("board");
 const awnserBox = document.getElementById("awnser");
 const streakDisplay = document.getElementById("streak");
 const RevealText = document.getElementById("reveal");
-const startingFile = "Question_Sets/Music-hist-1.json";
+const startingFile = "hist1610-88-p1.json";
 //creates the decks which will be used later
 let PlayingDeck = new deck();
 let FailDeck =  new deck();
@@ -24,7 +24,7 @@ let placeholderCardfront; //for the placeholder cardfront
 
 async function startFromFile(){
     //gets the json file 
-    await fetch("./" + startingFile)
+    await fetch("./Question_Sets/" + startingFile)
         .then(response => {
             // Check if the request was successful
             if (!response.ok) {
