@@ -31,6 +31,7 @@ body {
 }
 .voidCard{
     position: absolute;
+    box-shadow: 5px 5px 6px;
     height: 200px;
     width: 400px;
     left: 36%;
@@ -45,6 +46,7 @@ body {
 
 .front, .back {
     height: 100%;
+    box-shadow: 5px 5px 6px;
     width: 100%;
     border-radius: 1.45rem;
     backface-visibility: hidden;
@@ -122,6 +124,7 @@ body {
     left: 36.35%;
     bottom: 10%;
     text-align: center;
+    box-shadow: 5px 5px 6px;
 }
 /* streak counter stuff*/ 
 .streakCounter{

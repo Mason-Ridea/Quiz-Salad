@@ -31,8 +31,6 @@ class card {
         
     }
     ChangeCardPostion(NewPosition){
-        console.log(window.getComputedStyle(this.PromptText).lineHeight);
-
         //corresponsds to a css class
         for (let i = 0; i < this.cardElement.childNodes.length; i++) {
             const element = this.cardElement.children[i];
