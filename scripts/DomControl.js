@@ -5,7 +5,7 @@ http://localhost:8000/
 for testing features which can only be done over http 
 */
 import { card, deck } from "./CardControl.js";
-import { Pulse } from "./Background.js";
+import { Pulse, halt } from "./Background.js";
 // gets the document elements which will be modified later
 const PlayingBoard = document.getElementById("board");
 const awnserBox = document.getElementById("awnser");
@@ -125,6 +125,8 @@ function verifyAwnser(){
         }
         drawNextCard()
         hasAwnseredIncorrectly = false;
+        //pulses background
+        Pulse(1.2, 0xaaaaaa);
     }
     //if user gets it after a try or two (main focus)
     else if (isCorrect && hasAwnseredIncorrectly){
@@ -132,10 +134,10 @@ function verifyAwnser(){
         FailDeck.addCardToDeck(currentCard);
         currentCard.ChangeCardPostion("toFailPosition");
         drawNextCard()
-        
         //resets the varible for the next question 
         hasAwnseredIncorrectly = false;
         RevealText.textContent = "";
+        Pulse(0.55); 
     }
     //if user is just straight up wrong
     else if (!hasAwnseredIncorrectly) {
@@ -143,6 +145,8 @@ function verifyAwnser(){
         DestructableDeck.addCardToDeck(currentCard.createVoidCard(PlayingBoard))
         currentStreak = 0;
         RevealText.textContent = `The actual awnser is: ${currentCard.awnser[0]}`
+        
+        halt();//for the background
     }
     //changes the streak counter
     streakDisplay.textContent =  `Your current streak is: ${currentStreak}`;
@@ -151,6 +155,5 @@ document.addEventListener("keydown", (input) => {
     //when the user presses enter and there is awnser it verifies the awnser
     if (input.key == "Enter" && awnserBox.value != "") {
         verifyAwnser();
-        Pulse()
     }
 });
