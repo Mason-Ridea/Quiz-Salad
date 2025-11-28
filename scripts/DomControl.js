@@ -5,7 +5,7 @@ http://localhost:8000/
 for testing features which can only be done over http 
 */
 import { card, deck } from "./CardControl.js";
-
+import { Pulse } from "./Background.js";
 // gets the document elements which will be modified later
 const PlayingBoard = document.getElementById("board");
 const awnserBox = document.getElementById("awnser");
@@ -150,6 +150,7 @@ function verifyAwnser(){
 document.addEventListener("keydown", (input) => {
     //when the user presses enter and there is awnser it verifies the awnser
     if (input.key == "Enter" && awnserBox.value != "") {
-     verifyAwnser();
+        verifyAwnser();
+        Pulse()
     }
 });

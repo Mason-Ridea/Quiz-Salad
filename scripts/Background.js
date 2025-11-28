@@ -1,77 +1,146 @@
 import * as THREE from "three";
-
 // Robot Bobby is, in fact, the goat
 const Canvas = document.getElementById("Background");
-const WindowHeight = window.innerHeight
-const WindowWidth = window.innerWidth
+const WindowHeight = window.innerHeight;
+const WindowWidth = window.innerWidth;
 
 class triangle {
     constructor(initalXPos,initalYPos,initalXSpeed,initalYSpeed,initalRotationSpeed){
         //makes the actual triangle thing
+        let Zaxis = Math.random()
         let vertices = new Float32Array([
-            -1.0, -1.0, 0.0,
-             1.0, -1.0, 0.0,
-             0.0, 0.0, 0.0
+            -1.0, -1.0, Zaxis,
+             1.0, -1.0, Zaxis,
+             0.0, 0.0, Zaxis
         ])
         const buffer = new THREE.BufferGeometry();
-        buffer.setAttribute('position', new THREE.BufferAttribute(vertices,3)) 
-        const material = new THREE.MeshBasicMaterial({color : 0xff0000, side :THREE.DoubleSide }) 
+        buffer.setAttribute('position', new THREE.BufferAttribute(vertices,3));
+        const material = new THREE.MeshBasicMaterial({color : 0xff0000, side :THREE.DoubleSide });
         
         //declares the class varibles
         this.triangle = new THREE.Mesh(buffer, material);
         this.triangle.position.x = initalXPos;
         this.triangle.position.y = initalYPos;
-        this.Xspeed = initalXSpeed;
-        this.Yspeed = initalYSpeed;
-        console.log(`${initalXSpeed} ${initalYSpeed}`)
-        this.rotationSpeed = initalRotationSpeed 
+        if (initalXSpeed < 0){
+            this.Xspeed = initalXSpeed* -1;
+            this.Xsign = -1
+        }
+        else{
+            this.Xspeed = initalXSpeed;
+            this.Xsign = 1
+        }
+        this.XAccel = 0.0;
+        if (initalYPos < 0){
+            this.Yspeed = initalYSpeed * -1;
+            this.Ysign = -1
+        }
+        else{
+            this.Yspeed = initalYSpeed;
+            this.Ysign = 1;
+        }
+        this.YAccel = 0.0;
+        this.RotationSpeed = initalRotationSpeed;
+        this.RotationAccel = 0.0;
     }
     step(){
-        this.triangle.position.x += this.Xspeed;
-        this.triangle.position.y += this.Yspeed;
-        this.triangle.rotation.z += this.rotationSpeed;
+        //updates properties
+        this.triangle.position.x += this.Xspeed * this.Xsign;
+        this.triangle.position.y += this.Yspeed * this.Ysign;
+        this.triangle.rotation.z += this.RotationSpeed;
 
         //sets triangle to the opposing side of the screen if it goes out of bounds
         this.triangle.position.x = (this.triangle.position.x > 7.25) ? -7.25 : this.triangle.position.x;
         this.triangle.position.x = (this.triangle.position.x < -7.25) ? 7.25 : this.triangle.position.x;
         this.triangle.position.y = (this.triangle.position.y  > 5.05) ? -4 : this.triangle.position.y;
         this.triangle.position.y = (this.triangle.position.y < -4) ? 5.45 : this.triangle.position.y;
+
+        //accelerates speed based on accelerations varibles
+        this.Xspeed += Math.min(this.XAccel / 10, Math.floor(35 + this.XAccel*300)/100);
+        this.Yspeed += Math.min(this.YAccel / 10, Math.floor(35 + this.YAccel*300)/100);
+        this.RotationSpeed += this.RotationAccel / 10;
+        this.XAccel *= 0.9;
+        if (this.XAccel < 0.00002){this.Xspeed * 0.99}
+        this.YAccel *= 0.9;
+        if (this.YAccel < 0.00002){this.Yspeed * 0.99}
+        this.Xspeed = Math.min(0.55, this.Xspeed);
+        this.Yspeed = Math.min(0.55, this.Yspeed);
+        this.RotationAccel *= 0.9;
+    }
+    Accelerate(X, Y, RotationAccel){
+        console.log(`${this.XAccel} ${this.YAccel}`);
+        this.XAccel = X;
+        this.YAccel = Y;
+        /*
+        this.Xspeed += X * 0.45;
+        this.Yspeed += Y * 0.45;
+        */
+        this.RotationAccel = RotationAccel;
+        //has a chance to flip speed values
+        this.Xsign *= Math.random() > 0.5 ? 1 : -1;
+        this.Ysign *= Math.random() > 0.5 ? 1 : -1;
     }
 }
+
 //creates the esstentials
 const scene = new THREE.Scene();
-const camera = new THREE.PerspectiveCamera(75, WindowWidth/WindowHeight, 0.1, 1000 );
-const renderer = new THREE.WebGLRenderer();
+const camera = new THREE.PerspectiveCamera(75, WindowWidth/WindowHeight, 0.1, 10 );
+const renderer = new THREE.WebGLRenderer({logarithmicDepthBuffer: true});
 renderer.setSize(window.innerWidth, window.innerHeight);
 renderer.setAnimationLoop(animate);
-document.body.insertBefore(renderer.domElement,Canvas)
+document.body.insertBefore(renderer.domElement,Canvas);
 camera.position.z = 5;
 camera.position.y = 0.6;
-let triangles = [addTriangle()];
+let triangles = [addTriangle(),addTriangle()];
+
 function animate(){
-    triangles[0].step()
+    triangles.forEach(x => {x.step();}) // calls step() on all triangles
     renderer.render(scene, camera);
 }
+
 function addTriangle(){
-    let newTriangle = new triangle(-4,2,RandomRange(-0.05,0.05),RandomRange(-0.002,0.002),0.01)
-    scene.add(newTriangle.triangle)
-    return newTriangle
+    //parameters for the triangles are randomized
+    let initialXPosition = RandomRange(-4,4);
+    let initialYPosition = RandomRange(-2,3);
+    let initalXAcceleration = RandomRange(-0.05,0.05);
+    let initalYAcceleration = RandomRange(-0.05,0.05);
+    let initalRotationSpeed = RandomRange(-0.2,0.2);
+
+    let newTriangle = new triangle(initialXPosition,initialYPosition,initalXAcceleration,initalYAcceleration,initalRotationSpeed);
+    scene.add(newTriangle.triangle);
+    return newTriangle;
 }
+
+export function Pulse(){
+    if (triangles.length <= 20){
+        triangles.push(addTriangle());
+    }
+    triangles.forEach(x =>{
+        x.Accelerate(0.2, 0.2, 0.0)
+    })
+}
+
+export function halt(){
+    if(triangles.length > 4 ){
+        scene.remove(triangles.pop().triangle);
+    }
+
+}
+
 function RandomRange(min, max){
     // swaps min and max is min was actually more than max
     if (min > max){
         let tempMin = min;
         min = max;
-        max = tempMin
+        max = tempMin;
     }
     //checks if one is negative
     if (min < 0){
         //50% falls in the negatives and percent of the time is in the positives 
         if(Math.random() > 0.5){
-            return Math.random() * max
+            return Math.random() * max;
         }
         else{
-            return Math.random() * min
+            return Math.random() * min;
         }
     }
     else{
