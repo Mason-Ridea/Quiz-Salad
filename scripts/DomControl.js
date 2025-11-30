@@ -11,7 +11,7 @@ const PlayingBoard = document.getElementById("board");
 const awnserBox = document.getElementById("awnser");
 const streakDisplay = document.getElementById("streak");
 const RevealText = document.getElementById("reveal");
-const startingFile = "Brit-poem-1.json";
+const startingFile = "America_Hist_1712-90_p1.json";
 //creates the decks which will be used later
 let PlayingDeck = new deck();
 let FailDeck =  new deck();
@@ -32,20 +32,35 @@ const streakBenchmarkColors = {
 let currentCard;
 let placeholderCardfront; //for the placeholder cardfront
 
-async function startFromFile(){
+export async function startFromFile(filename){
+    console.log(filename);
     //gets the json file 
-    await fetch("./Question_Sets/" + startingFile)
+    PlayingBoard.replaceChildren();
+    await fetch("./Question_Sets/" + filename)
         .then(response => {
             // Check if the request was successful
             if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
+            throw new Error(`~~~HTTP error! status: ${response.status}`);
             }
             // Parse the JSON data from the response
             return response.json();
 
         })
         .then(data => {
-            PlayingDeck.parseDataToCards(data)
+            //removes all cards currently on the board
+            const PlayingBoardElements = PlayingBoard.children;
+            for(const child of PlayingBoardElements){
+                console.log(child);
+            }
+            PlayingDeck = new deck();
+            FailDeck =  new deck();
+            SuccessfulDeck = new deck();
+            DestructableDeck = new deck();
+            currentStreak = 0;
+            PlayingDeck.parseDataToCards(data);
+            //console.log(PlayingDeck)
+            //starts the entire quizing loop
+            drawNextCard();
         })
 }
 
@@ -113,10 +128,7 @@ function drawNextCard(){
     }
 }
 window.onload = async function(){
-    await startFromFile();
-    console.log(PlayingDeck)
-    //starts the entire quizing loop
-    drawNextCard();
+    await startFromFile(startingFile);
 }
 let hasAwnseredIncorrectly = false
 function verifyAwnser(){
@@ -154,7 +166,6 @@ function verifyAwnser(){
         //resets the varible for the next question 
         hasAwnseredIncorrectly = false;
         RevealText.textContent = "";
-        Pulse(0.55); 
     }
     //if user is just straight up wrong
     else if (!hasAwnseredIncorrectly) {

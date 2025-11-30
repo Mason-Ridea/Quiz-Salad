@@ -1,3 +1,5 @@
+import { startFromFile } from "./DomControl.js";
+
 const ChangeSubjectButton = document.getElementById("subjectSelect"); 
 const searchMenu = document.getElementById("search"); 
 const categories = document.getElementById("categories")
@@ -27,14 +29,14 @@ ChangeSubjectButton.onclick = OpenSubjectMenu;
 function OpenSubjectMenu(){
     searchMenu.style.height = "100%";
     searchMenu.style.visibility = "visible"
+    currentDirectory = new Directory(ParentDirectory, null);
+    populateMenus(currentDirectory);
 }
 function CloseSearchMenu(){
     searchMenu.style.height = "0%";
     searchMenu.style.visibility = "hidden"
 }
 window.CloseSearchMenu = CloseSearchMenu; //makes it accessible to html elements
-
-
 
 //functions to moves and select through elements
 scrollSlider.oninput = UpdateElementPositions;
@@ -53,9 +55,18 @@ function OnCategoryClick(){
     parameters of this function is a string containing 
     the next filename and will be bound to the function
     */
-    populateMenus(this);
+    console.log(this);
     if (typeof(this) == "object"){
         currentDirectory = this
+        populateMenus(this);
+    }
+    else if (typeof(this) == "string"){
+        console.log("asdf")
+        startFromFile(this);
+        CloseSearchMenu();
+    }
+    else{
+        window.Error("FILE NOT FOUND, CONTACT WEBSITE OWNER");
     }
 }
 
@@ -74,9 +85,11 @@ async function getLayout(){
             .then(response => {
                 // Check if the request was successful
                 if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
+                throw new Error(`HTTP error! status: ${response.status}???`);
+                
                 }
                 // Parse the JSON data from the response
+                
                 return response.json();
             })
             .then(data => {
@@ -96,9 +109,11 @@ function populateMenus(Dir){
         if (typeof(Dir.contents[title]) == "object"){
             Content = new Directory(Dir.contents[title], currentDirectory)
         }
+        else if(typeof(Dir.contents[title]) == "string"){
+            Content = Dir.contents[title]
+        }
         addMenu(title,Content);
     })
     scrollSlider.max = Dir.GetTitles().length;
 }
-
 getLayout();
