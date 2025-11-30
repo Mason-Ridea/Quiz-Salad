@@ -40,7 +40,6 @@ class card {
         this.voidCard = document.createElement("div");
         this.voidCard.classList.add("voidCard");
         PlayingBoard.appendChild(this.voidCard);
-        
         //adds a duplicate of the card to the destructable deck 
         return this; 
     }
