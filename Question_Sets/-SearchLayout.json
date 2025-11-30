@@ -1,13 +1,32 @@
 {
     "Literature(-)": {
-        "British poetry (1.)" : "Brit-poem-1.json"
+        "British poetry (1.)" : "Brit-poem-1.json",
+        "British poetry (2.)" : "Brit-poem-2.json",
+        "British poetry (3.)" : "Brit-poem-3.json"
+
     },
+    "History (-)": {
+        "American History" : {
+            "American history 1712-90 (1.)" : "America_Hist_1712-90_p1.json",
+            "American history 1712-90 (2.)" : "America_Hist_1712-90_p2.json",
+            "American history 1712-90 (3.)" : "America_Hist_1712-90_p3.json"
+        }
 
-
-    "History (-)": {},
+    },
     
 
-    "Arts and culture (-)":{},
+    "Arts and culture (-)":{
+        "Mythology (-)" : {
+            "Myth 2 (1.)": "Myth_2_p1.json",
+            "Myth 2 (2.)": "Myth_2_p2.json",
+            "Myth 3 (3.)": "Myth_2_p3.json"
+        },
+        "Music" : {
+            "Music History 2 (1.)" : "Music-hist-1.json",
+            "Music History 2 (2.)" : "Music-hist-2.json",
+            "Music History 2 (3.)" : "Music-hist-3.json" 
+        }
+    },
 
 
     "Geography (-)":{},
