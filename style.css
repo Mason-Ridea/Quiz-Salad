@@ -4,6 +4,25 @@ body {
 
 
 /* for the subject selection dropdown */
+.subjectSelect{
+    position: absolute;
+    font-size: 350%;
+    text-align: center;
+    color: antiquewhite;
+    background-color: rgb(29, 28, 28);
+    
+    width: 100px;
+    left: 1%;
+    top: 0%;
+    transition: 0.3s;
+    border: 0;
+    opacity: 0.15;
+    
+}
+.subjectSelect:hover{
+    border: 0;
+    opacity: 1;
+}
 .overlay{
     visibility: hidden;
     
@@ -16,8 +35,6 @@ body {
     transition: 0.5s;
     overflow-y: hidden;
     background-color: rgba(1, 1, 1, 0.75);
-    
-
 }
 .categories {
     position: relative;
