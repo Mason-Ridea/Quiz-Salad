@@ -1,0 +1,35 @@
+{
+    "title":"",
+    "questions":[
+        {
+            "prompt":"what does 'coche' mean in the english langauge?",
+            "awnser":["car"]
+        },
+        {
+            "prompt":"what does the word  'perro' mean in the english langauge?",
+            "awnser":["dog"]
+        },        {
+            "prompt":"what does the word  'pero' mean in the english langauge?",
+            "awnser":["but"]
+        },        {
+            "prompt":"what does the word 'manaña mean in the english langauge?",
+            "awnser":["morning","tomorrow"]
+        },        {
+            "prompt":"what does the word  'amigo' mean in the english langauge?",
+            "awnser":["friend"]
+        },        {
+            "prompt":"what does the word 'huevo' mean in the english langauge?",
+            "awnser":["egg"]
+        },        {
+            "prompt":"what does the word  'oido' mean in the english langauge?",
+            "awnser":["hate"]
+        },        {
+            "prompt":"what does the word 'hogar' mean in the english langauge?",
+            "awnser":["home"]
+        },        {
+            "prompt":"what does the word 'espacio' mean in the english langauge?",
+            "awnser":["space"]
+        }
+    ]
+
+}

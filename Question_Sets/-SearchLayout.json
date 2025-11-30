@@ -10,5 +10,9 @@
     "Arts and culture (-)":{},
 
 
-    "Geography (-)":{}
+    "Geography (-)":{},
+
+    "Spanish langauge (-)":{
+        "Spanish vocabulary one" : "Spanish-basic-vocab-1.json"
+    }
 }
