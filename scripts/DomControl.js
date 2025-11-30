@@ -11,7 +11,7 @@ const PlayingBoard = document.getElementById("board");
 const awnserBox = document.getElementById("awnser");
 const streakDisplay = document.getElementById("streak");
 const RevealText = document.getElementById("reveal");
-const startingFile = "Stuff_I_got_wrong_1.json";
+const startingFile = "Brit-poem-1.json";
 //creates the decks which will be used later
 let PlayingDeck = new deck();
 let FailDeck =  new deck();
@@ -42,6 +42,7 @@ async function startFromFile(){
             }
             // Parse the JSON data from the response
             return response.json();
+
         })
         .then(data => {
             PlayingDeck.parseDataToCards(data)
