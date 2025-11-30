@@ -4,12 +4,23 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
+        <div id="search" class = "overlay">
+            <a href="javascript:void(0)" class="closebutton" onclick="CloseSearchMenu()">&times;</a>
+            <div id = "categories" class="categories">
+                <a>literature</a>
+                <a>myth</a>
+                <a>history</a>
+                <a>geography</a>
+                <button>geography</button>
+            </div>
+            <input id="scrollSlider", class="scroll", type="range" min="1", max="100", value="0"> 
+        </div>
+
         <canvas id = "Background"></canvas>
         <button id = "subjectSelect">select question set</button>
         <p class="reveal" id="reveal" ></p>
         <p class = "streakCounter" id="streak">your current streak is: </p>
         <div id="board"></div>
-        <div id="search"></div>
         <input class="awnser" id="awnser">
         <script type="module" src="scripts/DomControl.js"></script>
         <script type="module" src="scripts/SelectSubject.js"></script>

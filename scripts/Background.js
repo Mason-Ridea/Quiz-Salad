@@ -3,7 +3,6 @@ import * as THREE from "three";
 const Canvas = document.getElementById("Background");
 const WindowHeight = window.innerHeight;
 const WindowWidth = window.innerWidth;
-
 const MiniumTriangles = 300;
 const maxiumTriangles = 14;
 const firstHexColor = 0x404266

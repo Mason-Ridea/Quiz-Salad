@@ -3,7 +3,6 @@ class card {
         this.prompt = prompt
         this.awnser = awnser
         this.destructable = destructable
-
         //creates the card element for the document 
         this.cardElement = document.createElement("div");
         this.cardFront = document.createElement("div");
