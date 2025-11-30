@@ -2,6 +2,9 @@ body {
     background-color: black;
 }
 
+
+/* for the subject selection dropdown */
+
 .reveal{
     font-size: 2.5vh;
     
@@ -11,6 +14,7 @@ body {
     bottom: 56%;
     
 }
+
 /* card nonsense */
 .card {
     position: absolute;

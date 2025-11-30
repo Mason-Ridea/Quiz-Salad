@@ -5,12 +5,14 @@
     </head>
     <body>
         <canvas id = "Background"></canvas>
+        <button id = "subjectSelect">select question set</button>
         <p class="reveal" id="reveal" ></p>
         <p class = "streakCounter" id="streak">your current streak is: </p>
-        <div id="board">
-        </div>
-
+        <div id="board"></div>
+        <div id="search"></div>
         <input class="awnser" id="awnser">
+        <script type="module" src="scripts/DomControl.js"></script>
+        <script type="module" src="scripts/SelectSubject.js"></script>
         <script type="importmap">
 			{
 				"imports": {
@@ -20,6 +22,5 @@
 			}
 		</script>
         <script type="module" src="scripts/Background.js"></script>
-        <script type="module" src="scripts/DomControl.js"></script>
     </body>
 </html>

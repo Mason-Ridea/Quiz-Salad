@@ -11,7 +11,7 @@ const PlayingBoard = document.getElementById("board");
 const awnserBox = document.getElementById("awnser");
 const streakDisplay = document.getElementById("streak");
 const RevealText = document.getElementById("reveal");
-const startingFile = "Brit-poem-2.json";
+const startingFile = "Stuff_I_got_wrong_1.json";
 //creates the decks which will be used later
 let PlayingDeck = new deck();
 let FailDeck =  new deck();
@@ -19,6 +19,16 @@ let SuccessfulDeck = new deck();
 let DestructableDeck = new deck();
 
 let currentStreak = 0;
+const streakBenchmarkColors = {
+    1: 0x4d418a,
+    5: 0x7d37b3,
+    7: 0x9a339c,
+    10: 0xaa0000,
+    15: 0xb8580f,
+    20: 0xc79b22,
+    25: 0x78bf3d,
+    30: 0x1cba29
+}  
 let currentCard;
 let placeholderCardfront; //for the placeholder cardfront
 
@@ -126,7 +136,13 @@ function verifyAwnser(){
         drawNextCard()
         hasAwnseredIncorrectly = false;
         //pulses background
-        Pulse(1.2, 0xaaaaaa);
+        const basePulseStrength = 1.2;
+        if (currentStreak in streakBenchmarkColors){
+            const nextHexColor = streakBenchmarkColors[currentStreak];
+            Pulse(basePulseStrength + (currentStreak/100) + 0.5, nextHexColor); 
+        } else {
+            Pulse(basePulseStrength);
+        }
     }
     //if user gets it after a try or two (main focus)
     else if (isCorrect && hasAwnseredIncorrectly){

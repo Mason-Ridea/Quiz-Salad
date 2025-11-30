@@ -6,7 +6,7 @@ const WindowWidth = window.innerWidth;
 
 const MiniumTriangles = 300;
 const maxiumTriangles = 14;
-const firstHexColor = 0x600000
+const firstHexColor = 0x404266
 class triangle {
     constructor(initalXPos,initalYPos,initalXSpeed,initalYSpeed,initalRotationSpeed){
     //makes the actual triangle thing
@@ -119,9 +119,7 @@ document.body.insertBefore(renderer.domElement,Canvas);
 camera.position.z = 5;
 camera.position.y = 0.6;
 let triangles = [];
-for (let i = 0; i < MiniumTriangles; i++){
-    triangles.push(addTriangle());
-}
+reset();
 function animate(){
     triangles.forEach(x => {x.step();}) // calls step() on all triangles
     renderer.render(scene, camera);
@@ -133,18 +131,20 @@ function addTriangle(){
     let initialYPosition = RandomRange(-4,5);
     let initalXSpeed = RandomRange(-0.04,0.05);;
     let initalYSpeed = RandomRange(-0.04,0.05);;
-    let initalRotationSpeed = RandomRange(-0.02,0.04);
+    let initalRotationSpeed = RandomRange(-0.09,0.06);
     let newTriangle = new triangle(initialXPosition,initialYPosition,initalXSpeed,initalYSpeed,initalRotationSpeed);
     scene.add(newTriangle.triangle);
     return newTriangle;
 }
 
-export function Pulse(explosiveness =1, colorAsHex = -1){
+export function Pulse(explosiveness = 1, colorAsHex = -1){
     if (triangles.length <= maxiumTriangles){
         triangles.push(addTriangle());
     }
     triangles.forEach(x =>{
-        x.Accelerate(RandomRange(0.01,0.11) * explosiveness, RandomRange(0.01,0.11) * explosiveness, 0.0);
+        const miniumSpeed = 0.02; 
+        const MaxiumSpeed = 0.11;
+        x.Accelerate(RandomRange(0.02,0.11) * explosiveness, RandomRange(0.01,0.11) * explosiveness, 0.0);
         if (colorAsHex != -1){
             x.shiftColor(colorAsHex);
         }
@@ -186,4 +186,12 @@ function RandomRange(min, max){
         return Math.random() * (max - min) + min;
     }
 
+}
+function reset(){
+    triangles.forEach(x => {
+        scene.remove(x.triangle);
+    })
+    for (let i = 0; i < MiniumTriangles; i++) {
+        triangles.push(addTriangle());
+    }
 }
