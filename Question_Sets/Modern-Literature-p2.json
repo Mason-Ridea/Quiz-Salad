@@ -1,0 +1,88 @@
+{
+    "title":"",
+    "questions":[
+        {
+            "prompt":"who wrote '2001: A Space Odyssey'?",
+            "awnser":["Clarke"]
+        },        {
+            "prompt":"who wrote The Foundation trilogy?",
+            "awnser":["Asimov"]
+        },        {
+            "prompt":"who wrote 'I, Robot'?",
+            "awnser":["Asimov"]
+        },        {
+            "prompt":"who wrote 'Starship Troopers'?",
+            "awnser":["Heinlein"]
+        },        {
+            "prompt":"who wrote 'Stranger in a Strange Land'?",
+            "awnser":["Heinlein"]
+        },        {
+            "prompt":"who wrote 'Dandelion wine'?",
+            "awnser":["Bradbury"]
+        },        {
+            "prompt":"who wrote 'Farenheit 411'?",
+            "awnser":["Bradbury"]
+        },        {
+            "prompt":"who wrote 'The Martian Chronicles'?",
+            "awnser":["Bradbury"]
+        },        {
+            "prompt":"who wrote 'The Wizard of Earthsea'?",
+            "awnser":["Le Guin"]
+        },        {
+            "prompt":"who wrote the Harry Potter books?",
+            "awnser":["Rowling"]
+        },        {
+            "prompt":"who wrote 'The Chronicles of Narnia'?",
+            "awnser":["Lewis"]
+        },        {
+            "prompt":"who wrote 'The Hobbit'?",
+            "awnser":["Tolkein"]
+        },        {
+            "prompt":"who wrote 'The Lord of the Rings'?",
+            "awnser":["Tolkein"]
+        },        {
+            "prompt":"who wrote 'The Ballad of Songbirds and Snakes'?",
+            "awnser":["Collins"]
+        },        {
+            "prompt":"who wrote 'The Hungers Games?'?",
+            "awnser":["Collins"]
+        },{
+            "prompt":"Who wrote 'The Shining' ",
+            "awnser":["King"]
+        },        {
+            "prompt":"Who wrote 'The Tine drum' ",
+            "awnser":["Grass"]
+        },        {
+            "prompt":"Who wrote 'Love in the Time of Cholera,' ",
+            "awnser":["Marquez"]
+        },        {
+            "prompt":"Who wrote 'A Hundred Years of Solitude' ",
+            "awnser":["Marquez"]
+        },
+        {
+            "prompt":"Who wrote 'Jurassic Park,'? ",
+            "awnser":["Crichton"]
+        },{
+            "prompt":"Who wrote 'Sphere'? ",
+            "awnser":["Crichton"]
+        },{
+            "prompt":"Who wrote 'Willie Wonka and the Chocolate Factory,'? ",
+            "awnser":["Dahl"]
+        },{
+            "prompt":"Who wrote 'James and the Gaint Peacj'? ",
+            "awnser":["Dahl"]
+        },{
+            "prompt":"Who wrote 'The Lion, the Witch, and the Wardrobe;'? ",
+            "awnser":["Lewis"]
+        },
+        {
+            "prompt":"Who wrote 'James' ",
+            "awnser":["everett"]
+        },        {
+            "prompt":"Who wrote 'The green mile' ",
+            "awnser":["King"]
+        }  
+    ]
+
+
+}

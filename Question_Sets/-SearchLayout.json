@@ -2,16 +2,22 @@
     "Literature(-)": {
         "British poetry (1.)" : "Brit-poem-1.json",
         "British poetry (2.)" : "Brit-poem-2.json",
-        "British poetry (3.)" : "Brit-poem-3.json"
-
+        "British poetry (3.)" : "Brit-poem-3.json",
+        "Modern Literature (1.)":"Modern-Literature-p1.json",
+        "Modern Literature (2.)":"Modern-Literature-p2.json"
     },
     "History (-)": {
-        "American History" : {
+        "American History (-)" : {
             "American history 1712-90 (1.)" : "America_Hist_1712-90_p1.json",
             "American history 1712-90 (2.)" : "America_Hist_1712-90_p2.json",
             "American history 1712-90 (3.)" : "America_Hist_1712-90_p3.json"
+        },
+        "World History (-)" : {
+            "World History 1610-88 (1.)" : "hist1610-88-p1.json",
+            "World History 1610-88 (2.)" : "hist1610-88-p2.json",
+            "World History 1610-88 (3.)" : "hist1610-88-p3.json",
+            "World History 1690-1776 (1.)" : "World_Hist_1690-1776_p1.json"
         }
-
     },
     
 
@@ -27,7 +33,6 @@
             "Music History 2 (3.)" : "Music-hist-3.json" 
         }
     },
-
 
     "Geography (-)":{},
 

@@ -1,0 +1,92 @@
+{
+    "title":"",
+    "questions":[
+        {
+            "prompt":"Who wrote 'Invitation to a Beheading'?",
+            "awnser":["Nabokov"]
+        },        {
+            "prompt":"Who wrote 'Lolita'?",
+            "awnser":["Nabokov"]
+        },        {
+            "prompt":"Who wrote 'Remains of the day'?",
+            "awnser":["Ishiguro"]
+        },        {
+            "prompt":"Who wrote 'Never Let Me Go'? ",
+            "awnser":["Ishiguro"]
+        },        {
+            "prompt":"Who wrote 'Atonement'? ",
+            "awnser":["Mcewan"]
+        },        {
+            "prompt":"Won the nobel prize for literature in 2017?",
+            "awnser":["Ishiguro"]
+        },        {
+            "prompt":"Who wrote 'A Thousand Splendid Suns'? ",
+            "awnser":["Hosseini"]
+        },        {
+            "prompt":"Who wrote 'The Kite Runner'? ",
+            "awnser":["Hosseini"]
+        },        {
+            "prompt":"Who wrote 'All the Light We Could Not See'? ",
+            "awnser":["Doerr"]
+        },        {
+            "prompt":"Who wrote 'Origin'? ",
+            "awnser":["Brown"]
+        },        {
+            "prompt":"Who wrote 'The Da Vinci Code'? ",
+            "awnser":["Brown"]
+        },        {
+            "prompt":"Who wrote 'The Exchange'? ",
+            "awnser":["Grisham"]
+        },        {
+            "prompt":"Who wrote 'The Firm'? ",
+            "awnser":["Grisham"]
+        },        {
+            "prompt":"Who wrote 'The pelican Brief'? ",
+            "awnser":["Grisham"]
+        },        {
+            "prompt":"Who wrote 'No Country for Old Men' ",
+            "awnser":["McCarthy"]
+        },        {
+            "prompt":"Who wrote 'The Road'? ",
+            "awnser":["McCarthy"]
+        },        {
+            "prompt":"Who wrote 'A clockwork Orange'? ",
+            "awnser":["burgess"]
+        },        {
+            "prompt":"Who wrote 'The Testaments'? ",
+            "awnser":["Atwood"]
+        },        {
+            "prompt":"Who wrote 'The Handmaid's tale'? ",
+            "awnser":["Atwood"]
+        },        {
+            "prompt":"Who wrote 'Life of Pi'? ",
+            "awnser":["Martel"]
+        },        {
+            "prompt":"Who wrote 'Foucault’s Pendulum'? ",
+            "awnser":["Eco"]
+        },        {
+            "prompt":"Who wrote 'The Name of the Rose'? ",
+            "awnser":["Eco"]
+        },        {
+            "prompt":"Who wrote 'Go Set a Watchman,'? ",
+            "awnser":["Lee"]
+        },        {
+            "prompt":"Who wrote 'To Kill a Mockingbird' ",
+            "awnser":["Lee"]
+        },        {
+            "prompt":"Who wrote 'The Water Dancer,'? ",
+            "awnser":["Coates"]
+        },        {
+            "prompt":"Who wrote 'Between the World and Me'? ",
+            "awnser":["Coates"]
+        },        {
+            "prompt":"Who wrote 'The Nickel Boys' ",
+            "awnser":["Whitehead"]
+        },        {
+            "prompt":"Who wrote 'The Underground Railroad' ",
+            "awnser":["Whitehead"]
+        }              
+    ]
+
+
+}
