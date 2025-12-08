@@ -1,0 +1,74 @@
+{
+    "title":"World history 1781 - 1815 module one",
+    "questions":[
+        {
+            "prompt":"Who discovers Uranus?",
+            "awnser":["William Herschel","Herschel"]
+        },        {
+            "prompt":"who writes Critiques of Pure Reason?",
+            "awnser":["Immanuel Kant","Kant"]
+        },        {
+            "prompt":"where are culled prisoners sent to in Austraila?",
+            "awnser":["Botaty bay"]
+        },        {
+            "prompt":"this pair makes history by ascending in a hot air balloon",
+            "awnser":["Montgolfer"]
+        },        {
+            "prompt":"Which french climbers scale Mount blanc for the first time?",
+            "awnser":["Jacques Balmart and Michel-Gabriel","Balmart","Michel-Gabriel","Balmart and Michel-Gabriel"]
+        },        {
+            "prompt":"Which french chemist created Gay-Lussac's law?",
+            "awnser":["Charles"]
+        },        {
+            "prompt":"english painter of The Blue Boy, Mr. and Mrs. Andrews, and Mrs. Richard Brinsley Sheridan who dies in 1788",
+            "awnser":["Gainsborough"]
+        },        {
+            "prompt":"Mobs in paris strom what building on july 14",
+            "awnser":["Bastille"]
+        },        {
+            "prompt":"who is executed in the french revolution and created the first modern chemistry texts?",
+            "awnser":["Lavoisier"]
+        },        {
+            "prompt":"who leads the mutiny bount?",
+            "awnser":["Fletcher Christian","Christian"]
+        },        {
+            "prompt":"The mutiny aboard the bounty was against who?",
+            "awnser":["William Bligh"]
+        },        {
+            "prompt":"Who writes about the bounty",
+            "awnser":["Nordoff and James","James","Nordoff"]
+        },        {
+            "prompt":"who beins the industrial revolution in the US",
+            "awnser":["Samuel Slater","Slater"]
+        },        {
+            "prompt":"In which state does Samuel Slater open the first textile mill?",
+            "awnser":["Rhode Island"]
+        },        {
+            "prompt":"who was the first american to circumnavigate the world?",
+            "awnser" : ["Robert Gray","Gray"]
+            },        {
+            "prompt":"which french army officer composes La Maseillaise?",
+            "awnser":["Rouget de Lilse","de lisle "]
+        },        {
+            "prompt":"which palace becomes a public art museam for te first time in 1793?",
+            "awnser":["Lourve"]
+        },        {
+            "prompt":"who invents the semaphore system?",
+            "awnser":["Claude Chappe","Chappe"]
+        },        {
+            "prompt":"who headed the the french commitee of public safety?",
+            "awnser":["Geoges Danton and Maximillien Robspierre","Danton","Robspierre"]
+        },        {
+            "prompt":"who was murdered in his bath by corday?",
+            "awnser":["Jean Paul Marat","Marat"]
+        },        {
+            "prompt":"who murders jean Paul Marat in his bathtub",
+            "awnser":["Corday"]
+        },        {
+            "prompt":"The Death of Marat is a famous painting by who?",
+            "awnser":["Louis David","David"]
+        }       
+    ]
+
+
+}

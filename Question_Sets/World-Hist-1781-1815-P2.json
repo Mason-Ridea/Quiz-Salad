@@ -1,0 +1,62 @@
+{
+    "title":"",
+    "questions":[
+        {
+            "prompt":"who leads hatian slaves to rebel against france?",
+            "awnser":["l'overture"]
+        },{
+            "prompt":"what will rule france until 1799?",
+            "awnser":["The Directory"]
+        },        {
+            "prompt":"who does napoleon marry?",
+            "awnser":["Josephie de Beauhamais","Beauhamais"]
+        },        {
+            "prompt":"who is the czar of russia after Catherine the great?",
+            "awnser":["Paul I"]
+        },        {
+            "prompt":"Who becomes the first european to reach the western african interior",
+            "awnser":["Mungo Park","Park"]
+        },        {
+            "prompt":"Who creates a vaccine against smallpox",
+            "awnser":["Edward Jenner","Jenner"]
+        },        {
+            "prompt":"scottish poet who published My Luve is like a Red, Red Rose and auid lang syne",
+            "awnser":["Robert Burns","Burns"]
+        },        {
+            "prompt":"who publishes The Rime of the Ancient Mariner",
+            "awnser":["Coleridge"]
+        },        {
+            "prompt":"Who publishes Lines written a few miles above tintern abbey?",
+            "awnser":["Wordsworth"]
+        },        {
+            "prompt":"Who publishes Essay on the Principles of Population",
+            "awnser":["Malthus"]
+        },        {
+            "prompt":"which rock has translation between Hieroglyphics and Ancient Greek",
+            "awnser":["Rosetta Stone"]
+        },        {
+            "prompt":"who explores the Orinoco River and establishes a water link between the Orinoco and the Amazon",
+            "awnser":["Alexander von Humboldt","von Humboldt"]
+        },        {
+            "prompt":"who pioneers the electric battery?",
+            "awnser":["Alessandro Volta","Volta"]
+        },        {
+            "prompt":"the absolute legend who wins a battle against the danish and ignores a command to retreats",
+            "awnser":["Hyde Parker","Parker"]
+        },        {
+            "prompt":"who discovers infrared rays",
+            "awnser":["Herchel"]
+        },        {
+            "prompt":"who did napoleon send to put down the rebellion in haiti",
+            "awnser":["Leelere"]
+        },        {
+            "prompt":"who finds the elin marbles",
+            "awnser":["Burce"]
+        },        {
+            "prompt":"who opens a wax museum?",
+            "awnser":["Tussaud"]
+        }
+    ]
+
+
+}
