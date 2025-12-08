@@ -11,7 +11,7 @@ const PlayingBoard = document.getElementById("board");
 const awnserBox = document.getElementById("awnser");
 const streakDisplay = document.getElementById("streak");
 const RevealText = document.getElementById("reveal");
-const startingFile = "America_Hist_1712-90_p1.json";
+const startingFile = "World-Hist-1781-1815-P3.json";
 //creates the decks which will be used later
 let PlayingDeck = new deck();
 let FailDeck =  new deck();
