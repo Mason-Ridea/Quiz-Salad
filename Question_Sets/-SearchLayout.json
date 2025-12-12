@@ -19,7 +19,9 @@
             "World History 1781-1815 (1.)" : "World-Hist-1781-1815-P1.json",
             "World History 1781-1815 (2.)" : "World-Hist-1781-1815-P2.json",
             "World History 1781-1815 (3.)" : "World-Hist-1781-1815-P3.json"
-        }
+        },
+        "Historical Treaties (1.)" : "Treaties_and_conferences_1.json",
+        "Historical Conferences (1.)": "World_War_II_conferences.json"
     },
     
 

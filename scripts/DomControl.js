@@ -58,7 +58,6 @@ export async function startFromFile(filename){
             DestructableDeck = new deck();
             currentStreak = 0;
             PlayingDeck.parseDataToCards(data);
-            //console.log(PlayingDeck)
             //starts the entire quizing loop
             drawNextCard();
         })

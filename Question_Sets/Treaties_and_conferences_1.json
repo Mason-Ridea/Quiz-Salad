@@ -27,12 +27,12 @@
             "awnser":["Treaty of Paris","Paris"]
         },        {
             "prompt":"which treaty made great britian relinquish border posts in canada",
-            "awnser":["Jay Treaty"]
+            "awnser":["Jay Treaty","Jay"]
         },        {
             "prompt":"which treaty ended the war of 1812 and became before the battle of new orleans",
             "awnser":["Treaty of Ghent","Ghent"]
         },        {
-            "prompt":"which treaty set a peace plan for europe after the napoleonic war",
+            "prompt":"which Congress set a peace plan for europe after the napoleonic war",
             "awnser":["Congress of Vienna","Vienna"]
         },        {
             "prompt":"which treaty ended the war between france and other european countries and exiled napoleon to Italy",
