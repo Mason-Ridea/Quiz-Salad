@@ -1,0 +1,98 @@
+{
+    "title":"Treaties and conferences Module 1",
+    "questions":[
+        {
+            "prompt":"which treaty divides the globe between spain and portugal?",
+            "awnser":["Treaty of Tordesillas","Tordesillas"]
+        },        {
+            "prompt":"which edict was issued by Henry IV to protect the huguenots",
+            "awnser":["Edict of Nantes","Nantes"]
+        },        {
+            "prompt":"When this edict was repealled there was a protestent exodus",
+            "awnser":["Edict of Nantes","Nantes"]
+        },        {
+            "prompt":"which treaty ended the thirty year war",
+            "awnser":["Treaty of Westphalia","Westphalia"]
+        },        {
+            "prompt":"which treaty ended the War of Spanish Succession",
+            "awnser":["Treaty of Utrecht","Utrecht"]
+        },        {
+            "prompt":"which treaty ended the War of Austrian Succession",
+            "awnser":["Aix-La-Chapelle","Chapelle"]
+        },        {
+            "prompt":"which treaty ended the french and indian war",
+            "awnser":["Treaty of Paris","Paris"]
+        },        {
+            "prompt":"which treaty ended the revultionary war",
+            "awnser":["Treaty of Paris","Paris"]
+        },        {
+            "prompt":"which treaty made great britian relinquish border posts in canada",
+            "awnser":["Jay Treaty"]
+        },        {
+            "prompt":"which treaty ended the war of 1812 and became before the battle of new orleans",
+            "awnser":["Treaty of Ghent","Ghent"]
+        },        {
+            "prompt":"which treaty set a peace plan for europe after the napoleonic war",
+            "awnser":["Congress of Vienna","Vienna"]
+        },        {
+            "prompt":"which treaty ended the war between france and other european countries and exiled napoleon to Italy",
+            "awnser":["Treaty of Fontainebleau","Fontainebleau"]
+        },        {
+            "prompt":"which treaty delimited the eastern section of the Canadian/U.S. boundary",
+            "awnser":["Webster-Ashburton","webster","Ashburton"]
+        },        {
+            "prompt":"which treaty ended the mexican american war and ceded a lot of land to new mexico",
+            "awnser":["Guadalupe-Hidalgo","Guadalupe","Hidalgo"]
+        },        {
+            "prompt":"which meeting decided on how to peacefully divide africa between european countries and was championed by bismarck",
+            "awnser":["Berlin Conference of 1884","Berlin Conference","Berlin"]
+        },        {
+            "prompt":"Which treaty ended the franco-prussian war between Prussia and France",
+            "awnser":["Frankfurt am main","frankfurt"]
+        },        {
+            "prompt":"which treaty ended the Spanish-American war",
+            "awnser":["Treaty of Paris","Paris"]
+        },        {
+            "prompt":"which treaty allowed the US to build a canal across panama during Teddy Roosevelts first year of presidency",
+            "awnser":["Hay-Paunceforte","Paunceforte","hay"]
+        },        {
+            "prompt":"which treaty ended the Boer War",
+            "awnser":["Treaty of Vereenging","Vereenging"]
+        },        {
+            "prompt":"which treaty ended the Russio-Jappenese war and was negtioned with Roosevelt as an intermediary",
+            "awnser":["Treaty of Portsmouth","Portsmouth"]
+        },        {
+            "prompt":"which treaty allowed Russia to withdraw from hostilties against Germany",
+            "awnser":["Brest-Litovsk","Bresk","Litovsk"]
+        },        {
+            "prompt":"which treaty marked the surrender of germany in WWI which the us was unable to join, and also started the league of nations",
+            "awnser":["Treaty of Versailles","Versailles"]
+        },        {
+            "prompt":"which pact declared that war would not be used as a componet of national policy",
+            "awnser":["Kellogg-Briand Pact","Kellogg-Briand","Kellogg","Briand"]
+        },        {
+            "prompt":"which treaty created the independent country fo Vatican City",
+            "awnser":["Lateran Treaty","Lateran"]
+        },        {
+            "prompt":"which pact was between England and Germany and made chamberlain proclaim that he secured 'peace in our time'",
+            "awnser":["Munich Pact","Munich"]
+        },        {
+            "prompt":"which treaty was a non-agression pact between Germany and the USSR",
+            "awnser":["Molotoc-Ribbentrop Pact","Molotoc-Ribbentrop","Molotoc","Ribbentrop"]
+        },        {
+            "prompt":"which treaty was a peace deal between isreal and egypt after a meeting with Jimmy carter",
+            "awnser":["Camp David Accords","Camp David"]
+        },        {
+            "prompt":"which treaty removed trade barriers between the US, Canada, Mexico and succeeded USMCA",
+            "awnser":["North American Free Trade Agreemend(NAFTA)","North American Free Trade Agreemend","NAFTA"]
+        },        {
+            "prompt":"which agreement was a global effort to lower greenhouse gasses which the US withdrew from in 2017",
+            "awnser":["Paris Climate Agreement","Paris"]
+        },        {
+            "prompt":"what is the withdrawl of Great Britain from the European Union commonly known as",
+            "awnser":["Brexit"]
+        }
+    ]
+
+
+}

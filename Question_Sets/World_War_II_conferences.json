@@ -1,0 +1,29 @@
+{
+    "title":"World_War_II_conferences",
+    "questions":[
+        {
+            "prompt":"What is the policy signed by churchill and Roosevelt on board USS agusta prior to US entry into WWII",
+            "awnser":["Atlantic Charter"]
+        },{
+            "prompt":"Meeting with Roosevelt, Churchill, and de Gualle",
+            "awnser":["Casablanca, Morocco","Casablanca"]
+        },        {
+            "prompt":"meeting with Roosevelt, Churchill, and Chiang Kai-Shek",
+            "awnser":["Cairo conference","Cairo, eygpt","Cairo"]
+        },        {
+            "prompt":"First meeting of Churchill, Stalin, and roosevelt",
+            "awnser":["Yalta Conference","Yalta, Crimea","Yalta"]
+        },        {
+            "prompt":"conference between Truman Stalin and Churchill (later replaced by atlee)",
+            "awnser":["Potsdam conference","Potsdam, germany","potsdam"]
+        },        {
+            "prompt":"that conference in the US which the formulated which the UN Charter",
+            "awnser":["Dumbarton Oaks Conference","Dumbarton Oaks","Dumbarton"]
+        },        {
+            "prompt":"which conference in new england set up the postwar financial order and was the brainchild of John Maynard Keynes",
+            "awnser":["Bretton Woods Conference","Bretton Woods"]
+        }
+    ]
+
+
+}
