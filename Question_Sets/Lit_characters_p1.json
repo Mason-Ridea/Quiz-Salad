@@ -17,16 +17,16 @@
             "prompt":"C. Auguste Dupin is a character from what work?",
             "awnser":["The Purlonined letter","Purloined"]
         },        {
-            "prompt":"Ichabod Crane, Katrina Van Tassel, Brom Bones, The headless Horseman are all of these characters are from what work?",
+            "prompt":"Ichabod Crane, Katrina Van Tassel, Brom Bones, The headless Horseman all of these characters are from what work?",
             "awnser":["Legend of Sleepy Hollow","Sleepy Hollow"]
         },        {
-            "prompt":"Rip, Wolf(his dog), and Hendrick Hudson are all of these characters are from what work?",
+            "prompt":"Rip, Wolf(his dog), and Hendrick Hudson are all of these characters from what work?",
             "awnser":["Rip Van Winkle"]
         },        {
             "prompt":"Hester Prynne, Roger Chillingworth, Arthur Dimmesdale, Pearl are all of these characters are from what work?",
             "awnser":["The Scarlet Letter"]
         },        {
-            "prompt":"The pyncheon family, and Matthew maule are all of these characters are from what work?",
+            "prompt":"The Pyncheon family, and Matthew maule are all of these characters are from what work?",
             "awnser":["The House of the Seven Gables","Gables"]
         },        {
             "prompt":"Billy, Captain Vere, John Claggart are all of these characters are from what work?",
@@ -56,7 +56,7 @@
             "prompt":"Alice, The White Rabbit, The Queen of Hearts, The Cheshire Cat, the Mad Hatter, the ~6lE:loyse, and The March Hare are all of these characters are from what work?",
             "awnser":["Alice in Wonderland"]
         },        {
-            "prompt":"Alice, The White Kitten, '[.weedledee and Tweedledum, and Humpty Dumpty are all of these characters are from what work?",
+            "prompt":"Alice, The White Kitten, Tweedledee and Tweedledum, and Humpty Dumpty are all of these characters are from what work?",
             "awnser":["Through the looking glass"]
         },        {
             "prompt":"The Governess, Miles, Flora, Peter Quint, Miss Jessel are all of these characters are from what work?",
@@ -136,8 +136,7 @@
         },        {
             "prompt":"Frederic Henry, Catherine Barkley, and Lt. Rinaldi are all of these characters are from what work?",
             "awnser":["A Farewell to Arms"]
-        },
-        {
+        },        {
             "prompt":"Santiago and Manolin are all characters from what work?",
             "awnser":["The Old Man and the Sea"]
         },        {
@@ -159,7 +158,7 @@
             "prompt":"Willy Loman, Linda Loman, Blff, and Happy are all characters from what work?",
             "awnser":["Death of a salesman"]
         },        {
-            "prompt":"John Proetor, Ehzaf)eth Proctor, Abigail, Rev. Parris, Judge Danforth, Tituba are all characters from what work?",
+            "prompt":"John Proetor, Elizabeth Proctor, Abigail, Rev. Parris, Judge Danforth, Tituba are all characters from what work?",
             "awnser":["The Crucible"]
         }      
     ]
