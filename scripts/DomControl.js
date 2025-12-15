@@ -27,7 +27,9 @@ const streakBenchmarkColors = {
     15: 0xb8580f,
     20: 0xc79b22,
     25: 0x78bf3d,
-    30: 0x1cba29
+    30: 0x1cba29,
+    50: 0xa56ad9,
+    100: 0xff8ff0, // congrats to zoe for getting the first 100 streak! (her recommendation)
 }  
 let currentCard;
 let placeholderCardfront; //for the placeholder cardfront
@@ -114,16 +116,18 @@ function returnCardsToPlayingDeck() {
 function drawNextCard(){
     currentCard = PlayingDeck.pushNextCardToBoard(PlayingBoard)
     if(!currentCard){
-        awnserBox.style.display = "none";
+        //awnserBox.style.display = "none";
         setTimeout(() =>{
             returnCardsToPlayingDeck();
         },1450);
     }
     else{
+        /*
         awnserBox.style.display = "none"
         setTimeout( () =>{
             awnserBox.style.display = "block"
         },1450);
+        */
     }
 }
 window.onload = async function(){

@@ -1,0 +1,168 @@
+{
+    "title":"",
+    "questions":[
+        {
+            "prompt":"Ebenezer Scrooge, Tiny Tim, and Bob Cratchit are all of these characters are from what work?",
+            "awnser":["A Chrismas Carol"]
+        },        {
+            "prompt":"Samuell Pickwick, Nathaniel Winkle, Augustus Snodgrass, Mr. Wardle,Sam Weller are all of these characters are from what work?",
+            "awnser":["The Pickwick Papers"]
+        },        {
+            "prompt":"Nicholas, Kate Nickleby, and Smike are all of these characters are from what work?",
+            "awnser":["Nicholas Nickleby"]
+        },        {
+            "prompt":"Roderick Usher, Madeleine, and Narrator are all of these characters are from what work?",
+            "awnser":["Fall of the house of Usher","House Of Usher"]
+        },        {
+            "prompt":"C. Auguste Dupin is a character from what work?",
+            "awnser":["The Purlonined letter","Purloined"]
+        },        {
+            "prompt":"Ichabod Crane, Katrina Van Tassel, Brom Bones, The headless Horseman are all of these characters are from what work?",
+            "awnser":["Legend of Sleepy Hollow","Sleepy Hollow"]
+        },        {
+            "prompt":"Rip, Wolf(his dog), and Hendrick Hudson are all of these characters are from what work?",
+            "awnser":["Rip Van Winkle"]
+        },        {
+            "prompt":"Hester Prynne, Roger Chillingworth, Arthur Dimmesdale, Pearl are all of these characters are from what work?",
+            "awnser":["The Scarlet Letter"]
+        },        {
+            "prompt":"The pyncheon family, and Matthew maule are all of these characters are from what work?",
+            "awnser":["The House of the Seven Gables","Gables"]
+        },        {
+            "prompt":"Billy, Captain Vere, John Claggart are all of these characters are from what work?",
+            "awnser":["Billy Budd"]
+        },        {
+            "prompt":"Captaain Ahab, Ishmael, Starbuck, and Queequeq are all of these characters are from what work?",
+            "awnser":["Moby dick"]
+        },        {
+            "prompt":"Emma Bovary, Charles Bovary, and Rodolphe Boulanger are all of these characters are from what work?",
+            "awnser":["Madame Bovery","Bovery"]
+        },        {
+            "prompt":"Huck, Jim, Tom Sawyer, Pap, The Widow Douglas, and Aunt Polly are all of these characters are from what work?",
+            "awnser":["The Adventures of Huckleberry Finn","Huckleberry finn"]
+        },        {
+            "prompt":"Tom, Aunt Polly, Becky Thatcher, Injun Joe, and Huck Finn are all of these characters are from what work?",
+            "awnser":["The Adventures of Tom Sawyer","Tom Sawyer"," Adventures of Tom Sawyer"]
+        },        {
+            "prompt":"Henry Fleming, Wilson, Jim Conklin are all of these characters are from what work?",
+            "awnser":["The Red Badge of Courage","Red Badge of Courage","Red badge"]
+        },        {
+            "prompt":"Clem Yeobright and Eustacia Vye are all of these characters are from what work?",
+            "awnser":["Return of the Native"]
+        },        {
+            "prompt":"Tess Durbeyfield, Angel Clare, and Alec D'Urberville are all of these characters are from what work?",
+            "awnser":["Tess of the D'Urbervilles","Tess"]
+        },        {
+            "prompt":"Alice, The White Rabbit, The Queen of Hearts, The Cheshire Cat, the Mad Hatter, the ~6lE:loyse, and The March Hare are all of these characters are from what work?",
+            "awnser":["Alice in Wonderland"]
+        },        {
+            "prompt":"Alice, The White Kitten, '[.weedledee and Tweedledum, and Humpty Dumpty are all of these characters are from what work?",
+            "awnser":["Through the looking glass"]
+        },        {
+            "prompt":"The Governess, Miles, Flora, Peter Quint, Miss Jessel are all of these characters are from what work?",
+            "awnser":["The Turn of the Screw"]
+        },        {
+            "prompt":"David Balfoyr, Captain Hoseason, Alan Stewart are all of these characters are from what work?",
+            "awnser":["Kidnapped"]
+        },        {
+            "prompt":"Jim Hawkins, Captain Smollett, Long Tohn Silver, and Benn Gunn are all of these characters are from what work?",
+            "awnser":["Treasure Island"]
+        },        {
+            "prompt":"Anna, Count Alexey Vronsky, and Alexei Karenina are all of these characters are from what work?",
+            "awnser":["Anna Karenina"]
+        },        {
+            "prompt":"Fyodor Karamazov, Dmitri Karamazov, Ivan Karamazov, and Alexey Karamazov are all of these characters are from what work?",
+            "awnser":["The Brothers Karamazov","Karamazov"]
+        },        {
+            "prompt":"Rodoin Raskolnikoy is all a character from what work?",
+            "awnser":["Crime and Punishment"]
+        },        {
+            "prompt":"Captain Nemo, Pierre Aronnax, Ned Land are all of these characters are from what work?",
+            "awnser":["20000 Leagues under the sea","20,000 leagues"]
+        },        {
+            "prompt":"Cyrano, Roxane, Ragueneau are all of these characters are from what work?",
+            "awnser":["Cyrano de Bergerac","de Bergerac"]
+        },        {
+            "prompt":"Isabel Archer, Gilbert Osmand, Madame Merle are all of these characters are from what work?",
+            "awnser":["The Portrait of a Lady","Portrait of a Lady","POL"]
+        },        {
+            "prompt":"Buck (the dog) and John Thornton are all of these characters are from what work?",
+            "awnser":["Call of the wild"]
+        },        {
+            "prompt":"Count Dracula, Jonathan Harker, and Dr. Van Helsing are all of these characters are from what work?",
+            "awnser":["Dracula"]
+        },        {
+            "prompt":"Marlow and Mr. Kurtz are all of these characters are from what work?",
+            "awnser":["Heart of Darkness"]
+        },        {
+            "prompt":"Fletcher chirstian and Captain Bligh are all of these characters are from what work?",
+            "awnser":["Mutiny on the Bounty"]
+        },        {
+            "prompt":"Antonia Shimerda, and Jim Burden are all of these characters are from what work?",
+            "awnser":["My Antonia"]
+        },        {
+            "prompt":"Ethan, Zenobia, and Mattie Silver are all of these characters are from what work?",
+            "awnser":["Ethan Frome"]
+        },        {
+            "prompt":"stephen Dedalus is a character from what work?",
+            "awnser":["Portrait of the Artist as a Young Man","Young man"]
+        },        {
+            "prompt":"Stephen Dedalus, Leopold Bloom, and Buck Mulligan are all of these characters are from what work?",
+            "awnser":["Ulysses"]
+        },        {
+            "prompt":"Nick Carraway, Gatsby, Tom Buchanan, Daisy Buchanan, and Myrtle Wilson are all of these characters are from what work?",
+            "awnser":["The Great Gatsby"]
+        },        {
+            "prompt":"Carol Kennecott, Dr. Will Kennicott, Guy Pollock are all of these characters are from what work?",
+            "awnser":["Main Street"]
+        },        {
+            "prompt":"George Babbitt, Myra Babbitt, Verona Babbitt, and Theodore Babbitt are all of these characters are from what work?",
+            "awnser":["Babbitt"]
+        },        {
+            "prompt":"Wang Lung, a-Ian, and Nung En are all of these characters are from what work?",
+            "awnser":["The Good Earth","Good Earth"]
+        },        {
+            "prompt":"Vladimir, Estragon, Pozzo, and Lucky, are all of these characters are from what work?",
+            "awnser":["Waiting for Godot","Godot"]
+        },        {
+            "prompt":"Lennie, George, Curley, Crooks, Candy are all of these characters are from what work?",
+            "awnser":["Of Mice and Men"]
+        },        {
+            "prompt":"Tom Joad, Ma Joad, Rose of Sharon, and Jim Casy are all of these characters are from what work?",
+            "awnser":["The Grapes Of Wrath"]
+        },        {
+            "prompt":"Adam Trask and Cathy Ames are all of these characters are from what work?",
+            "awnser":["East of Eden"]
+        },        {
+            "prompt":"Frederic Henry, Catherine Barkley, and Lt. Rinaldi are all of these characters are from what work?",
+            "awnser":["A Farewell to Arms"]
+        },
+        {
+            "prompt":"Santiago and Manolin are all characters from what work?",
+            "awnser":["The Old Man and the Sea"]
+        },        {
+            "prompt":"Robert Jordan. Maria, Pilar, Pablo are all characters from what work?",
+            "awnser":["For Whom the Bell Tolls"]
+        },        {
+            "prompt":"Major Joppolo are all characters from what work?",
+            "awnser":["A Bell for Adano"]
+        },        {
+            "prompt":"The Stage Manager, Emily Webb, George Gibbs, Mr. Webb, Mr. Gibbs are all characters from what work?",
+            "awnser":["Our Town"]
+        },        {
+            "prompt":"Tom Wingfield, Laura Wingfield, Amanda Wingfield, Jim O'Connor are all characters from what work?",
+            "awnser":["The Glass Menagerie"]
+        },        {
+            "prompt":"Winston Smith, Julia, and Big Brother are all characters from what work?",
+            "awnser":["Nineteen-Eigthy-Four","1984"]
+        },        {
+            "prompt":"Willy Loman, Linda Loman, Blff, and Happy are all characters from what work?",
+            "awnser":["Death of a salesman"]
+        },        {
+            "prompt":"John Proetor, Ehzaf)eth Proctor, Abigail, Rev. Parris, Judge Danforth, Tituba are all characters from what work?",
+            "awnser":["The Crucible"]
+        }      
+    ]
+
+
+}

@@ -4,7 +4,9 @@
         "British poetry (2.)" : "Brit-poem-2.json",
         "British poetry (3.)" : "Brit-poem-3.json",
         "Modern Literature (1.)":"Modern-Literature-p1.json",
-        "Modern Literature (2.)":"Modern-Literature-p2.json"
+        "Modern Literature (2.)":"Modern-Literature-p2.json",
+        "Literature Characters(1.)":"Lit_characters_p1.json",
+        "Literature Characters(2.)":"Lit_characters_p2.json"
     },
     "History (-)": {
         "American History (-)" : {

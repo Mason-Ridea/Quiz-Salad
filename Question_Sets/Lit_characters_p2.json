@@ -1,0 +1,143 @@
+{
+    "title":"Characters in literature",
+    "questions":[
+        {
+            "prompt":"Achilles, Hector, Agamemnon, Menelaus, Helen, Paris, Patroclus, and Odyseeus are all characters of what epic?",
+            "awnser":["The Iliad","Iliad"]
+        },{
+            "prompt":"Odysseus, Penelope, Telemachus, Polyphemus, and Circe are all characters of what epic",
+            "awnser":["The Odyssey","Odyssey"]
+        },        {
+            "prompt":"Aeneas, Dido, and Anchises are all charcters of what epic?",
+            "awnser":["The Aeneid","Aeneid"]
+        },        {
+            "prompt":"Gilgamesh, Engidu, and Utnapishtim are all characters of what work?",
+            "awnser":["The Epic of Gilgamesh","Gilgamesh"]
+        },        {
+            "prompt":"Oedipus, Creon, Tiresius, Laius, and Jocasta are all characters of what work??",
+            "awnser":["Oedipus Rex"]
+        },        {
+            "prompt":"Agamemnon, Clytemnestra, Cassandra, and Aegisthus are all characters of what work?",
+            "awnser":["Agamemnon"]
+        },        {
+            "prompt":"Antigone, Creon, Ismene, Eteocles, and Polynices are all characters of what work?",
+            "awnser":["Antigone"]
+        },        {
+            "prompt":"Medea, Jason, Creon, and Aegeus are all characters of what work?",
+            "awnser":["Medea"]
+        },        {
+            "prompt":"Scheherazade, Sinbad, Ali Baba, and Aladdin are all characters of epic",
+            "awnser":["The Thousandand One Nights","1001 nights","1001"]
+        },        {
+            "prompt":"Dante, beatrice, and virgil are all characters of what work?",
+            "awnser":["The Divine Comedy","Divine Comedy"]
+        },        {
+            "prompt":"Wife of Bath, The Nun's Priest, The Parson, The Miller, and The Pardoner, are all characters of what work?",
+            "awnser":["The Canterbury tale","Canterbury tale","Canterbury"]
+        },        {
+            "prompt":"King Arthur, Guenivere, Lancelot, and Merlin are all characters of what work?",
+            "awnser":["Le morte D'Arthur","D'Arthur"]
+        },        {
+            "prompt":"Faustus, Mephitophilis, and Lucifer are all characters of what work?",
+            "awnser":["Doctor Faustus","Dr. Faustus", "Dr Faustus", "Faustus"]
+        },        {
+            "prompt":"Adam, Eve, Satan, and Beelzebub are all characters of what work?",
+            "awnser":["Paradise lost"]
+        },        {
+            "prompt":"Don Quixote, Sancho Panza, and Rocinante (DQ's horse) are all characters of what work?",
+            "awnser":["Don Quixote"]
+        },        {
+            "prompt":"Antipholus of Syracuse, Antipholus of Ephesus, Dromio of Syracuse, and Dromio of Ephesus are all characters of what work?",
+            "awnser":["The Comedy of Errors", "Comedy of errors", "coe"]
+        },        {
+            "prompt":"Duke Orsino, Olivia, Viola, Sebastian, Malvolio, Sir Toby Belch, and Sir Andrew Aguecheek are all characters of what work?",
+            "awnser":["Twelfth Night"]
+        },        {
+            "prompt":"Romeo, juliet, Tybalt, Mercutio, Paris, Friar Laurence, and Nurse are all characters of what work?",
+            "awnser":["Roemo and Juliet","RJ"]
+        },        {
+            "prompt":"Julius, Calpurnia, Brutus, Portia, and Cassills are all characters of what work?",
+            "awnser":["Julius Caeser"]
+        },        {
+            "prompt":"Hamlet, laudius, Gertrude, Horatio, Rosencrantz, Guildenstern, Polonius, Laertes, Ophelia, Fortinbras all characters of what work?",
+            "awnser":["Hamlet"]
+        },        {
+            "prompt":"King Richard II, Henry Bolingbroke, John of Gaunt, and Edmund of Langley are all characters of what work?",
+            "awnser":["Richard II"]
+        },        {
+            "prompt":"Othello, Iago, and Desdemona are all characters of what work?",
+            "awnser":["Othello"]
+        },        {
+            "prompt":"Lear, Cordelia, Goneril, Regan, Edgar, Edmund are all characters of what work?",
+            "awnser":["King Lear","Lear","KL"]
+        },        {
+            "prompt":"Lady Macbeth, Duncun, Banquo, Macduff, and Three Witches are all characters of what work?",
+            "awnser":["Macbeth"]
+        },        {
+            "prompt":"Henry IV, Prince Hal, Falstaff, and Hotspur are all characters of what work?",
+            "awnser":["Henry IV: Part One","Henry IV","Henry 4","Henry the fourth"]
+        },        {
+            "prompt":"Propero, Miranda, Ferdinand, and Caliban, and Ariel are all characters of what work?",
+            "awnser":["The Tempest","Tempest"]
+        },        {
+            "prompt":"Antonio, Shylock, and Portia are all characters of what work?",
+            "awnser":["The Merchant of Venice","Venice"]
+        },        {
+            "prompt":"Katherina, Petruchio, and Bianca are all characters of what work?",
+            "awnser":["The Taming of the Shrew","Shrew"]
+        },        {
+            "prompt":"Theseus, Hippolyta, Bottom, Robin Goodfellow (Puck), Oberon, and Titania are all characters of what work?",
+            "awnser":["A Misummer Night's Dream","Dream"]
+        },        {
+            "prompt":"Gloriana, Prince Arthur, and Red Cross Knight are all characters of what work?",
+            "awnser":["The Fairie Queen"]
+        },        {
+            "prompt":"Lemue Gillver, and the Lilliputians are all characters of what work?",
+            "awnser":["Gulliver's Travels","Gulliver"]
+        },        {
+            "prompt":"Candide, cunegonde, and pangloss are all characters of what work?",
+            "awnser":["Candide"]
+        },{
+            "prompt":"Robinson Crusoe Friday are all characters of what work?",
+            "awnser":["Robinson Crusoe","crusoe"]
+        },{
+            "prompt":"Victor Frankenstein and Robert Walton are all characters of what work?",
+            "awnser":["Frankenstein"]
+        },{
+            "prompt":"Quasimodo and esmerelda are all characters of what work?",
+            "awnser":["The Hunchback of Notre Dame","Hunchback"]
+        },{
+            "prompt":"Jean Valjeap, M. Javert, Fantine, Cosette, and Eponine are all characters of what work?",
+            "awnser":["Les Miserables","Miserables"]
+        },{
+            "prompt":"Cedric the Saxon, Wilfred of Ivanhoe, and Lady Rowena are all characters of what work?",
+            "awnser":["Ivanhoe"]
+        },{
+            "prompt":"Jane, Edward Rochester, Mrs. Fairfax, and Bertha Rochester are all characters of what work?",
+            "awnser":["Jane Eyre"]
+        },{
+            "prompt":"Elizabeth Bennet, Fitzwilliam Darcy, and Mr. Bingley are all characters of what work?",
+            "awnser":["Pride and Prejudice","Prejudice"]
+        },{
+            "prompt":"Heathcliff, Catherine Earnshaw, and Mr. Lockwood are all characters of what work?",
+            "awnser":["Wuthering Heights"]
+        },{
+            "prompt":"Meg, Jo, Beth and Amy march are all characters of what work?",
+            "awnser":["Little Women"]
+        },{
+            "prompt":"Silas, Eppie, GodfreyCass, and Dunstan Cass are all characters of what work?",
+            "awnser":["Silas Marner"]
+        },{
+            "prompt":"Natty Bumggo, Chingachgook, and Uncas are all characters of what work?",
+            "awnser":["Last of the Mohicans","Mohicans"]
+        },{
+            "prompt":"David, Edward Murdstone, Clara Pegofty, Uriah Heep, Mr. Micawber, Mr.Wickfield are all characters of what work?",
+            "awnser":["David Copperfield"]
+        },{
+            "prompt":"Philip Pirrip (Pip), Miss Havisham, Estella, and Abel Magwitch are all characters of what work?",
+            "awnser":["Great Expectations","Expectations"]
+        }
+    ]
+
+
+}
