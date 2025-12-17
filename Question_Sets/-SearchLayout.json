@@ -25,8 +25,6 @@
         "Historical Treaties (1.)" : "Treaties_and_conferences_1.json",
         "Historical Conferences (1.)": "World_War_II_conferences.json"
     },
-    
-
     "Arts and culture (-)":{
         "Mythology (-)" : {
             "Myth 2 (1.)": "Myth_2_p1.json",
@@ -39,9 +37,10 @@
             "Music History 2 (3.)" : "Music-hist-3.json" 
         }
     },
-
     "Geography (-)":{},
-
+    "Science (-)":{
+        "Nobel Prizes(1.)" : "Nobel-prize.json"
+    },
     "Spanish langauge (-)":{
         "Spanish vocabulary one" : "Spanish-basic-vocab-1.json"
     }

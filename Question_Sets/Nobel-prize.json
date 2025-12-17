@@ -1,0 +1,95 @@
+{
+    "title":"Nobel Prize winners",
+    "questions":[
+        {
+            "prompt":"1906 - Who won the nobel peace prize for negotiating the treaty of Portsmouth",
+            "awnser":["Theodore Roosevelt","Teddy Roosevelt","Roosevelt"]
+        },        {
+            "prompt":"Won the nobel peace prize in 1919 and gave a 'fourteen points speech' wherein he proposed the league of nations",
+            "awnser":["Woodrew Wilson","Wilson"]
+        },        {
+            "prompt":"Won the nobel prize for physics in 1921 for his discovery of the photoelectric effect, later would found the theory of relativity",
+            "awnser":["Albert Einstein","Einstein"]
+        },        {
+            "prompt":"Who won the nobel prize for peace in 1929 for this pact which prevent the use of war as international policy",
+            "awnser":["Frank Kellogg","Kellogg"]
+        },        {
+            "prompt":"The first American women to win a nobel prize(peace, 1936) founded the hull house and lead the Women’s International League for Peace",
+            "awnser":["Jane Addams","Addams"]
+        },        {
+            "prompt":"Babbit, Main street, Arrowstreet, and Elmer Gantry were the books which earned this man the nobel prize for literature in 1931",
+            "awnser":["Sinclair Lewis","Lewis"]
+        },        {
+            "prompt":"The Emperor Jones, Mourning becomes Electra, The Iceman Cometh, and A Long Day’s Journey into Night were the books which earned this man the nobel prize for literature in 1936",
+            "awnser":["Eugene O'neill","O'neill"]
+        },        {
+            "prompt":"Wrote The Good Earth and a cookbook were the books which earned this woman the nobel prize for literature in 1938",
+            "awnser":["Pearl Buck","Buck"]
+        },        {
+            "prompt":"Former secretary of state which earned the nobel peace prize in 1945 for contributing to the founding of the United Nation",
+            "awnser":["Cordell Hull","Hull"]
+        },        {
+            "prompt":"This committee was rewarded the nobel peace prize in 1947 for their efforts in asia",
+            "awnser":["Quakers"]
+        },        {
+            "prompt":"The Sound and the Fury, As I Lay Dying, Light in August, Absalom, Absalom, and The Reivers were were the books which earned this man the nobel prize for literature in 1949",
+            "awnser":["Wililiam Faulkner","Faulkner"]
+        },        {
+            "prompt":"Won the Nobel Chemistry prize in 1949 for their discoveries in the transuranium elements and has the 106th element named after them",
+            "awnser":["Seaborg"]
+        },        {
+            "prompt":"aided europe with his plan, along with being the general president of the Red Cross, earned this man the nobel peace prize in 1951",
+            "awnser":["Marshall"]
+        },        {
+            "prompt":"Only person to individually win two nobel prizes and won one for chemistry in 1954 for his reaseach into the nature of chemical bonds",
+            "awnser":["Linus Pauling","Pauling"]
+        },        {
+            "prompt":"The Sun Also Rises, A Farewell to Arms, The Old Man and the Sea, and For Whom the Bell Tolls earned this man a Nobel Prize in 1954",
+            "awnser":["Earnest Hemmingway","Hemmingway"]
+        },        {
+            "prompt":"Of Mice and Men, The Grapes of Wrath, Travels with Charley, East of Eden, The Pearl, The Red Pony(short story), Cannery Row, and Tortilla Flat earned this man a Nobel Prize in 1962",
+            "awnser":["John Steinbeck","Steinbeck"]
+        },        {
+            "prompt":"This woman won a nobel in medicene in 1962 for discovering the double helix structure of DNA",
+            "awnser":["Maurice Wilkins","Wilkins"]
+        },        {
+            "prompt":"Awarded the nobel peace prize in 1964 for his efforts in fight segregation and promoting civil rights",
+            "awnser":["Martin Luther King jr","MLK Jr", "MLK"]
+        },        {
+            "prompt":"Won the nobel peace prize in 1962 Worked with world leaders to negotiate the Nuclear Test Ban Treaty of 1963, only person to win two award independly",
+            "awnser":["Linus Pauling","Pauling"]
+        },        {
+            "prompt":"Who was the secretary of state who negotiated the ceasefire with vietnam",
+            "awnser":["Henry Kissinger","Kissinger"]
+        },        {
+            "prompt":"who suceeded in the science field despite being a woman and earned a nobel prize for medicene in 1973 for the discovery of mobile genetic element",
+            "awnser":["Barbara McClintock","McClintock"]
+        },        {
+            "prompt":"Night was abuot his experiences after he survived the holocaust and he won the nobel peace prize in 1986",
+            "awnser":["Elie Wiesel","Wiesel"]
+        },        {
+            "prompt":"The Bluest Eye, Sula, Song of Solomon, Beloved, and A Mercy earned this woman the noble peace prize in 1993",
+            "awnser":["Toni Morrison","Morrison"]
+        },        {
+            "prompt":"Due to his involvement in the camp david accords and and the center named after him, he won the nobel prize in 2002",
+            "awnser":["Jimmy Carter","Carter"]
+        },        {
+            "prompt":"Who won the nobel peace prize in 2007 for spreading knowledge of climate change",
+            "awnser":["Al Gore"]
+        },        {
+            "prompt":"Who won the nobel prize for literature in 2016",
+            "awnser":["Bob Dylan","Dylan"]
+        },        {
+            "prompt":"Who had a controverisal peace prize in 2009 as he only had plan and promise with minimal actions",
+            "awnser":["Barrack Obama","Obama"]
+        },        {
+            "prompt":"who won the nobel prize for the development of lithium ion batteries (name either).",
+            "awnser":["John Goodenough or Stanley Whittingham","Stanley Whittingham","John Goodenough","Goodenough","Whittingham"]
+        },        {
+            "prompt":"Who won the nobel prize for the development of mRNA vaccines (name either)",
+            "awnser":["Drew Weissman and Katalin Kariko","Drew Weissman","Katalin Kariko","Weissman","Kariko"]
+        }
+    ]
+
+
+}
