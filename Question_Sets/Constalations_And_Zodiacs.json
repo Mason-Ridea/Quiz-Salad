@@ -1,0 +1,119 @@
+{
+	"title":"Constalations And Zodiacs",
+	"questions":[
+	{
+		"prompt":"What is the Goat zodiac?",
+		"awnser":["capricornus"]
+		},	{
+		"prompt":"What is the water carrier zodiac?",
+		"awnser":["aquarius"]
+		},	{
+		"prompt":"What is the fish zodiac?",
+		"awnser":["pisces"]
+		},	{
+		"prompt":"What is the ram zodiac?",
+		"awnser":["aries"]
+		},	{
+		"prompt":"What is the bull zodiac?",
+		"awnser":["taurus"]
+		},	{
+		"prompt":"What is the twin zodiac?",
+		"awnser":["gemini"]
+		},	{
+		"prompt":"What is the crab zodiac?",
+		"awnser":["cancer"]
+		},	{
+		"prompt":"What is the lion zodiac?",
+		"awnser":["leo"]
+		},	{
+		"prompt":"What is the virgin zodiac?",
+		"awnser":["virgo"]
+		},	{
+		"prompt":"What is the scales zodiac?",
+		"awnser":["libra"]
+		},	{
+		"prompt":"What is the scorpion zodiac?",
+		"awnser":["scorpio"]
+		},	{
+		"prompt":"What is the archer?",
+		"awnser":["sagittarius"]
+		},	{
+		"prompt":"What is the great bear?",
+		"awnser":["ursa major"]
+		},	{
+		"prompt":"What is the lesser bear?",
+		"awnser":["ursa minor"]
+		},	{
+		"prompt":"What is the constelation of our nearest intergaltic galaxy?",
+		"awnser":["andromeda"]
+		},	{
+		"prompt":"What is the constelation of andromeda's mother?",
+		"awnser":["cassiopeia"]
+		},	{
+		"prompt":"What is the constelation of andromeda's father?",
+		"awnser":["cephus"]
+		},	{
+		"prompt":"What is the constelation of andromeda's rescurer?",
+		"awnser":["perseus"]
+		},	{
+		"prompt":"What is the constelation of the winged horse?",
+		"awnser":["pegasus"]
+		},	{
+		"prompt":"What is the the constelation of the hunter zeus sent a scorpion to kill?",
+		"awnser":["beetlejuice"]
+		},	{
+		"prompt":"What is the constelation of the bull?",
+		"awnser":["Taurus"]
+		},	{
+		"prompt":"What is the constelation of the hunter who loved diana?",
+		"awnser":["Orion"]
+		},	{
+		"prompt":"What is the constelation of the greater dog?",
+		"awnser":["Canis Major"]
+		},	{
+		"prompt":"What is the constelation of the lesser dog?",
+		"awnser":["Canis Minor"]
+		},	{
+		"prompt":"What is the constelation of the herdsman?",
+		"awnser":["Bootes","boötes","bootes"]
+		},	{
+		"prompt":"What is the constelation of the centaur?",
+		"awnser":["centaurus"]
+		},	{
+		"prompt":"What is the constelation of the whale?",
+		"awnser":["cetes"]
+		},	{
+		"prompt":"What is the constelation of the southern crown?",
+		"awnser":["corona australis"]
+		},	{
+		"prompt":"What is the constelation of the northern crown?",
+		"awnser":["corona borealis"]
+		},	{
+		"prompt":"What is the constelation of the southern cross?",
+		"awnser":["crux"]
+		},	{
+		"prompt":"What is the constelation of the  swan?",
+		"awnser":["cygnus"]
+		},	{
+		"prompt":"What is the constelation of the nothern cross?",
+		"awnser":["cygnus"]
+		},	{
+		"prompt":"What is the constelation that appears on the flag of Australia and new Zealand?",
+		"awnser":["crux/southern cross","crux","southern cross"]
+		},	{
+		"prompt":"What is the closest star?",
+		"awnser":["alpha centauri"]
+		},	{
+		"prompt":"What is the constalation that contains the brightest star: sirius or dog star??",
+		"awnser":["canis major"]
+		},	{
+		"prompt":"What is the constalations that contains the north star??",
+		"awnser":["canis minor"]
+		},	{
+		"prompt":"What is the constalation that is also the big dipper?",
+		"awnser":["ursa major"]
+		},	{
+		"prompt":"What is the constalation that is also known as the drinking Gourd?",
+		"awnser":["ursa major"]
+		}	]
+}

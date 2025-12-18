@@ -1,10 +1,13 @@
 {
     "Literature(-)": {
-        "British poetry (1.)" : "Brit-poem-1.json",
-        "British poetry (2.)" : "Brit-poem-2.json",
-        "British poetry (3.)" : "Brit-poem-3.json",
+        "British (-)" : {
+            "British poetry (1.)" : "Brit-poem-1.json",
+            "British poetry (2.)" : "Brit-poem-2.json",
+            "British poetry (3.)" : "Brit-poem-3.json"
+        },
         "Modern Literature (1.)":"Modern-Literature-p1.json",
         "Modern Literature (2.)":"Modern-Literature-p2.json",
+        "Ancient Literature (1.)" : "Ancient_history_lit.json",
         "Literature Characters(1.)":"Lit_characters_p1.json",
         "Literature Characters(2.)":"Lit_characters_p2.json"
     },
@@ -37,9 +40,20 @@
             "Music History 2 (3.)" : "Music-hist-3.json" 
         }
     },
-    "Geography (-)":{},
+    "Geography (-)":{
+        "Capitals(-)" : {
+            "State Capitals (1.)" : "State_Capitals_p1.json",
+            "State Capitals (2.)" : "State_Capitals_p2.json"
+        }
+    },
     "Science (-)":{
         "Nobel Prizes(1.)" : "Nobel-prize.json"
+    },
+    "miscellaneous (-)":{
+        "Constalations and zodiacs" : "Constalations_And_Zodiacs.json",
+        "State Nicknames(1.)" : "State_Nicknames_p1.json",
+        "State Nicknames(2.)" : "State_Nicknames_p2.json"
+
     },
     "Spanish langauge (-)":{
         "Spanish vocabulary one" : "Spanish-basic-vocab-1.json"

@@ -1,0 +1,86 @@
+{
+	"title":"State Nicknames",
+	"questions":[
+	{
+		"prompt":"What is the state nickname of Mississppi?",
+		"awnser":["Magnoila"]
+		},	{
+		"prompt":"What is the state nickname of Missouri?",
+		"awnser":["Show me"]
+		},	{
+		"prompt":"What is the state nickname of Montana?",
+		"awnser":["Treasure"]
+		},	{
+		"prompt":"What is the state nickname of Nebraska?",
+		"awnser":["Cornhusker"]
+		},	{
+		"prompt":"What is the state nickname of Nevada?",
+		"awnser":["Silver"]
+		},	{
+		"prompt":"What is the state nickname of New Hampshire?",
+		"awnser":["Granite"]
+		},	{
+		"prompt":"What is the state nickname of New Jersey?",
+		"awnser":["Garden"]
+		},	{
+		"prompt":"What is the state nickname of New Mexico?",
+		"awnser":["Land of enchantment"]
+		},	{
+		"prompt":"What is the state nickname of New York?",
+		"awnser":["Empire"]
+		},	{
+		"prompt":"What is the state nickname of North Carolina?",
+		"awnser":["Tar heel"]
+		},	{
+		"prompt":"What is the state nickname of North Dakota?",
+		"awnser":["Peace garden"]
+		},	{
+		"prompt":"What is the state nickname of Ohio?",
+		"awnser":["Buckeye"]
+		},	{
+		"prompt":"What is the state nickname of Oklahoma?",
+		"awnser":["Sooner"]
+		},	{
+		"prompt":"What is the state nickname of Oregon?",
+		"awnser":["Beaver"]
+		},	{
+		"prompt":"What is the state nickname of Pennsylvania?",
+		"awnser":["Keystone"]
+		},	{
+		"prompt":"What is the state nickname of Rhode Island?",
+		"awnser":["Ocean"]
+		},	{
+		"prompt":"What is the state nickname of South Carolina?",
+		"awnser":["Palmetto"]
+		},	{
+		"prompt":"What is the state nickname of South Dakota?",
+		"awnser":["Mount rushmore"]
+		},	{
+		"prompt":"What is the state nickname of Tennessee?",
+		"awnser":["Volunteer"]
+		},	{
+		"prompt":"What is the state nickname of Texas?",
+		"awnser":["Lone star"]
+		},	{
+		"prompt":"What is the state nickname of Utah?",
+		"awnser":["Beehive"]
+		},	{
+		"prompt":"What is the state nickname of Vermont?",
+		"awnser":["Green mountain"]
+		},	{
+		"prompt":"What is the state nickname of Virgina?",
+		"awnser":["Old dominion"]
+		},	{
+		"prompt":"What is the state nickname of Washington?",
+		"awnser":["Evergreen"]
+		},	{
+		"prompt":"What is the state nickname of West Virginia?",
+		"awnser":["Moutain"]
+		},	{
+		"prompt":"What is the state nickname of Wisconsin?",
+		"awnser":["Badger"]
+		},	{
+		"prompt":"What is the state nickname of Wyoming?",
+		"awnser":["Equality","Cowboy"]
+		}	]
+}

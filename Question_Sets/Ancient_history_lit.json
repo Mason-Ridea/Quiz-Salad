@@ -1,0 +1,50 @@
+{
+	"title":"Ancient history lit",
+	"questions":[
+	{
+		"prompt":"Who wrote Lysistrata?",
+		"awnser":["Aristophanes"]
+		},	{
+		"prompt":"Who wrote The birds?",
+		"awnser":["Aristophanes"]
+		},	{
+		"prompt":"Who wrote Oedipus Rex?",
+		"awnser":["Sophocles"]
+		},	{
+		"prompt":"Who wrote oesdipus at colonnus?",
+		"awnser":["Sophocles"]
+		},	{
+		"prompt":"Who wrote antigone?",
+		"awnser":["Sophocles"]
+		},	{
+		"prompt":"Who wrote agamemnon?",
+		"awnser":["Aeshcylus"]
+		},	{
+		"prompt":"Who wrote Promethus bound?",
+		"awnser":["Aeshcylus"]
+		},	{
+		"prompt":"Who wrote meada?",
+		"awnser":["Euripdes"]
+		},	{
+		"prompt":"Who wrote the republic?",
+		"awnser":["Plato"]
+		},	{
+		"prompt":"Who wrote the physics?",
+		"awnser":["Aristotle"]
+		},	{
+		"prompt":"Who wrote the metaphsyics?",
+		"awnser":["Aristotle"]
+		},	{
+		"prompt":"Who wrote metamorphosis?",
+		"awnser":["Ovid"]
+		},	{
+		"prompt":"Who wrote history of the persian wars?",
+		"awnser":["Herodotus"]
+		},	{
+		"prompt":"Who wrote history of th epeloponnesian war?",
+		"awnser":["Thucydides"]
+		},	{
+		"prompt":"Who wrote commentaries on the gallic wars?",
+		"awnser":["Caeser"]
+		}	]
+}

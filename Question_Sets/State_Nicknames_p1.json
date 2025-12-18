@@ -1,0 +1,74 @@
+{
+	"title":"State Nicknames",
+	"questions":[
+	{
+		"prompt":"What is the state nickname of Alabama?",
+		"awnser":["Yellowhammer"]
+		},	{
+		"prompt":"What is the state nickname of Alaska?",
+		"awnser":["Last frontier"]
+		},	{
+		"prompt":"What is the state nickname of Arizona?",
+		"awnser":["Grand canyon"]
+		},	{
+		"prompt":"What is the state nickname of Arkansas?",
+		"awnser":["Natural"]
+		},	{
+		"prompt":"What is the state nickname of California?",
+		"awnser":["Golden"]
+		},	{
+		"prompt":"What is the state nickname of Colarado?",
+		"awnser":["Centennial"]
+		},	{
+		"prompt":"What is the state nickname of Connecticut?",
+		"awnser":["Constitution"]
+		},	{
+		"prompt":"What is the state nickname of Delaware?",
+		"awnser":["First"]
+		},	{
+		"prompt":"What is the state nickname of Florida?",
+		"awnser":["Sunshine"]
+		},	{
+		"prompt":"What is the state nickname of Georgia?",
+		"awnser":["Peach"]
+		},	{
+		"prompt":"What is the state nickname of Hawaii?",
+		"awnser":["Aloha"]
+		},	{
+		"prompt":"What is the state nickname of Idaho?",
+		"awnser":["Gem"]
+		},	{
+		"prompt":"What is the state nickname of Illinois?",
+		"awnser":["Land of lincoln"]
+		},	{
+		"prompt":"What is the state nickname of Indiana?",
+		"awnser":["Hoosier"]
+		},	{
+		"prompt":"What is the state nickname of Iowa?",
+		"awnser":["Hawkeye"]
+		},	{
+		"prompt":"What is the state nickname of Kansas?",
+		"awnser":["Sunflower"]
+		},	{
+		"prompt":"What is the state nickname of Kentucky?",
+		"awnser":["Bluegrass"]
+		},	{
+		"prompt":"What is the state nickname of Lousiana?",
+		"awnser":["Pelican"]
+		},	{
+		"prompt":"What is the state nickname of Maine?",
+		"awnser":["Pine tree"]
+		},	{
+		"prompt":"What is the state nickname of Maryland?",
+		"awnser":["Old line"]
+		},	{
+		"prompt":"What is the state nickname of Massachusetts?",
+		"awnser":["Bay"]
+		},	{
+		"prompt":"What is the state nickname of Michigan?",
+		"awnser":["Great lakes"]
+		},	{
+		"prompt":"What is the state nickname of Minnesota?",
+		"awnser":["North star"]
+		} ]
+}

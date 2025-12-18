@@ -1,0 +1,77 @@
+{
+	"title":"State Capitals Module 1",
+	"questions":[
+	{
+		"prompt":"What is the capital of Alabama?",
+		"awnser":["Montgomery"]
+		},	{
+		"prompt":"What is the capital of Alaska?",
+		"awnser":["Juneau"]
+		},	{
+		"prompt":"What is the capital of Arizona?",
+		"awnser":["Phoenix"]
+		},	{
+		"prompt":"What is the capital of Arkansas?",
+		"awnser":["Little rock"]
+		},	{
+		"prompt":"What is the capital of California?",
+		"awnser":["Sacramento"]
+		},	{
+		"prompt":"What is the capital of Colarado?",
+		"awnser":["Denver"]
+		},	{
+		"prompt":"What is the capital of Connecticut?",
+		"awnser":["Hartford"]
+		},	{
+		"prompt":"What is the capital of Delaware?",
+		"awnser":["Dover"]
+		},	{
+		"prompt":"What is the capital of Florida?",
+		"awnser":["Tallahassee"]
+		},	{
+		"prompt":"What is the capital of Georgia?",
+		"awnser":["Atlanta"]
+		},	{
+		"prompt":"What is the capital of Hawaii?",
+		"awnser":["Honolulu"]
+		},	{
+		"prompt":"What is the capital of Idaho?",
+		"awnser":["Boise"]
+		},	{
+		"prompt":"What is the capital of Illinois?",
+		"awnser":["Springfield"]
+		},	{
+		"prompt":"What is the capital of Indiana?",
+		"awnser":["Indianapolis"]
+		},	{
+		"prompt":"What is the capital of Iowa?",
+		"awnser":["Des moines"]
+		},	{
+		"prompt":"What is the capital of Kansas?",
+		"awnser":["Topeka"]
+		},	{
+		"prompt":"What is the capital of Kentucky?",
+		"awnser":["Frankfort"]
+		},	{
+		"prompt":"What is the capital of Lousiana?",
+		"awnser":["Baton rouge"]
+		},	{
+		"prompt":"What is the capital of Maine?",
+		"awnser":["Augusta"]
+		},	{
+		"prompt":"What is the capital of Maryland?",
+		"awnser":["Annapolis"]
+		},	{
+		"prompt":"What is the capital of Massachusetts?",
+		"awnser":["Boston"]
+		},	{
+		"prompt":"What is the capital of Michigan?",
+		"awnser":["Lansing"]
+		},	{
+		"prompt":"What is the capital of Minnesota?",
+		"awnser":["St paul"]
+		},	{
+		"prompt":"What is the capital of Mississppi?",
+		"awnser":["Jackson"]
+		}]
+}

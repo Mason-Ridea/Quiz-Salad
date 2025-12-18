@@ -1,0 +1,86 @@
+{
+    "title":"State Capitals Module 2",
+    "questions":[
+        {
+            "prompt":"What is the capital of Missouri?",
+            "awnser":["Jefferson city"]
+            },	{
+            "prompt":"What is the capital of Montana?",
+            "awnser":["Helena"]
+            },	{
+            "prompt":"What is the capital of Nebraska?",
+            "awnser":["Lincoln"]
+            },	{
+            "prompt":"What is the capital of Nevada?",
+            "awnser":["Carson city"]
+            },	{
+            "prompt":"What is the capital of New Hampshire?",
+            "awnser":["Concord"]
+            },	{
+            "prompt":"What is the capital of New Jersey?",
+            "awnser":["Trenton"]
+            },	{
+            "prompt":"What is the capital of New Mexico?",
+            "awnser":["Santa fe"]
+            },	{
+            "prompt":"What is the capital of New York?",
+            "awnser":["Albany"]
+            },	{
+            "prompt":"What is the capital of North Carolina?",
+            "awnser":["Raleigh"]
+            },	{
+            "prompt":"What is the capital of North Dakota?",
+            "awnser":["Bismarck"]
+            },	{
+            "prompt":"What is the capital of Ohio?",
+            "awnser":["Columbus"]
+            },	{
+            "prompt":"What is the capital of Oklahoma?",
+            "awnser":["Oklahoma city"]
+            },	{
+            "prompt":"What is the capital of Oregon?",
+            "awnser":["Salem"]
+            },	{
+            "prompt":"What is the capital of Pennsylvania?",
+            "awnser":["Harrisburg"]
+            },	{
+            "prompt":"What is the capital of Rhode Island?",
+            "awnser":["Providence"]
+            },	{
+            "prompt":"What is the capital of South Carolina?",
+            "awnser":["Columbia"]
+            },	{
+            "prompt":"What is the capital of South Dakota?",
+            "awnser":["Pierre"]
+            },	{
+            "prompt":"What is the capital of Tennessee?",
+            "awnser":["Nashville"]
+            },	{
+            "prompt":"What is the capital of Texas?",
+            "awnser":["Austin"]
+            },	{
+            "prompt":"What is the capital of Utah?",
+            "awnser":["Salt lake city"]
+            },	{
+            "prompt":"What is the capital of Vermont?",
+            "awnser":["Montpeller"]
+            },	{
+            "prompt":"What is the capital of virgina?",
+            "awnser":["Richmond"]
+            },	{
+            "prompt":"What is the capital of West Virginia?",
+            "awnser":["Charlestown"]
+            },	{
+            "prompt":"What is the capital of Washington?",
+            "awnser":["Olympia"]
+            },	{
+            "prompt":"What is the capital of Wisconsin?",
+            "awnser":["Madison"]
+            },	{
+            "prompt":"What is the capital of Wyoming?",
+            "awnser":["Cheynne"]
+            }	
+    ]
+
+
+}
