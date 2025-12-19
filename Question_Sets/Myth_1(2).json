@@ -1,0 +1,80 @@
+{
+	"title":"Myth 1: module 2",
+	"questions":[
+	{
+		"prompt":"Hero of homer's odyssey?",
+		"awnser":["Odysseus"]
+		},	{
+		"prompt":"On his ten-year trip home, he encounters the lotus eaters, polyphemus the cyclops, circe, calypso, the sirens, and scylla and charybdis.?",
+		"awnser":["Odysseus"]
+		},	{
+		"prompt":"Who devised the trojan horse??",
+		"awnser":["Odysseus"]
+		},	{
+		"prompt":"King of pylos and the oldest and wisest councilor among the greek leaders at troy.?",
+		"awnser":["Nestor"]
+		},	{
+		"prompt":"Beautiful youth who sees his own reflection in a pool of water and falls in love with himself?",
+		"awnser":["Narcissus"]
+		},	{
+		"prompt":"Who ignores the love of echo and thus gets turned into a flower??",
+		"awnser":["Narcissus"]
+		},	{
+		"prompt":"King of sparta, brother of agamemnon, and husband to helen (later helen of troy).?",
+		"awnser":["Menelaus"]
+		},	{
+		"prompt":"King of crete?",
+		"awnser":["Minos"]
+		},	{
+		"prompt":"Whose wife falls in love with a bull, because he didn't sacrifice said bull to poseidon?",
+		"awnser":["Minos"]
+		},	{
+		"prompt":"The gods grant him his wish thateverything he touches turns to gold, but he begins to realize this isn't such a great thing when even his food turns to gold. thereafter, he has his power transferred to the river pactolus,?",
+		"awnser":["Midas"]
+		},	{
+		"prompt":"Who chooses pan over apollo in a music contest, and gets his ears turned into one of an donkey?",
+		"awnser":["Midas"]
+		},	{
+		"prompt":"King of thebes and first husband to jocasta.?",
+		"awnser":["Laius"]
+		},	{
+		"prompt":"Who was killed by oedipus, his own child who had been cast off on a mountainside as a baby because the oracle at delphi had warned about this?",
+		"awnser":["Laius"]
+		},	{
+		"prompt":"Leader of the expedition of greek heroes known as the argonauts (for their ship, the argo)?",
+		"awnser":["Jason"]
+		},	{
+		"prompt":"Who seeks the golden fleece and gets it due to meada?",
+		"awnser":["Jason"]
+		},	{
+		"prompt":"Legendary strong man whose early exploits include his killing of two serpents that invade his cradle and his later membership among the argonauts.?",
+		"awnser":["Heracles","Hurcules"]
+		},	{
+		"prompt":"In a fit of madness(hera), his kills his wife megara and their children,?",
+		"awnser":["Hurcules"]
+		},	{
+		"prompt":"Who prefroms the tweleve labors to atone for his actions?",
+		"awnser":["Hurcules"]
+		},	{
+		"prompt":"Oldest son of priam and the chief war hero for troy in the trojan war.?",
+		"awnser":["Hector"]
+		},	{
+		"prompt":"Whose body is dragged three times around the outer walls of troy, due to him killing patrocles?",
+		"awnser":["Hector"]
+		},	{
+		"prompt":"Whose was the paesent that became king when he tied that one knot that alexander cut with his sword?",
+		"awnser":["Gordias"]
+		},	{
+		"prompt":"The boatman who ferries the souls of the dead across the river styx to the underworld; as payment to him, a coin is placed in the mouth of the dead at burial.?",
+		"awnser":["Charon"]
+		},	{
+		"prompt":"Architect who builds the labyrinth on crete for king minos. imprisoned in the structure after its completion so he would not reveal its secrets,?",
+		"awnser":["Daedalus"]
+		},	{
+		"prompt":"Father of icarus and actually didn't fly too close to the sun?",
+		"awnser":["Daedalus"]
+		},	{
+		"prompt":"Famed as a huntsman, he inadvertently comes upon the goddess diana (artemis) bathing; she changes him into a stag, and he is ripped to shreds by his own hunting hounds.?",
+		"awnser":["Actaeon"]
+		}	]
+}

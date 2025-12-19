@@ -1,0 +1,80 @@
+{
+	"title":"College mascots: module 2",
+	"questions":[
+	{
+		"prompt":"What is the college mascot of Kansas (lawrence, ks)?",
+		"awnser":["Jayhawks"]
+		},	{
+		"prompt":"What is the college mascot of Kentucky (lexington, ky)?",
+		"awnser":["Wildcats"]
+		},	{
+		"prompt":"What is the college mascot of Maryland (college park, md)?",
+		"awnser":["Terrapins"]
+		},	{
+		"prompt":"What is the college mascot of Miami (coral gables, fl)?",
+		"awnser":["Hurricanes"]
+		},	{
+		"prompt":"What is the college mascot of Miami university of ohio (oxford,oh)?",
+		"awnser":["Red hawks"]
+		},	{
+		"prompt":"What is the college mascot of Michigan (ann arbor, mi)?",
+		"awnser":["Wolverines"]
+		},	{
+		"prompt":"What is the college mascot of Minnesota (minneapolis)?",
+		"awnser":["Golden gophers"]
+		},	{
+		"prompt":"What is the college mascot of Mississippi (oxford, ms)?",
+		"awnser":["Rebels"]
+		},	{
+		"prompt":"What is the college mascot of Montana (missoula, mt)?",
+		"awnser":["Grizzlies"]
+		},	{
+		"prompt":"What is the college mascot of Morehouse (atlanta, ga)?",
+		"awnser":["Maroon tigers"]
+		},	{
+		"prompt":"What is the college mascot of Nebraska (lincoln, ne)?",
+		"awnser":["Corn huskers"]
+		},	{
+		"prompt":"What is the college mascot of North carolina (chapel hill, nc)?",
+		"awnser":["Tarheels"]
+		},	{
+		"prompt":"What is the college mascot of Nc state (raleigh, nc)?",
+		"awnser":["Wolfpack"]
+		},	{
+		"prompt":"What is the college mascot of Notre dame (notre dame, in)?",
+		"awnser":["Fighting irish"]
+		},	{
+		"prompt":"What is the college mascot of Ohio (athens, oh)?",
+		"awnser":["Bobcats"]
+		},	{
+		"prompt":"What is the college mascot of Ohio state (columbus, oh)?",
+		"awnser":["Buckeyes"]
+		},	{
+		"prompt":"What is the college mascot of Oklahoma (norman)?",
+		"awnser":["Sooners"]
+		},	{
+		"prompt":"What is the college mascot of Penn (philadelphia, pa)?",
+		"awnser":["Quakers"]
+		},	{
+		"prompt":"What is the college mascot of Penn state (university park, pa)?",
+		"awnser":["Nittany lions"]
+		},	{
+		"prompt":"What is the college mascot of Princeton (princeton, nj)?",
+		"awnser":["Tigers"]
+		},	{
+		"prompt":"What is the college mascot of Purdue (west lafayette, in)?",
+		"awnser":["Boilermakers"]
+		},	{
+		"prompt":"What is the college mascot of Saint john’s, (jamaica, ny)?",
+		"awnser":["Red storm"]
+		},	{
+		"prompt":"What is the college mascot of South carolina (columbia, sc)?",
+		"awnser":["Gamecocks"]
+		},	{
+		"prompt":"What is the college mascot of Southern california, (los angeles, ca)?",
+		"awnser":["Trojans"]
+		},	{
+		"prompt":"What is the college mascot of Richmond (richmond, va)?",
+		"awnser":["Spiders"]
+		}	]
+}

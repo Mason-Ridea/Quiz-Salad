@@ -18,8 +18,11 @@
             "American history 1712-90 (3.)" : "America_Hist_1712-90_p3.json",
             "Everything civil war! (1.)" : "Everything_civil_war!(1).json",
             "Everything civil war! (2.)" : "Everything_civil_war!(2).json",
-            "Everything civil war! (3.)" : "Everything_civil_war!(3).json"
+            "Everything civil war! (3.)" : "Everything_civil_war!(3).json",
+            "American history 1941-1946(1.)" : "American_history_1941-1946(1).json",
+            "American history 1941-1946(2.)" : "American_history_1941-1946(2).json"
         },
+        
         "World History (-)" : {
             "World History 1610-88 (1.)" : "hist1610-88-p1.json",
             "World History 1610-88 (2.)" : "hist1610-88-p2.json",
@@ -29,14 +32,16 @@
             "World History 1781-1815 (3.)" : "World-Hist-1781-1815-P3.json",
             "World history 1857-1883(1.)" : "World_history_1857_-_1883(1).json",
             "World history 1857-1883(2.)" : "World_history_1857_-_1883(2).json",
-            "World history 1857-1883(3.)" : "World_history_1857_-_1883(3).json",
-            "World history 1857-1883(4.)" : "World_history_1857_-_1883(4).json"
+            "World history 1857-1883(3.)" : "World_history_1857_-_1883(3).json"
         },
         "Historical Treaties (1.)" : "Treaties_and_conferences_1.json",
         "Historical Conferences (1.)": "World_War_II_conferences.json"
     },
     "Arts and culture (-)":{
         "Mythology (-)" : {
+            "Myth_1 (1.)" : "Myth_1(1).json",
+            "Myth_1 (2.)" : "Myth_1(2).json",
+            "Myth_1 (3.)" : "Myth_1(3).json",
             "Myth 2 (1.)": "Myth_2_p1.json",
             "Myth 2 (2.)": "Myth_2_p2.json",
             "Myth 3 (3.)": "Myth_2_p3.json"
@@ -65,10 +70,13 @@
     "miscellaneous (-)":{
         "State Nicknames(1.)" : "State_Nicknames_p1.json",
         "State Nicknames(2.)" : "State_Nicknames_p2.json",
-        "The Arghh Page(1.).json" : "The_arghh_page(1).json",
-        "The Arghh Page(2.).json" : "The_arghh_page(2).json",
-        "The Arghh Page(3.).json" : "The_arghh_page(3).json",
-        "The Arghh Page(4.).json" : "The_arghh_page(4).json"
+        "The Arghh Page(1.)" : "The_arghh_page(1).json",
+        "The Arghh Page(2.)" : "The_arghh_page(2).json",
+        "The Arghh Page(3.)" : "The_arghh_page(3).json",
+        "The Arghh Page(4.)" : "The_arghh_page(4).json",
+        "College mascots(1.)" : "College_mascots(1).json",
+        "College mascots(2.)" : "College_mascots(2).json",
+        "College mascots(3.)" : "College_mascots(3).json"
     },
     "Spanish langauge (-)":{
         "Spanish vocabulary one" : "Spanish-basic-vocab-1.json"

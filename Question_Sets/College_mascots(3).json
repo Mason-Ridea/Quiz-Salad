@@ -1,0 +1,62 @@
+{
+	"title":"College mascots: module 3",
+	"questions":[
+	{
+		"prompt":"What is the college mascot of Rutgers (piscataway, nj)?",
+		"awnser":["Scarlet knights"]
+		},	{
+		"prompt":"What is the college mascot of Santa cruz (santa cruz, ca)?",
+		"awnser":["Banana slugs"]
+		},	{
+		"prompt":"What is the college mascot of Stanford (palo alto, ca)?",
+		"awnser":["Cardinals"]
+		},	{
+		"prompt":"What is the college mascot of Syracuse (syracuse, ny)?",
+		"awnser":["Orangemen"]
+		},	{
+		"prompt":"What is the college mascot of Temple (philadelphia, pa)?",
+		"awnser":["Owls"]
+		},	{
+		"prompt":"What is the college mascot of Tennessee (knoxville, tn)?",
+		"awnser":["Volunteers"]
+		},	{
+		"prompt":"What is the college mascot of Texas (austin, tx)?",
+		"awnser":["Longhorns"]
+		},	{
+		"prompt":"What is the college mascot of Texas christian (fort worth, tx)?",
+		"awnser":["Horn frogs"]
+		},	{
+		"prompt":"What is the college mascot of Tulsa (tulsa, oklahoma)?",
+		"awnser":["Golden hurricane"]
+		},	{
+		"prompt":"What is the college mascot of Tulane (new orleans, la)?",
+		"awnser":["Green wave"]
+		},	{
+		"prompt":"What is the college mascot of Ucla (los angeles, ca)?",
+		"awnser":["Bruins"]
+		},	{
+		"prompt":"What is the college mascot of Vanderbilt (nashville, tn)?",
+		"awnser":["Commodores"]
+		},	{
+		"prompt":"What is the college mascot of Villanova (philadelphia, pa)?",
+		"awnser":["Wildcats"]
+		},	{
+		"prompt":"What is the college mascot of Virginia (charlottesville, va)?",
+		"awnser":["Cavaliers"]
+		},	{
+		"prompt":"What is the college mascot of Virginia tech (blacksburg, va)?",
+		"awnser":["Hokies"]
+		},	{
+		"prompt":"What is the college mascot of Wake forest (winston-salem, nc)?",
+		"awnser":["Demon deacons"]
+		},	{
+		"prompt":"What is the college mascot of Washington (seattle, wa)?",
+		"awnser":["Huskies"]
+		},	{
+		"prompt":"What is the college mascot of Wisconsin (madison, wi)?",
+		"awnser":["Badgers"]
+		},	{
+		"prompt":"What is the college mascot of Yale (new haven, ct)?",
+		"awnser":["Bulldogs or eli’s","Bulldogs","Eli's"]
+		}	]
+}

@@ -20,10 +20,10 @@
 		"prompt":"1872: this ship will leave new york harbor in mid-november and then be found december 4 with crew of 10 missing but stores and cargo intact?",
 		"awnser":["Mary celeste","Celeste"]
 		},	{
-		"prompt":"1871: this long-unheard-from english missionary is "found" at ujiji on the shores of lake tanganyika by new york herald correspondent henry stanley?",
+		"prompt":"1871: this long-unheard-from english missionary is 'found' at ujiji on the shores of lake tanganyika by new york herald correspondent henry stanley?",
 		"awnser":["David livingstone","Livingstone"]
 		},	{
-		"prompt":"1871:long-unheard-from english missionary david livingstone is "found" at ujiji on the shores of lake tanganyika by this new york herald correspondent?",
+		"prompt":"1871:long-unheard-from english missionary david livingstone is 'found' at ujiji on the shores of lake tanganyika by this new york herald correspondent?",
 		"awnser":["Henry stanley","Stanley"]
 		},	{
 		"prompt":"1873: this white star liner runs aground off halifax, nova scotia, with loss of 502 of 931 passengers?",
@@ -47,7 +47,7 @@
 		"prompt":"1875: this english swimmer becomes the first to swim the english channel from dover to calais?",
 		"awnser":["Matthew webb","Webb"]
 		},	{
-		"prompt":"Who wrote "carmen" (the one set in a cigarette factory)?",
+		"prompt":"Who wrote 'carmen' (the one set in a cigarette factory)?",
 		"awnser":["Georges bizet","Bizet"]
 		},	{
 		"prompt":"What is the oprea made by georges bizet and is set in a cigarette factory?",
@@ -76,5 +76,14 @@
 		},	{
 		"prompt":"Who replaced alexander ii after he was killed?",
 		"awnser":["Alexander iii","Alex 3"]
-		}	]
+		},	{
+		"prompt":"This express leave paris for constantinople, becoming europes first trancontinental railroad?",
+		"awnser":["The orient express","Orient"]
+		},	{
+		"prompt":"This russian composer dies leving works such as night at bald mountain,boris godnov, pictures at an exhibition?",
+		"awnser":["Modest mussorgsky","Mussorgsky"]
+		},	{
+		"prompt":"Who challenges egypitian control of the sudan?",
+		"awnser":["The mahdi","Mahdi"]
+		}		]
 }

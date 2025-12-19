@@ -1,0 +1,80 @@
+{
+	"title":"College mascots: module 1",
+	"questions":[
+	{
+		"prompt":"What is the college mascot of Akron (akron, oh)?",
+		"awnser":["Kangaroos"]
+		},	{
+		"prompt":"What is the college mascot of Alabama (tuscaloosa, al)?",
+		"awnser":["Crimson tide"]
+		},	{
+		"prompt":"What is the college mascot of Alaska (fairbanks, ak)?",
+		"awnser":["Nanooks"]
+		},	{
+		"prompt":"What is the college mascot of Arkansas (fayetteville, arkansas)?",
+		"awnser":["Razorbacks"]
+		},	{
+		"prompt":"What is the college mascot of Auburn (auburn, al)?",
+		"awnser":["Tigers"]
+		},	{
+		"prompt":"What is the college mascot of Brown (providence, ri)?",
+		"awnser":["Bears"]
+		},	{
+		"prompt":"What is the college mascot of Clemson (clemson, sc)?",
+		"awnser":["Tigers"]
+		},	{
+		"prompt":"What is the college mascot of Columbia (new york, ny)?",
+		"awnser":["Lions"]
+		},	{
+		"prompt":"What is the college mascot of Connecticut (storrs, ct)?",
+		"awnser":["Huskies"]
+		},	{
+		"prompt":"What is the college mascot of Cornell (ithaca, ny)?",
+		"awnser":["Big red"]
+		},	{
+		"prompt":"What is the college mascot of Dartmouth (hanover, nh)?",
+		"awnser":["Big green"]
+		},	{
+		"prompt":"What is the college mascot of Delaware (newark, de)?",
+		"awnser":["Blue hens"]
+		},	{
+		"prompt":"What is the college mascot of Duke (durham, nc)?",
+		"awnser":["Blue devils"]
+		},	{
+		"prompt":"What is the college mascot of Florida (gainesville, fl)?",
+		"awnser":["Gators"]
+		},	{
+		"prompt":"What is the college mascot of Florida state (tallahassee, fl)?",
+		"awnser":["Seminoles"]
+		},	{
+		"prompt":"What is the college mascot of Georgia (athens, ga)?",
+		"awnser":["Bulldogs"]
+		},	{
+		"prompt":"What is the college mascot of Georgia tech (atlanta, ga)?",
+		"awnser":["Yellow jackets"]
+		},	{
+		"prompt":"What is the college mascot of Rambling (grambling, la),)?",
+		"awnser":["Tigers"]
+		},	{
+		"prompt":"What is the college mascot of Harvard (cambridge, ma)?",
+		"awnser":["Crimson"]
+		},	{
+		"prompt":"What is the college mascot of Hawaii (honolulu, hi) )?",
+		"awnser":["Warriors"]
+		},	{
+		"prompt":"What is the college mascot of Howard (washington, dc)?",
+		"awnser":["Bison"]
+		},	{
+		"prompt":"What is the college mascot of Indiana (bloomington, in)?",
+		"awnser":["Hoosiers"]
+		},	{
+		"prompt":"What is the college mascot of Iowa (iowa city, ia)?",
+		"awnser":["Hawkeyes"]
+		},	{
+		"prompt":"What is the college mascot of Iowa state (ames, ia)?",
+		"awnser":["Cyclones"]
+		},	{
+		"prompt":"What is the college mascot of Jackson state (jackson, ms)?",
+		"awnser":["Tigers"]
+		}	]
+}
