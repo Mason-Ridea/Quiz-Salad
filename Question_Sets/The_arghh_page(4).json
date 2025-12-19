@@ -1,0 +1,26 @@
+{
+	"title":"The arghh page: module 4",
+	"questions":[
+	{
+		"prompt":"(philippines, 1898) – american fleet under dewey defeats spanish: “you may fire when ready, gridley.”?",
+		"awnser":["Manilia bay","Manilia"]
+		},	{
+		"prompt":"Wwi battle of the dreadnoughts (great battleships), england vs. germany?",
+		"awnser":["Jutland"]
+		},	{
+		"prompt":"Last of japanese fleet attempts to break up landings in philippines by macarthur; destroyed by u.s. carrier fleet under “bull” halsey?",
+		"awnser":["Leyte gulf","Leyte"]
+		},	{
+		"prompt":"Japanese carrier fleet destroyed by u.s. carriers under nimitz?",
+		"awnser":["Midway"]
+		},	{
+		"prompt":"British under nelson destroy french fleet, marooning napoleon in egypt. his flagship was the hms victory?",
+		"awnser":["Battle of the nile","Nile"]
+		},	{
+		"prompt":"French fleet under de grasse defeats british fleet at the mouth of the chesapeake, sealing cornwallis’ fate at yorktown?",
+		"awnser":["Battle of the virginian cape","V cape"]
+		},	{
+		"prompt":"Where was napleons second exile??",
+		"awnser":["Elba"]
+		}	]
+}

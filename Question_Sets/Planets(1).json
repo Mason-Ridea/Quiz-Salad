@@ -1,0 +1,80 @@
+{
+	"title":"Planets",
+	"questions":[
+	{
+		"prompt":"What was the first spacecraft to sucessfully orbit mercury??",
+		"awnser":["Messenger","Messenger"]
+		},	{
+		"prompt":"What is (roughly) the average surface tempreture of venus(celsius)?",
+		"awnser":["460 celsius","460"]
+		},	{
+		"prompt":"What effect causes the surface tempreture of venus to be so warm??",
+		"awnser":["Greenhouse effect","Greenhouse effect","Greenhouse"]
+		},	{
+		"prompt":"The radiation belts that surround earth?",
+		"awnser":["Van allen belts","Van allen belts","Van allen"]
+		},	{
+		"prompt":"Where was the first moon landing??",
+		"awnser":["Sea of tranquility","Sea of tranquility"]
+		},	{
+		"prompt":"Newest lunar program(named after sister of apollo)?",
+		"awnser":["Artemis"]
+		},	{
+		"prompt":"What unit uses the distance between the sun and the earth??",
+		"awnser":["Astronomical unit","Astronomical"]
+		},	{
+		"prompt":"The astronomical unit uses the distance between the sun and _____??",
+		"awnser":["Earth"]
+		},	{
+		"prompt":"The astronomical unit uses the distance between the ___ and earth??",
+		"awnser":["Sun"]
+		},	{
+		"prompt":"Name for when the earth is closest to the sun?",
+		"awnser":["Prehelion"]
+		},	{
+		"prompt":"Name for when the earth is farthest from the sun?",
+		"awnser":["Aphelion"]
+		},	{
+		"prompt":"Name for when the moon is the the farthest from the earth?",
+		"awnser":["Apogee"]
+		},	{
+		"prompt":"What is the named of the highest moutain in the solar system?",
+		"awnser":["Olympus mons"]
+		},	{
+		"prompt":"What planet has the highest moutain in the solar system?",
+		"awnser":["Mars"]
+		},	{
+		"prompt":"Where did the asteroid that killed the dinosaurs hit the earth??",
+		"awnser":["Yucatan peninsula","Yucatan"]
+		},	{
+		"prompt":"What is the largest asteroid??",
+		"awnser":["Ceres"]
+		},	{
+		"prompt":"What spacecraft is currently orbiting ceres??",
+		"awnser":["Dawn spacecraft","Dawn"]
+		},	{
+		"prompt":"The dawn spacecraft is currently orbiting what largest asteriod ?",
+		"awnser":["Ceres"]
+		},	{
+		"prompt":"What are the asteriods that orbit jupiter called??",
+		"awnser":["Trojans"]
+		},	{
+		"prompt":"What spacecraft visited saturn??",
+		"awnser":["Cassini spacecraft","Cassini"]
+		},	{
+		"prompt":"Approximately how many miles is one light year??",
+		"awnser":["6 trillion ","6t","6 t"]
+		},	{
+		"prompt":"A reigion of the solar system beyond the orbit of neptune?",
+		"awnser":["Kuiper belt","Kuiper"]
+		},	{
+		"prompt":"Pluto is a member of what reigion of the solar system that is beyond neptue??",
+		"awnser":["Kuiper belt","Kuiper"]
+		},	{
+		"prompt":"What is the wobble of a celestial body called??",
+		"awnser":["Liberation"]
+		},	{
+		"prompt":"What is the stream of particles leaving the sun called??",
+		"awnser":["Solar wind"]
+		}	]
+}

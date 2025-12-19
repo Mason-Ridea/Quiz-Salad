@@ -15,7 +15,10 @@
         "American History (-)" : {
             "American history 1712-90 (1.)" : "America_Hist_1712-90_p1.json",
             "American history 1712-90 (2.)" : "America_Hist_1712-90_p2.json",
-            "American history 1712-90 (3.)" : "America_Hist_1712-90_p3.json"
+            "American history 1712-90 (3.)" : "America_Hist_1712-90_p3.json",
+            "Everything civil war! (1.)" : "Everything_civil_war!(1).json",
+            "Everything civil war! (2.)" : "Everything_civil_war!(2).json",
+            "Everything civil war! (3.)" : "Everything_civil_war!(3).json"
         },
         "World History (-)" : {
             "World History 1610-88 (1.)" : "hist1610-88-p1.json",
@@ -23,7 +26,11 @@
             "World History 1610-88 (3.)" : "hist1610-88-p3.json",
             "World History 1781-1815 (1.)" : "World-Hist-1781-1815-P1.json",
             "World History 1781-1815 (2.)" : "World-Hist-1781-1815-P2.json",
-            "World History 1781-1815 (3.)" : "World-Hist-1781-1815-P3.json"
+            "World History 1781-1815 (3.)" : "World-Hist-1781-1815-P3.json",
+            "World history 1857-1883(1.)" : "World_history_1857_-_1883(1).json",
+            "World history 1857-1883(2.)" : "World_history_1857_-_1883(2).json",
+            "World history 1857-1883(3.)" : "World_history_1857_-_1883(3).json",
+            "World history 1857-1883(4.)" : "World_history_1857_-_1883(4).json"
         },
         "Historical Treaties (1.)" : "Treaties_and_conferences_1.json",
         "Historical Conferences (1.)": "World_War_II_conferences.json"
@@ -47,13 +54,21 @@
         }
     },
     "Science (-)":{
-        "Nobel Prizes(1.)" : "Nobel-prize.json"
+        "Nobel Prizes(1.)" : "Nobel-prize.json",
+        "Space(-)" : {
+            "Constalations and zodiacs" : "Constalations_And_Zodiacs.json",
+            "Space facts and events(1.)" : "Planets(1).json",
+            "Space facts and events(2.)" : "Planets(2).json",
+            "Space facts and events(3.)" : "Planets(3).json" 
+        }
     },
     "miscellaneous (-)":{
-        "Constalations and zodiacs" : "Constalations_And_Zodiacs.json",
         "State Nicknames(1.)" : "State_Nicknames_p1.json",
-        "State Nicknames(2.)" : "State_Nicknames_p2.json"
-
+        "State Nicknames(2.)" : "State_Nicknames_p2.json",
+        "The Arghh Page(1.).json" : "The_arghh_page(1).json",
+        "The Arghh Page(2.).json" : "The_arghh_page(2).json",
+        "The Arghh Page(3.).json" : "The_arghh_page(3).json",
+        "The Arghh Page(4.).json" : "The_arghh_page(4).json"
     },
     "Spanish langauge (-)":{
         "Spanish vocabulary one" : "Spanish-basic-vocab-1.json"

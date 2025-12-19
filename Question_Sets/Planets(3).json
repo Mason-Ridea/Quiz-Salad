@@ -1,0 +1,29 @@
+{
+	"title":"Planets",
+	"questions":[
+	{
+		"prompt":"Mean distance between the earth and the sun in miles??",
+		"awnser":["93 million","93m"]
+		},	{
+		"prompt":"What is the name of the newest space telescope??",
+		"awnser":["James webb telescope","James webb","Webb"]
+		},	{
+		"prompt":"Where in the us were many probes launched??",
+		"awnser":["Cape canaveral, florida","Cape canaveral florida","Cape canaveral"]
+		},	{
+		"prompt":"Who wrote about the planet arakis in dune??",
+		"awnser":["Frank herbert","Herbert"]
+		},	{
+		"prompt":"Who was the first man in space??",
+		"awnser":["Yuri garagin","Garagin"]
+		},	{
+		"prompt":"Who was the first woman in space?",
+		"awnser":["Valentina tereshkova","Tereshkova"]
+		},	{
+		"prompt":"What was the first probe to enter interstellar space??",
+		"awnser":["Voyager"]
+		},	{
+		"prompt":"What is the path the sun follows??",
+		"awnser":["Eliptic"]
+		}	]
+}

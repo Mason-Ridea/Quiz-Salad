@@ -1,0 +1,80 @@
+{
+	"title":"The arghh page: module 1",
+	"questions":[
+	{
+		"prompt":"Which strait is between russia and alaska?",
+		"awnser":["Bering strait","Bering"]
+		},	{
+		"prompt":"Strait between south america and tierra del fuego?",
+		"awnser":["Strait of magellan","Magellan"]
+		},	{
+		"prompt":"Strait between england (white cliffs of dover) and france (calais)?",
+		"awnser":["English channel","English"]
+		},	{
+		"prompt":"The island which the largest in the world and 'owned' by denmark?",
+		"awnser":["Greenland"]
+		},	{
+		"prompt":"Arab sailing ship?",
+		"awnser":["Dhow"]
+		},	{
+		"prompt":"Chinese sailing ship?",
+		"awnser":["Junk"]
+		},	{
+		"prompt":"Chesapeake bay sailing ship?",
+		"awnser":["Skipjack"]
+		},	{
+		"prompt":"Front of a ship?",
+		"awnser":["Bow"]
+		},	{
+		"prompt":"Back of a ship?",
+		"awnser":["Stern"]
+		},	{
+		"prompt":"Left of a ship?",
+		"awnser":["Port"]
+		},	{
+		"prompt":"Right of a ship?",
+		"awnser":["Starboard"]
+		},	{
+		"prompt":"Bottom of a ship?",
+		"awnser":["Keel"]
+		},	{
+		"prompt":"A ship's kitchen, or a oar powered ship ?",
+		"awnser":["Gallry"]
+		},	{
+		"prompt":"This us war of 1812 ship was called 'old ironside' by wendell holmes?",
+		"awnser":["Consitution"]
+		},	{
+		"prompt":"The ship's captain is edward smith?",
+		"awnser":["Titanic"]
+		},	{
+		"prompt":"The us cruiser delivered the hiroshima atomic bomb?",
+		"awnser":["Indiapolis"]
+		},	{
+		"prompt":"British passenger liner torpedoed by germany?",
+		"awnser":["Lusitania"]
+		},	{
+		"prompt":"German battleship, sunk british battle cruiser hood before being sunk herself?",
+		"awnser":["Bismarck"]
+		},	{
+		"prompt":"Thor heyerdahl’s raft across the pacific?",
+		"awnser":["Kon tiki","Tiki"]
+		},	{
+		"prompt":"Sailed around cape horn to california in the 1850’s; most famous was the flying cloud?",
+		"awnser":["Clipper ships","Clipper"]
+		},	{
+		"prompt":"Antarctic shrimp, food of many whales?",
+		"awnser":["Krill"]
+		},	{
+		"prompt":"Microscopic plants (phytoplankton) and animals (zooplankton); base of food chain?",
+		"awnser":["Plankton"]
+		},	{
+		"prompt":"Emperor, chinstrap, adelie, gentoo: types of this animal?",
+		"awnser":["Penguin"]
+		},	{
+		"prompt":"Largest fish?",
+		"awnser":["Whale shark"]
+		},	{
+		"prompt":"Largest animal?",
+		"awnser":["Blue whale"]
+		}	]
+}

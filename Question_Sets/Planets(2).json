@@ -1,0 +1,80 @@
+{
+	"title":"Planets",
+	"questions":[
+	{
+		"prompt":"Who discovered pluto??",
+		"awnser":["Clyde tombaugh","Tombaugh"]
+		},	{
+		"prompt":"What is the name of the largest moon of pluto??",
+		"awnser":["Charon"]
+		},	{
+		"prompt":"What comet comes every 76 years??",
+		"awnser":["Halley's comet","Halley's","Halley"]
+		},	{
+		"prompt":"What is the nebulous envelope surrounding a comet called??",
+		"awnser":["Coma"]
+		},	{
+		"prompt":"What commet appeared on the bayeux tapestry?",
+		"awnser":["Halley's comet","Halley's","Halley"]
+		},	{
+		"prompt":"What commet appeared on the eve of the 1006 norman conquest??",
+		"awnser":["Halley's comet","Halley's","Halley"]
+		},	{
+		"prompt":"On which tapestry did halley's commet appear??",
+		"awnser":["Bayeux tapestry","Bayeux"]
+		},	{
+		"prompt":"Which planet was predicted by the mathetmatical predictions of le verrier??",
+		"awnser":["Neptune"]
+		},	{
+		"prompt":"Who discovered neptune??",
+		"awnser":["Le verrier","Verrier"]
+		},	{
+		"prompt":"What is the name of the largest moon on neptune?",
+		"awnser":["Triton"]
+		},	{
+		"prompt":"What is the largest moon on uranus?",
+		"awnser":["Titania"]
+		},	{
+		"prompt":"Who discovered uranus??",
+		"awnser":["Herschel"]
+		},	{
+		"prompt":"Which planet is named after the earlist supreme god??",
+		"awnser":["Uranus"]
+		},	{
+		"prompt":"What is the name of the semi-permenant storm on jupiter??",
+		"awnser":["Great red spot","Red spot"]
+		},	{
+		"prompt":"Which moon of jupiter is named after the cupbearer to the gods??",
+		"awnser":["Ganymede"]
+		},	{
+		"prompt":"Which moon of jupiter was visited by galieo probe and is covered in ice??",
+		"awnser":["Europa"]
+		},	{
+		"prompt":"Which moon of jupiter is named after the priestess of hera??",
+		"awnser":["Io"]
+		},	{
+		"prompt":"Which moon of jupiter is the most geologically active with over 400 volcanos??",
+		"awnser":["Io"]
+		},	{
+		"prompt":"Which moon of jupiter is named after nymph of artemis??",
+		"awnser":["Calisto"]
+		},	{
+		"prompt":"Which moon of saturn has a surface covered in lakes of liquid methane??",
+		"awnser":["Titan"]
+		},	{
+		"prompt":"Who discovered jupiter??",
+		"awnser":["Galileo"]
+		},	{
+		"prompt":"What are the four largest moons of juipiter called?",
+		"awnser":["Galilean satilites","G sats"]
+		},	{
+		"prompt":"What was the name of the first lander of mars??",
+		"awnser":["Vikings 1 and 2","Vikings","Viking"]
+		},	{
+		"prompt":"What was the name of a lander on mars in 2003??",
+		"awnser":["Spirit or oppurtunity","Spirit","Oppurtunity"]
+		},	{
+		"prompt":"What was the name of the land on mars in 2012? ?",
+		"awnser":["Curiosity"]
+		}	]
+}
