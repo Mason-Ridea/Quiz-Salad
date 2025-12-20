@@ -1,0 +1,32 @@
+{
+	"title":"world artwork: module 2",
+	"questions":[
+	{
+		"prompt":"Who made Sunflowers,?",
+		"awnser":["Van gogh"]
+		},	{
+		"prompt":"Who made Starry night,?",
+		"awnser":["Van gogh"]
+		},	{
+		"prompt":"Who made The potato eaters?",
+		"awnser":["Van gogh"]
+		},	{
+		"prompt":"Who made Sunday on the island of la grande iatte,?",
+		"awnser":["Seurat"]
+		},	{
+		"prompt":"Who made At the moulin rouge,?",
+		"awnser":["Toulouse-lautrec"]
+		},	{
+		"prompt":"Who made Effiel tower?",
+		"awnser":["Effiel"]
+		},	{
+		"prompt":"Who made Statue of liberty?",
+		"awnser":["Bartholdi"]
+		},	{
+		"prompt":"Who made Guernica,?",
+		"awnser":["Picasso"]
+		},	{
+		"prompt":"Who made Persistence of memory,?",
+		"awnser":["Dali"]
+		}	]
+}

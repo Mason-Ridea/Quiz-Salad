@@ -1,0 +1,71 @@
+{
+	"title":"presidents: module 2",
+	"questions":[
+	{
+		"prompt":"Who was the 26th president of the united states??",
+		"awnser":["Theodore roosevelt","Teddy roosevelt","Roosevelt"]
+		},	{
+		"prompt":"Who was the 27th president of the united states??",
+		"awnser":["Taft"]
+		},	{
+		"prompt":"Who was the 28th president of the united states??",
+		"awnser":["Wilson"]
+		},	{
+		"prompt":"Who was the 29th president of the united states??",
+		"awnser":["Harding"]
+		},	{
+		"prompt":"Who was the 30th president of the united states??",
+		"awnser":["Coolidge"]
+		},	{
+		"prompt":"Who was the 31th president of the united states??",
+		"awnser":["Hoover"]
+		},	{
+		"prompt":"Who was the 32th president of the united states??",
+		"awnser":["Franklin roosevelt","Fdr","Roosevelt"]
+		},	{
+		"prompt":"Who was the 33th president of the united states??",
+		"awnser":["Truman"]
+		},	{
+		"prompt":"Who was the 34th president of the united states??",
+		"awnser":["Eisenhower"]
+		},	{
+		"prompt":"Who was the 35th president of the united states??",
+		"awnser":["Kennedy"]
+		},	{
+		"prompt":"Who was the 36th president of the united states??",
+		"awnser":["Johnson"]
+		},	{
+		"prompt":"Who was the 37th president of the united states??",
+		"awnser":["Nixon"]
+		},	{
+		"prompt":"Who was the 38th president of the united states??",
+		"awnser":["Ford"]
+		},	{
+		"prompt":"Who was the 39th president of the united states??",
+		"awnser":["Carter"]
+		},	{
+		"prompt":"Who was the 40th president of the united states??",
+		"awnser":["Reagan"]
+		},	{
+		"prompt":"Who was the 41th president of the united states??",
+		"awnser":["George h w bush","George hw bush","Ghw bush","Bush"]
+		},	{
+		"prompt":"Who was the 42th president of the united states??",
+		"awnser":["Clinton"]
+		},	{
+		"prompt":"Who was the 43th president of the united states??",
+		"awnser":["George w bush","Gw bush","W bush","Bush"]
+		},	{
+		"prompt":"Who was the 44th president of the united states??",
+		"awnser":["Obama"]
+		},	{
+		"prompt":"Who was the 45th president of the united states??",
+		"awnser":["Trump"]
+		},	{
+		"prompt":"Who was the 46th president of the united states??",
+		"awnser":["Biden"]
+		},	{
+		"prompt":"Who was the 47th president of the united states??",
+		"awnser":["Trump"]
+		}	]
+}

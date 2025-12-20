@@ -1,0 +1,50 @@
+{
+	"title":"Ancient history: module 3",
+	"questions":[
+	{
+		"prompt":"First great ancient greek tragedian?",
+		"awnser":["Aeschylus"]
+		},	{
+		"prompt":"Xeres flees to perisa after defeat at ___ by themistocles?",
+		"awnser":["Salamis"]
+		},	{
+		"prompt":"Who founds buddism?",
+		"awnser":["Siddhartha gautama","Gautama"]
+		},	{
+		"prompt":"Analects is by who??",
+		"awnser":["Confucius"]
+		},	{
+		"prompt":"Tao te ching is by who??",
+		"awnser":["Lao-tse"]
+		},	{
+		"prompt":"Who invents metal coinage and becomes rich!?",
+		"awnser":["Croesus"]
+		},	{
+		"prompt":"Persian religious leader who write zend-vesta?",
+		"awnser":["Zoroaster"]
+		},	{
+		"prompt":"Medes and the chaldeans destroy which assyrian capital?",
+		"awnser":["Nineveh"]
+		},	{
+		"prompt":"Who establishes very severe laws, which include the death penaltyfor sometimes trivial offenses;?",
+		"awnser":["Draco"]
+		},	{
+		"prompt":"Remus and romulus were born on what river??",
+		"awnser":["Tiber river"]
+		},	{
+		"prompt":"Father of soloman and defeated goliath?",
+		"awnser":["David"]
+		},	{
+		"prompt":"The great pyramid of giza is the tomb of who??",
+		"awnser":["Snofru"]
+		},	{
+		"prompt":"Who found mesopetamia?",
+		"awnser":["Sargon i"]
+		},	{
+		"prompt":"Howard carter finds the tomb of which boy pharoh?",
+		"awnser":["Tut"]
+		},	{
+		"prompt":"Who orders the building of the great sphinx??",
+		"awnser":["Khafra"]
+		}	]
+}

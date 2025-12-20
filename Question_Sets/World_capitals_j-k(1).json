@@ -1,0 +1,38 @@
+{
+	"title":"World Capitals J-K: module 1",
+	"questions":[
+	{
+		"prompt":"What is the capital of Jamaica?",
+		"awnser":["Kingston"]
+		},	{
+		"prompt":"What is the capital of Japan?",
+		"awnser":["Tyoko"]
+		},	{
+		"prompt":"What is the capital of Jordan?",
+		"awnser":["Amman"]
+		},	{
+		"prompt":"What is the capital of Kazakhstan?",
+		"awnser":["Astana"]
+		},	{
+		"prompt":"What is the capital of Kenya?",
+		"awnser":["Nairobi"]
+		},	{
+		"prompt":"What is the capital of Kiribati?",
+		"awnser":["Tarawa atoll"]
+		},	{
+		"prompt":"What is the capital of North Korea?",
+		"awnser":["Pyongyang"]
+		},	{
+		"prompt":"What is the capital of South Korea?",
+		"awnser":["Seoul"]
+		},	{
+		"prompt":"What is the capital of Kosovo?",
+		"awnser":["Pristina"]
+		},	{
+		"prompt":"What is the capital of Kuwait?",
+		"awnser":["Kuwait city"]
+		},	{
+		"prompt":"What is the capital of Kyrgyzstan?",
+		"awnser":["Bishkek"]
+		}	]
+}

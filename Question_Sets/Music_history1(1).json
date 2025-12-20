@@ -1,0 +1,80 @@
+{
+	"title":"music history: module 1",
+	"questions":[
+	{
+		"prompt":"Who composed The brandeburg concertos,?",
+		"awnser":["Bach"]
+		},	{
+		"prompt":"Who composed The well-tempered clavier,?",
+		"awnser":["Bach"]
+		},	{
+		"prompt":"Who composed The four seasons,?",
+		"awnser":["Vivaldi"]
+		},	{
+		"prompt":"Who composed The messiah,?",
+		"awnser":["Handel"]
+		},	{
+		"prompt":"Who composed The suprise symphony?",
+		"awnser":["Haydn"]
+		},	{
+		"prompt":"Who composed Symphony #41,?",
+		"awnser":["Mozart"]
+		},	{
+		"prompt":"Who composed The marriage of figaro,?",
+		"awnser":["Mozart"]
+		},	{
+		"prompt":"Who composed The magic flute,?",
+		"awnser":["Mozart"]
+		},	{
+		"prompt":"Who composed Fidelio,?",
+		"awnser":["Beethovan"]
+		},	{
+		"prompt":"Who composed Moonlight sonata,?",
+		"awnser":["Beethovan"]
+		},	{
+		"prompt":"Who composed La marseilles,?",
+		"awnser":["Lisle"]
+		},	{
+		"prompt":"Who composed The blue danube,?",
+		"awnser":["Strauss"]
+		},	{
+		"prompt":"Who composed Dixie,?",
+		"awnser":["Emmett"]
+		},	{
+		"prompt":"Who composed William tell,?",
+		"awnser":["Rossini"]
+		},	{
+		"prompt":"Who composed The barber of seville,?",
+		"awnser":["Rossini"]
+		},	{
+		"prompt":"Who composed The unfinished symphony,?",
+		"awnser":["Shubert"]
+		},	{
+		"prompt":"Who composed Oh, susanna,?",
+		"awnser":["Foster"]
+		},	{
+		"prompt":"Who composed America,?",
+		"awnser":["Smith"]
+		},	{
+		"prompt":"Who composed Battle hymn of the republic,?",
+		"awnser":["Howe"]
+		},	{
+		"prompt":"Who composed Madama butterfly,?",
+		"awnser":["Puccini"]
+		},	{
+		"prompt":"Who composed Aida?",
+		"awnser":["Verdi"]
+		},	{
+		"prompt":"Who composed Carmen,?",
+		"awnser":["Bizet"]
+		},	{
+		"prompt":"Who composed The pirates of penzance,?",
+		"awnser":["Sullizan"]
+		},	{
+		"prompt":"Who composed Hms pinafore,?",
+		"awnser":["Sullizan"]
+		},	{
+		"prompt":"Who composed American the beautiful?",
+		"awnser":["Bates"]
+		}	]
+}

@@ -1,0 +1,35 @@
+{
+	"title":"World Capitals A: module 1",
+	"questions":[
+	{
+		"prompt":"What is the capital of Afganistan?",
+		"awnser":["Kabul"]
+		},	{
+		"prompt":"What is the capital of Albainia?",
+		"awnser":["Tirane"]
+		},	{
+		"prompt":"What is the capital of Algeria?",
+		"awnser":["Algiers"]
+		},	{
+		"prompt":"What is the capital of Angola?",
+		"awnser":["Luanda"]
+		},	{
+		"prompt":"What is the capital of Antigua and barbuda?",
+		"awnser":["Saint johns"]
+		},	{
+		"prompt":"What is the capital of Argentina?",
+		"awnser":["Buenos aires"]
+		},	{
+		"prompt":"What is the capital of Armenia?",
+		"awnser":["Yerevan"]
+		},	{
+		"prompt":"What is the capital of Austraila?",
+		"awnser":["Canberra"]
+		},	{
+		"prompt":"What is the capital of Austria?",
+		"awnser":["Vienna"]
+		},	{
+		"prompt":"What is the capital of Azerbaijan?",
+		"awnser":["Baku"]
+		}	]
+}

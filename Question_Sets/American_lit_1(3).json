@@ -1,0 +1,80 @@
+{
+	"title":"american Lit 1: module 3",
+	"questions":[
+	{
+		"prompt":"Who wrote The sound and the fury?",
+		"awnser":["Faulkner"]
+		},	{
+		"prompt":"Who wrote Absolom, absolom?",
+		"awnser":["Faulkner"]
+		},	{
+		"prompt":"Who wrote Winesburg ohio?",
+		"awnser":["Anderson"]
+		},	{
+		"prompt":"Who wrote Gone with the wind?",
+		"awnser":["Mitchell"]
+		},	{
+		"prompt":"Who wrote Native son?",
+		"awnser":["Wright"]
+		},	{
+		"prompt":"Who wrote The naked and the dead?",
+		"awnser":["Mailer"]
+		},	{
+		"prompt":"Who wrote All the king's men?",
+		"awnser":["Warren"]
+		},	{
+		"prompt":"Who wrote One flew over the cuckoo's nest?",
+		"awnser":["Kesey"]
+		},	{
+		"prompt":"Who wrote The sun also rises?",
+		"awnser":["Hemingway"]
+		},	{
+		"prompt":"Who wrote A farewell to arms?",
+		"awnser":["Hemingway"]
+		},	{
+		"prompt":"Who wrote The old man and the sea?",
+		"awnser":["Hemingway"]
+		},	{
+		"prompt":"Who wrote The color purple?",
+		"awnser":["Walker"]
+		},	{
+		"prompt":"Who wrote Invisible man?",
+		"awnser":["Elison"]
+		},	{
+		"prompt":"Who wrote Catcher in the rye?",
+		"awnser":["Salinger"]
+		},	{
+		"prompt":"Who wrote The pearl?",
+		"awnser":["Steinbeck"]
+		},	{
+		"prompt":"Who wrote The jungle?",
+		"awnser":["Sinclair"]
+		},	{
+		"prompt":"Who wrote Trees?",
+		"awnser":["Kilmer"]
+		},	{
+		"prompt":"Who wrote Chicago?",
+		"awnser":["Sandburg"]
+		},	{
+		"prompt":"Who wrote Grass?",
+		"awnser":["Sandburg"]
+		},	{
+		"prompt":"Who wrote Leaves of grass?",
+		"awnser":["Whitman"]
+		},	{
+		"prompt":"Who wrote The american spelling book?",
+		"awnser":["Webster"]
+		},	{
+		"prompt":"Who wrote Consitution?",
+		"awnser":["Madison"]
+		},	{
+		"prompt":"Who wrote Star spangled banner?",
+		"awnser":["Francis scott key","Key"]
+		},	{
+		"prompt":"Who wrote Moby dick?",
+		"awnser":["Melville"]
+		},	{
+		"prompt":"Who wrote Billy budd?",
+		"awnser":["Melville"]
+		}	]
+}

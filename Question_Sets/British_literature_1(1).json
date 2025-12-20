@@ -1,0 +1,90 @@
+{
+	"title":"british literature 1: module 1",
+	"questions":[
+	{
+		"prompt":"Which author wrote The canturbury tales?",
+		"awnser":["Chaucer"]
+		},	{
+		"prompt":"Which author wrote Le morte d'arthur?",
+		"awnser":["Mallory"]
+		},	{
+		"prompt":"Which author wrote Hamlet?",
+		"awnser":["Shakespeare"]
+		},	{
+		"prompt":"Which author wrote Othello?",
+		"awnser":["Shakespeare"]
+		},	{
+		"prompt":"Which author wrote King lear?",
+		"awnser":["Shakespeare"]
+		},	{
+		"prompt":"Which author wrote Macbeth?",
+		"awnser":["Shakespeare"]
+		},	{
+		"prompt":"Which author wrote Romeo and juliet?",
+		"awnser":["Shakespeare"]
+		},	{
+		"prompt":"Which author wrote Twelfth night?",
+		"awnser":["Shakespeare"]
+		},	{
+		"prompt":"Which author wrote The merchant of venice ?",
+		"awnser":["Shakespeare"]
+		},	{
+		"prompt":"Which author wrote Doctor faustus?",
+		"awnser":["Marlowe"]
+		},	{
+		"prompt":"Which author wrote The faire queen?",
+		"awnser":["Spenser"]
+		},	{
+		"prompt":"Which author wrote Utopia?",
+		"awnser":["More"]
+		},	{
+		"prompt":"Which author wrote Pilgrims progress?",
+		"awnser":["Bunyan"]
+		},	{
+		"prompt":"Which author wrote Leviathan?",
+		"awnser":["Hobbes"]
+		},	{
+		"prompt":"Which author wrote An essay concerning human understanding?",
+		"awnser":["Locke"]
+		},	{
+		"prompt":"Which author wrote Paradise lost/regained?",
+		"awnser":["Millton"]
+		},	{
+		"prompt":"Which author wrote The compleat angler?",
+		"awnser":["Walton"]
+		},	{
+		"prompt":"Which author wrote Hudibras?",
+		"awnser":["Butler"]
+		},	{
+		"prompt":"Which author wrote The life of samuel johnson?",
+		"awnser":["Boswell"]
+		},	{
+		"prompt":"Which author wrote Robinson crusoe?",
+		"awnser":["Defoe"]
+		},	{
+		"prompt":"Which author wrote The decline and fall of the roman empire?",
+		"awnser":["Gibbon"]
+		},	{
+		"prompt":"Which author wrote A dictionary of the english language?",
+		"awnser":["Samuel johnson"]
+		},	{
+		"prompt":"Which author wrote Rape of the lock?",
+		"awnser":["Pope"]
+		},	{
+		"prompt":"Which author wrote The vicar of wakefield?",
+		"awnser":["Goldsmith"]
+		},	{
+		"prompt":"Which author wrote The school for scandal?",
+		"awnser":["Swift"]
+		},
+		{
+		"prompt":"Which author wrote Gullivers travels?",
+		"awnser":["Swift"]
+		},	{
+		"prompt":"Which author wrote A modest proposal?",
+		"awnser":["Swift"]
+		},	{
+		"prompt":"Which author wrote Don juan?",
+		"awnser":["Byron"]
+		}		]
+}

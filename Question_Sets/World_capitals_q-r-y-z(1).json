@@ -1,0 +1,23 @@
+{
+	"title":"World Capitals Q-R-Y-Z: module 1",
+	"questions":[
+	{
+		"prompt":"What is the capital of Qatar?",
+		"awnser":["Doha"]
+		},	{
+		"prompt":"What is the capital of Romania?",
+		"awnser":["Bucharest"]
+		},	{
+		"prompt":"What is the capital of Rwanda?",
+		"awnser":["Kigali"]
+		},	{
+		"prompt":"What is the capital of Yemen?",
+		"awnser":["Sanaa"]
+		},	{
+		"prompt":"What is the capital of Zambia?",
+		"awnser":["Lusaka"]
+		},	{
+		"prompt":"What is the capital of Zimbabwe?",
+		"awnser":["Harare"]
+		}	]
+}

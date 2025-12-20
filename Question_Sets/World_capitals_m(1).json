@@ -1,0 +1,62 @@
+{
+	"title":"World Capitals M: module 1",
+	"questions":[
+	{
+		"prompt":"What is the capital of Macedonia?",
+		"awnser":["Skopje"]
+		},	{
+		"prompt":"What is the capital of Madagascar?",
+		"awnser":["Antananarivo"]
+		},	{
+		"prompt":"What is the capital of Malawi?",
+		"awnser":["Lilongwe"]
+		},	{
+		"prompt":"What is the capital of Malaysia?",
+		"awnser":["Kuala lumpur"]
+		},	{
+		"prompt":"What is the capital of Maldives?",
+		"awnser":["Male"]
+		},	{
+		"prompt":"What is the capital of Mali?",
+		"awnser":["Bamako"]
+		},	{
+		"prompt":"What is the capital of Malta?",
+		"awnser":["Valletta"]
+		},	{
+		"prompt":"What is the capital of Marshall island?",
+		"awnser":["Majuro"]
+		},	{
+		"prompt":"What is the capital of Maritania?",
+		"awnser":["Nouakchott"]
+		},	{
+		"prompt":"What is the capital of Mauritus?",
+		"awnser":["Port louis"]
+		},	{
+		"prompt":"What is the capital of Mexico?",
+		"awnser":["Mexico city"]
+		},	{
+		"prompt":"What is the capital of Micronesia?",
+		"awnser":["Palikir"]
+		},	{
+		"prompt":"What is the capital of Moldova?",
+		"awnser":["Chisinau"]
+		},	{
+		"prompt":"What is the capital of Monaco?",
+		"awnser":["Monaco"]
+		},	{
+		"prompt":"What is the capital of Mongolia?",
+		"awnser":["Ulaanbaatar"]
+		},	{
+		"prompt":"What is the capital of Montenegro?",
+		"awnser":["Podgorica"]
+		},	{
+		"prompt":"What is the capital of Morocco?",
+		"awnser":["Rebat"]
+		},	{
+		"prompt":"What is the capital of Mozambique?",
+		"awnser":["Maputo"]
+		},	{
+		"prompt":"What is the capital of Myanmar?",
+		"awnser":["Nay pyi taw"]
+		}	]
+}

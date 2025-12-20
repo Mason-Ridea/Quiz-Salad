@@ -1,0 +1,77 @@
+{
+	"title":"only thing to happen in __: module 1",
+	"questions":[
+	{
+		"prompt":"in Carthage, illinois, who is killed by a mob?",
+		"awnser":["Joeseph smith","Smith"]
+		},	{
+		"prompt":"in Okracoke island, nc who is captuered??",
+		"awnser":["Blackbeard"]
+		},	{
+		"prompt":"in Lakehurst,nj what crashes and burns??",
+		"awnser":["Hindenburg"]
+		},	{
+		"prompt":"in West roxbury, ma: where who establishes the utopian community brooke farm??",
+		"awnser":["Ripley"]
+		},	{
+		"prompt":"in Independence, missouri: birthplace of who??",
+		"awnser":["Harry truman","Truman"]
+		},	{
+		"prompt":"in Independence, missouri: is the start of what?",
+		"awnser":["Oregon trail"]
+		},	{
+		"prompt":"in Where is the republican party founded??",
+		"awnser":["Ripon"]
+		},	{
+		"prompt":"in St. joseph, missouri:, start of what??",
+		"awnser":["Pony express"]
+		},	{
+		"prompt":"in Seneca falls, ny: is where lucretia mott and who hold a convention for women's rights?",
+		"awnser":["Stanton"]
+		},	{
+		"prompt":"in Titusville, pa: first oil well drilled by who?",
+		"awnser":["Drake"]
+		},	{
+		"prompt":"in Pottawatomie, kansas: massacre led by who, three years before harpers ferry?",
+		"awnser":["John brown","Brown"]
+		},	{
+		"prompt":"in Grovers mill, nj: martians land in whose war of the worlds?",
+		"awnser":["Wells"]
+		},	{
+		"prompt":"in Port royal, va: who caught and killed?",
+		"awnser":["Booth"]
+		},	{
+		"prompt":"in Adair, iowa: whose first back heist?",
+		"awnser":["Jesse james","James"]
+		},	{
+		"prompt":"in Fort sumner, nm: who killed by pat garrett?",
+		"awnser":["Billy the kid"]
+		},	{
+		"prompt":"in Skeleton canyon, az: who surrenders?",
+		"awnser":["Geronimo"]
+		},	{
+		"prompt":"in Homestead, pa: state troops put down strike against whose steel company?",
+		"awnser":["Carnegie"]
+		},	{
+		"prompt":"in Fall river, ma: who acquitted of ax murders of her parents?",
+		"awnser":["Borden"]
+		},	{
+		"prompt":"in Tupelo, ms: who is born?",
+		"awnser":["Elvis"]
+		},	{
+		"prompt":"in Warm springs, georgia: who dies?",
+		"awnser":["Franklin Roosevelt","Fdr","Roosevelt"]
+		},	{
+		"prompt":"in Hyde park, ny: whose home?",
+		"awnser":["Franklin Roosevelt", "Fdr","Roosevelt"]
+		},	{
+		"prompt":"in Oyster bay, ny: site of sagamore hill, whose home?",
+		"awnser":["Teddy roosevelt","Tr","Roosevelt"]
+		},	{
+		"prompt":"in Ketchum, idaho: who commits suicide??",
+		"awnser":["Hemingway"]
+		},	{
+		"prompt":"in Fulton, mo: who had the iron curtain speech?",
+		"awnser":["Churchill"]
+		}	]
+}

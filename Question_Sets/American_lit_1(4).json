@@ -1,0 +1,44 @@
+{
+	"title":"american Lit 1: module 4",
+	"questions":[
+	{
+		"prompt":"Who wrote Uncle tom's canbin?",
+		"awnser":["Harriet beacher stowe","Stowe"]
+		},	{
+		"prompt":"Who wrote Ben hur?",
+		"awnser":["Lew wallace"]
+		},	{
+		"prompt":"Who wrote The red badge of courage?",
+		"awnser":["Crane"]
+		},	{
+		"prompt":"Who wrote Maggie:a girl of the streets?",
+		"awnser":["Crane"]
+		},	{
+		"prompt":"Who wrote The prince and the pauper?",
+		"awnser":["Twain"]
+		},	{
+		"prompt":"Who wrote Death of a salesman?",
+		"awnser":["Miller"]
+		},	{
+		"prompt":"Who wrote The crucible?",
+		"awnser":["Miller"]
+		},	{
+		"prompt":"Who wrote The little foxes?",
+		"awnser":["Hellman"]
+		},	{
+		"prompt":"Who wrote The call of the wild?",
+		"awnser":["London"]
+		},	{
+		"prompt":"Who wrote Look homeward, angel?",
+		"awnser":["Wolfe"]
+		},	{
+		"prompt":"Who wrote The good earth?",
+		"awnser":["Buck"]
+		},	{
+		"prompt":"Who wrote The waste land?",
+		"awnser":["TS eliot","Eliot"]
+		},	{
+		"prompt":"Who wrote The devil and daniel webster?",
+		"awnser":["Benet"]
+		}	]
+}

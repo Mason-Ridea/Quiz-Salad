@@ -1,0 +1,47 @@
+{
+	"title":"World Capitals G-H: module 1",
+	"questions":[
+	{
+		"prompt":"What is the capital of Gabon?",
+		"awnser":["Libreville"]
+		},	{
+		"prompt":"What is the capital of The Gambia?",
+		"awnser":["Banjul"]
+		},	{
+		"prompt":"What is the capital of Georgia?",
+		"awnser":["Tbilisi"]
+		},	{
+		"prompt":"What is the capital of Germany?",
+		"awnser":["Berlin"]
+		},	{
+		"prompt":"What is the capital of Ghana?",
+		"awnser":["Accra"]
+		},	{
+		"prompt":"What is the capital of Greece?",
+		"awnser":["Athens"]
+		},	{
+		"prompt":"What is the capital of Grenada?",
+		"awnser":["St george"]
+		},	{
+		"prompt":"What is the capital of Guatemala?",
+		"awnser":["Guatemala city"]
+		},	{
+		"prompt":"What is the capital of Guinea?",
+		"awnser":["Conakry"]
+		},	{
+		"prompt":"What is the capital of Guinea—Bissau?",
+		"awnser":["Bissau"]
+		},	{
+		"prompt":"What is the capital of Guyana?",
+		"awnser":["Georgetown"]
+		},	{
+		"prompt":"What is the capital of Haiti?",
+		"awnser":["Port-au-prince"]
+		},	{
+		"prompt":"What is the capital of Hondoras?",
+		"awnser":["Tegucigalpa"]
+		},	{
+		"prompt":"What is the capital of Hungary?",
+		"awnser":["Budapest"]
+		}	]
+}

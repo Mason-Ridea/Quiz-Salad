@@ -1,0 +1,80 @@
+{
+	"title":"american Lit 1: module 1",
+	"questions":[
+	{
+		"prompt":"Who wrote History of plimouth plantation?",
+		"awnser":["Bradford"]
+		},	{
+		"prompt":"Who wrote Thanatopsis?",
+		"awnser":["Bryant"]
+		},	{
+		"prompt":"Who wrote Old ironsides?",
+		"awnser":["Holmes"]
+		},	{
+		"prompt":"Who wrote The raven?",
+		"awnser":["Edger allen poe","Poe"]
+		},	{
+		"prompt":"Who wrote Paul revere ride?",
+		"awnser":["Longfellow"]
+		},	{
+		"prompt":"Who wrote The swan of hiawatha?",
+		"awnser":["Longfellow"]
+		},	{
+		"prompt":"Who wrote The wreck of hesperus?",
+		"awnser":["Longfellow"]
+		},	{
+		"prompt":"Who wrote The courtship of miles standish,?",
+		"awnser":["Longfellow"]
+		},	{
+		"prompt":"Who wrote Crossing brooklyn fariy?",
+		"awnser":["Whitman"]
+		},	{
+		"prompt":"Who wrote Song of myself?",
+		"awnser":["Whitman"]
+		},	{
+		"prompt":"Who wrote Barbara fritchie?",
+		"awnser":["Whittier"]
+		},	{
+		"prompt":"Who wrote Murders in the rue morgue?",
+		"awnser":["Poe"]
+		},	{
+		"prompt":"Who wrote The pit and pendulum?",
+		"awnser":["Poe"]
+		},	{
+		"prompt":"Who wrote The fall of the house of usher?",
+		"awnser":["Poe"]
+		},	{
+		"prompt":"Who wrote The luck of roaring camp?",
+		"awnser":["Harte"]
+		},	{
+		"prompt":"Who wrote The celebreated jumping frog of calveras county ?",
+		"awnser":["Twain"]
+		},	{
+		"prompt":"Who wrote Uncle remus?",
+		"awnser":["Harris"]
+		},	{
+		"prompt":"Who wrote The sketchbook of geoffrey canyon?",
+		"awnser":["Irving"]
+		},	{
+		"prompt":"Who wrote He last of the mohicans?",
+		"awnser":["Cooper"]
+		},	{
+		"prompt":"Who wrote The deer slayer?",
+		"awnser":["Cooper"]
+		},	{
+		"prompt":"Who wrote Two years before the mast?",
+		"awnser":["Dana"]
+		},	{
+		"prompt":"Who wrote Self reliance?",
+		"awnser":["Emerson"]
+		},	{
+		"prompt":"Who wrote Little woman?",
+		"awnser":["Alcott"]
+		},	{
+		"prompt":"Who wrote Walden?",
+		"awnser":["Thoreau"]
+		},	{
+		"prompt":"Who wrote Civil disobediance?",
+		"awnser":["Thoreau"]
+		}	]
+}

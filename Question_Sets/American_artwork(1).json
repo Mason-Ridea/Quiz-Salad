@@ -1,0 +1,53 @@
+{
+	"title":"american artwork: module 1",
+	"questions":[
+	{
+		"prompt":"Who made Portait of paul revere,?",
+		"awnser":["Copley"]
+		},	{
+		"prompt":"Who made Battle of bunker hill,?",
+		"awnser":["Trumbell"]
+		},	{
+		"prompt":"Who made Signing of the declaration of independence,?",
+		"awnser":["Trumbell"]
+		},	{
+		"prompt":"Who made Penn's treaty with the indians,?",
+		"awnser":["West"]
+		},	{
+		"prompt":"Who made Portrait of washington?",
+		"awnser":["Stuart"]
+		},	{
+		"prompt":"Who made Creation of democratic donkey, republican elephant, and tammany tiger,?",
+		"awnser":["Nast"]
+		},	{
+		"prompt":"Who made The gulf stream,?",
+		"awnser":["Homer"]
+		},	{
+		"prompt":"Who made Snap the whip?",
+		"awnser":["Homer"]
+		},	{
+		"prompt":"Who made Arrangement in grey and black,?",
+		"awnser":["Whistler"]
+		},	{
+		"prompt":"Who made Mount rushmore,?",
+		"awnser":["Borglum"]
+		},	{
+		"prompt":"Who made Statue of abraham lincoln at lincoln memorial,?",
+		"awnser":["French"]
+		},	{
+		"prompt":"Who made American gothic?",
+		"awnser":["Wood"]
+		},	{
+		"prompt":"Who made Christina's world,?",
+		"awnser":["Wyeth"]
+		},	{
+		"prompt":"Who made 360 covers for saturday evening post,?",
+		"awnser":["Rockwell"]
+		},	{
+		"prompt":"Who made Campbell's soup can,?",
+		"awnser":["Warhol"]
+		},	{
+		"prompt":"Who made The vietnam memorial,?",
+		"awnser":["Lin"]
+		}	]
+}

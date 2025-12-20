@@ -1,0 +1,68 @@
+{
+	"title":"chem terms: module 1",
+	"questions":[
+	{
+		"prompt":"Names end in ol, has an oh block”?",
+		"awnser":["Alcohol"]
+		},	{
+		"prompt":"Usually volatile fragrant liquid, includes fats?",
+		"awnser":["Esters"]
+		},	{
+		"prompt":"What is a general mix of a hydrocarbon.?",
+		"awnser":["Kerosene"]
+		},	{
+		"prompt":"Turns a far into soap?",
+		"awnser":["Saponification"]
+		},	{
+		"prompt":"Seperating different parts of a mixture?",
+		"awnser":["Fractionation","Fraction"]
+		},	{
+		"prompt":"What burns orange-yellow?",
+		"awnser":["Sodium choride"]
+		},	{
+		"prompt":"Burns and oxidizes green?",
+		"awnser":["Copper"]
+		},	{
+		"prompt":"What turns red in acid and blue in base?",
+		"awnser":["Litmus paper"]
+		},	{
+		"prompt":"Pheolphthalein turns red in the presence of what??",
+		"awnser":["Base"]
+		},	{
+		"prompt":"What is the universal solvent?",
+		"awnser":["Water"]
+		},	{
+		"prompt":"Disorder of a system?",
+		"awnser":["Entropy"]
+		},	{
+		"prompt":"A weak acid?",
+		"awnser":["Acetic"]
+		},	{
+		"prompt":"Strong base?",
+		"awnser":["Sodium hydroxide","Sod hydox"]
+		},	{
+		"prompt":"What are compounds ending in ose??",
+		"awnser":["Sugar"]
+		},	{
+		"prompt":"Whose number is the amount of molecules in a mole?",
+		"awnser":["Avogadros"]
+		},	{
+		"prompt":"Circular organic molecule?",
+		"awnser":["Benzene"]
+		},	{
+		"prompt":"What is the principal component of limestone and chalk?",
+		"awnser":["Calcium carbonate"]
+		},	{
+		"prompt":"Type of bond where one atom is completely lost leading to multiple ions?",
+		"awnser":["Ionic bond"]
+		},	{
+		"prompt":"An example of a strong electrolyte where it is 100% disassociated with the ion?",
+		"awnser":["Sodium chloride"]
+		},	{
+		"prompt":"All acids, bases, and salts are what??",
+		"awnser":["Electrolytes"]
+		},	{
+		"prompt":"Non-electrolytes, such as what?, do not allow current to flow in an electrochemical cell.?",
+		"awnser":["Sugar"]
+		}	]
+}

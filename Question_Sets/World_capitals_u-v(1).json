@@ -1,0 +1,35 @@
+{
+	"title":"World Capitals U-V: module 1",
+	"questions":[
+	{
+		"prompt":"What is the capital of Uganda?",
+		"awnser":["Kampala"]
+		},	{
+		"prompt":"What is the capital of Ukraine?",
+		"awnser":["Kiev"]
+		},	{
+		"prompt":"What is the capital of Uae?",
+		"awnser":["Abu dhabi"]
+		},	{
+		"prompt":"What is the capital of Uk?",
+		"awnser":["London"]
+		},	{
+		"prompt":"What is the capital of Usa?",
+		"awnser":["Washington dc","Dc"]
+		},	{
+		"prompt":"What is the capital of Uruguay?",
+		"awnser":["Montevideo"]
+		},	{
+		"prompt":"What is the capital of Uzbekistan?",
+		"awnser":["Tashkent"]
+		},	{
+		"prompt":"What is the capital of Vanuatu?",
+		"awnser":["Port-vila"]
+		},	{
+		"prompt":"What is the capital of Vietnam?",
+		"awnser":["Hanoi"]
+		},	{
+		"prompt":"What is the capital of Venezuela?",
+		"awnser":["Carcas"]
+		}	]
+}

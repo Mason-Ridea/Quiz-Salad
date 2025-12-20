@@ -1,0 +1,80 @@
+{
+	"title":"american Lit 1: module 2",
+	"questions":[
+	{
+		"prompt":"Who wrote The scarlet letter?",
+		"awnser":["Hawthorne"]
+		},	{
+		"prompt":"Who wrote The house of seven gables?",
+		"awnser":["Hawthrone"]
+		},	{
+		"prompt":"Who wrote The man without a country?",
+		"awnser":["Hale"]
+		},	{
+		"prompt":"Who wrote The adventures of tom sawyer?",
+		"awnser":["Mark twain","Twain"]
+		},	{
+		"prompt":"Who wrote The adventures of huckleberry finn?",
+		"awnser":["Twain"]
+		},	{
+		"prompt":"Who wrote A connecticut yankee in king's arthur court?",
+		"awnser":["Twain"]
+		},	{
+		"prompt":"Who wrote Sister carrie?",
+		"awnser":["Dreiser"]
+		},	{
+		"prompt":"Who wrote Spoon river anthology?",
+		"awnser":["Masters"]
+		},	{
+		"prompt":"Who wrote Mending wall?",
+		"awnser":["Robert frost","Frost"]
+		},	{
+		"prompt":"Who wrote Richard corey?",
+		"awnser":["Robinson"]
+		},	{
+		"prompt":"Who wrote The love song of j alfred prufrock?",
+		"awnser":["Eliot"]
+		},	{
+		"prompt":"Who wrote John's brown body?",
+		"awnser":["Benet"]
+		},	{
+		"prompt":"Who wrote The build a fire?",
+		"awnser":["Jack london"]
+		},	{
+		"prompt":"Who wrote The ransom of red cheif?",
+		"awnser":["Henry"]
+		},	{
+		"prompt":"Who wrote The secret life of walter mitty?",
+		"awnser":["Thruber"]
+		},	{
+		"prompt":"Who wrote Mourning becomes electra?",
+		"awnser":["O'neil"]
+		},	{
+		"prompt":"Who wrote The emperor jones?",
+		"awnser":["O'neil"]
+		},	{
+		"prompt":"Who wrote Our town?",
+		"awnser":["Wilder"]
+		},	{
+		"prompt":"Who wrote The glass menagerie?",
+		"awnser":["Williams"]
+		},	{
+		"prompt":"Who wrote White fang?",
+		"awnser":["London"]
+		},	{
+		"prompt":"Who wrote My antonia?",
+		"awnser":["Cather"]
+		},	{
+		"prompt":"Who wrote Ethan frome?",
+		"awnser":["Wharton"]
+		},	{
+		"prompt":"Who wrote An american tragedy?",
+		"awnser":["Dreiser"]
+		},	{
+		"prompt":"Who wrote Main street?",
+		"awnser":["Lewis"]
+		},	{
+		"prompt":"Who wrote The bridge of san luis ray?",
+		"awnser":["Wilder"]
+		}	]
+}

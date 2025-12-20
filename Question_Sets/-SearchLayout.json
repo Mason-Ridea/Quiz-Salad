@@ -3,13 +3,25 @@
         "British (-)" : {
             "British poetry (1.)" : "Brit-poem-1.json",
             "British poetry (2.)" : "Brit-poem-2.json",
-            "British poetry (3.)" : "Brit-poem-3.json"
+            "British poetry (3.)" : "Brit-poem-3.json",
+            "British literature (1.)" : "British_literature_1(1).json",
+            "British literature (2.)" : "British_literature_2(1).json",
+            "British literature (3.)" : "British_literature_2(2).json"
+        },
+        "American Literature (-)" : {
+            "American literature 1 (1.)" : "American_lit_1(1).json",
+            "American literature 1 (2.)" : "American_lit_1(2).json",
+            "American literature 1 (3.)" : "American_lit_1(3).json",
+            "American literature 1 (4.)" : "American_lit_1(4).json"
         },
         "Modern Literature (1.)":"Modern-Literature-p1.json",
         "Modern Literature (2.)":"Modern-Literature-p2.json",
         "Ancient Literature (1.)" : "Ancient_history_lit.json",
-        "Literature Characters(1.)":"Lit_characters_p1.json",
-        "Literature Characters(2.)":"Lit_characters_p2.json"
+        "World Literature (1.)" : "World_literature(1).json",
+        "World Literature (2.)" : "Miscellanous_literature(1).json",
+        "Characters in Literature(1.)":"Lit_characters_p1.json",
+        "Characters in Literature(2.)":"Lit_characters_p2.json"
+
     },
     "History (-)": {
         "American History (-)" : {
@@ -20,10 +32,18 @@
             "Everything civil war! (2.)" : "Everything_civil_war!(2).json",
             "Everything civil war! (3.)" : "Everything_civil_war!(3).json",
             "American history 1941-1946(1.)" : "American_history_1941-1946(1).json",
-            "American history 1941-1946(2.)" : "American_history_1941-1946(2).json"
-        },
-        
+            "American history 1941-1946(2.)" : "American_history_1941-1946(2).json",
+            "American history 1947-1953":"American_hist_1947_-_1953(1).json",
+            "American history 1954-1960" : "American_hist_1954_-_1960(1).json"
+        },    
         "World History (-)" : {
+            "Ancient History 1 (1.)":"Ancient_history(1).json",
+            "Ancient History 1 (2.)":"Ancient_history(2).json",
+            "Ancient History 1 (3.)":"Ancient_history(3).json",
+            "World History 455-1346 (1.)":"World_history_455-1346(1).json",
+            "World History 455-1346 (2.)":"World_history_455-1346(2).json",
+            "World History 1350-1520 (1.)":"World_hist_1350_-_1520(1).json",
+            "World History 1350-1520 (2.)":"World_hist_1350_-_1520(2).json",
             "World History 1610-88 (1.)" : "hist1610-88-p1.json",
             "World History 1610-88 (2.)" : "hist1610-88-p2.json",
             "World History 1610-88 (3.)" : "hist1610-88-p3.json",
@@ -39,23 +59,45 @@
     },
     "Arts and culture (-)":{
         "Mythology (-)" : {
-            "Myth_1 (1.)" : "Myth_1(1).json",
-            "Myth_1 (2.)" : "Myth_1(2).json",
-            "Myth_1 (3.)" : "Myth_1(3).json",
+            "Myth 1 (1.)" : "Myth_1(1).json",
+            "Myth 1 (2.)" : "Myth_1(2).json",
+            "Myth 1 (3.)" : "Myth_1(3).json",
             "Myth 2 (1.)": "Myth_2_p1.json",
             "Myth 2 (2.)": "Myth_2_p2.json",
             "Myth 3 (3.)": "Myth_2_p3.json"
         },
         "Music" : {
+            "Music History 1 (1.)" : "Music_history1(1).json",
+            "Music History 1 (2.)" : "Music_history1(2).json",
             "Music History 2 (1.)" : "Music-hist-1.json",
             "Music History 2 (2.)" : "Music-hist-2.json",
             "Music History 2 (3.)" : "Music-hist-3.json" 
+        },
+        "Arts" : {
+            "American Artwork" : "American_artwork(1).json",
+            "World Artwork (1.)" : "World_artwork(1).json",
+            "World Artwork (2.)" : "World_artwork(2).json"
         }
     },
     "Geography (-)":{
         "Capitals(-)" : {
             "State Capitals (1.)" : "State_Capitals_p1.json",
-            "State Capitals (2.)" : "State_Capitals_p2.json"
+            "State Capitals (2.)" : "State_Capitals_p2.json",
+            "World Capital A" : "World_capitals_a(1).json",
+            "World Capital B" : "World_capitals_b(1).json",
+            "World Capital C" : "World_capitals_c(1).json",
+            "World Capital D, E, F" : "World_capitals_d-e-f(1).json",
+            "World Capital G, H" : "World_capitals_g-h(1).json",
+            "World Capital I" : "World_capitals_i(1).json",
+            "World Capital J, K" : "World_capitals_j-k(1).json",
+            "World Capital L" : "World_capitals_l(1).json",
+            "World Capital M" : "World_capitals_m(1).json",
+            "World Capital N, O" : "World_capitals_n-o(1).json",
+            "World Capital P" : "World_capitals_p(1).json",
+            "World Capital Q, R, Y, Z" : "World_capitals_a(1).json",
+            "World Capital S" : "World_capitals_s(1).json",
+            "World Capital T" : "World_capitals_t(1).json",
+            "World Capital U, V" : "World_capitals_u-v(1).json"
         }
     },
     "Science (-)":{
@@ -65,7 +107,9 @@
             "Space facts and events(1.)" : "Planets(1).json",
             "Space facts and events(2.)" : "Planets(2).json",
             "Space facts and events(3.)" : "Planets(3).json" 
-        }
+        },
+        "Chemistry Terminology" : "Chem_terms(1).json",
+        "Significant Chemists" : "Chem_people(1).json"
     },
     "miscellaneous (-)":{
         "State Nicknames(1.)" : "State_Nicknames_p1.json",
@@ -74,9 +118,19 @@
         "The Arghh Page(2.)" : "The_arghh_page(2).json",
         "The Arghh Page(3.)" : "The_arghh_page(3).json",
         "The Arghh Page(4.)" : "The_arghh_page(4).json",
-        "College mascots(1.)" : "College_mascots(1).json",
-        "College mascots(2.)" : "College_mascots(2).json",
-        "College mascots(3.)" : "College_mascots(3).json"
+        "College Mascots(1.)" : "College_mascots(1).json",
+        "College Mascots(2.)" : "College_mascots(2).json",
+        "College Mascots(3.)" : "College_mascots(3).json",
+        "The Only Thing That Happened In!" : "Only_thing_to_happen_in___(1).json",
+        "Quiz Master Sterotypes (1.)" : "Qm_1(1).json",
+        "Quiz Master Sterotypes (2.)" : "Qm_1(2).json",
+        "Quiz Master Sterotypes (3.)" : "Qm_1(3).json"
+    },
+    "American Poiltics (-)" : {
+      "Cabinet" : "Cabinet_and_mayors(1).json",
+      "Significant Politicians and Court Justices" : "Senators_governers_and_supreme_court(1).json",
+      "United States Presidents (1.)" : "Presidents(1).json",
+      "United States Presidents (2.)" : "Presidents(2).json"  
     },
     "Spanish langauge (-)":{
         "Spanish vocabulary one" : "Spanish-basic-vocab-1.json"

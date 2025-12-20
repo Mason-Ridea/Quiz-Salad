@@ -1,0 +1,65 @@
+{
+	"title":"music history: module 2",
+	"questions":[
+	{
+		"prompt":"Who composed Hansel and gretel,?",
+		"awnser":["Humperdinck"]
+		},	{
+		"prompt":"Who composed The 1812 overture,?",
+		"awnser":["Tchaikovsky","Tchai"]
+		},	{
+		"prompt":"Who composed Swan lake,?",
+		"awnser":["Tchaikovsky","Tchai"]
+		},	{
+		"prompt":"Who composed The nutcracker,?",
+		"awnser":["Tchaikovsky","Tchai"]
+		},	{
+		"prompt":"Who composed Scherazade,?",
+		"awnser":["Rimsky-korsikov","Rk"]
+		},	{
+		"prompt":"Who composed Peter and the wolf,?",
+		"awnser":["Prokofiev"]
+		},	{
+		"prompt":"Who composed The rite of spring,?",
+		"awnser":["Stravinsky"]
+		},	{
+		"prompt":"Who composed Bolero,?",
+		"awnser":["Ravel"]
+		},	{
+		"prompt":"Who composed Finlandia,?",
+		"awnser":["Sibelius"]
+		},	{
+		"prompt":"Who composed La mer?",
+		"awnser":["Debussy"]
+		},	{
+		"prompt":"Who composed Prellude to the afternoon of a faun,?",
+		"awnser":["Debussy"]
+		},	{
+		"prompt":"Who composed From the new world symphony,?",
+		"awnser":["Dvorak"]
+		},	{
+		"prompt":"Who composed Kiss me, kate,?",
+		"awnser":["Porter"]
+		},	{
+		"prompt":"Who composed God bless america,?",
+		"awnser":["Berlin"]
+		},	{
+		"prompt":"Who composed Iipomp and circumstance,?",
+		"awnser":["Elgar"]
+		},	{
+		"prompt":"Who composed Rhapsody in blue,?",
+		"awnser":["Gershwin"]
+		},	{
+		"prompt":"Who composed An american in paris,?",
+		"awnser":["Gershwin"]
+		},	{
+		"prompt":"Who composed Appalachian spring,?",
+		"awnser":["Copeland"]
+		},	{
+		"prompt":"Who composed Cats,?",
+		"awnser":["Webber"]
+		},	{
+		"prompt":"Who composed Phantom of the opera,?",
+		"awnser":["Webber"]
+		}	]
+}

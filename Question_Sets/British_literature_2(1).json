@@ -1,0 +1,80 @@
+{
+	"title":"british literature 2: module 1",
+	"questions":[
+	{
+		"prompt":"Which author wrote Childe harold's pilgrimage?",
+		"awnser":["Gordon & byron"]
+		},	{
+		"prompt":"Which author wrote Promethus unbound?",
+		"awnser":["Shelly"]
+		},	{
+		"prompt":"Which author wrote Franknstein?",
+		"awnser":["Shelly"]
+		},	{
+		"prompt":"Which author wrote Ivanhoe?",
+		"awnser":["Scott"]
+		},	{
+		"prompt":"Which author wrote The lady of the lake?",
+		"awnser":["Scott"]
+		},	{
+		"prompt":"Which author wrote Sonnets from the poruguese?",
+		"awnser":["Browning"]
+		},	{
+		"prompt":"Which author wrote The ring and the book?",
+		"awnser":["Browning"]
+		},	{
+		"prompt":"Which author wrote Jane eyre?",
+		"awnser":["Bronte"]
+		},	{
+		"prompt":"Which author wrote Wuthering heights?",
+		"awnser":["Bronte"]
+		},	{
+		"prompt":"Which author wrote Alice's adventure in wonderland?",
+		"awnser":["Carroll"]
+		},	{
+		"prompt":"Which author wrote Great expections?",
+		"awnser":["Dickens"]
+		},	{
+		"prompt":"Which author wrote Oliver twist?",
+		"awnser":["Dickens"]
+		},	{
+		"prompt":"Which author wrote David cooperfeild?",
+		"awnser":["Dickens"]
+		},	{
+		"prompt":"Which author wrote A tale of two cities?",
+		"awnser":["Dickens"]
+		},	{
+		"prompt":"Which author wrote A study in scarlet?",
+		"awnser":["Doyle"]
+		},	{
+		"prompt":"Which author wrote The hound of the baskervilles?",
+		"awnser":["Doyle"]
+		},	{
+		"prompt":"Which author wrote Silas marner?",
+		"awnser":["Elliot"]
+		},	{
+		"prompt":"Which author wrote Tess of the d'urbervilles?",
+		"awnser":["Hardy"]
+		},	{
+		"prompt":"Which author wrote Vanity fair?",
+		"awnser":["Thackery"]
+		},	{
+		"prompt":"Which author wrote Just so stories?",
+		"awnser":["Kipling"]
+		},	{
+		"prompt":"Which author wrote Pygmalian?",
+		"awnser":["Shaw"]
+		},	{
+		"prompt":"Which author wrote Major barabra?",
+		"awnser":["Shaw"]
+		},	{
+		"prompt":"Which author wrote Idylls of the king?",
+		"awnser":["Tennyson"]
+		},	{
+		"prompt":"Which author wrote Treasure island?",
+		"awnser":["Stevenson"]
+		},	{
+		"prompt":"Which author wrote Kidnapped?",
+		"awnser":["Stevenson"]
+		}	]
+}

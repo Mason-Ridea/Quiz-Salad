@@ -1,0 +1,32 @@
+{
+	"title":"World Capitals L: module 1",
+	"questions":[
+	{
+		"prompt":"What is the capital of Laos?",
+		"awnser":["Vienetiane"]
+		},	{
+		"prompt":"What is the capital of Latvia?",
+		"awnser":["Riga"]
+		},	{
+		"prompt":"What is the capital of Lebenon?",
+		"awnser":["Beirut"]
+		},	{
+		"prompt":"What is the capital of Lesotho?",
+		"awnser":["Maseru"]
+		},	{
+		"prompt":"What is the capital of Liberia?",
+		"awnser":["Monrovia"]
+		},	{
+		"prompt":"What is the capital of Libya?",
+		"awnser":["Tripoli"]
+		},	{
+		"prompt":"What is the capital of Liechtenstein?",
+		"awnser":["Vaduz"]
+		},	{
+		"prompt":"What is the capital of Luthuania?",
+		"awnser":["Vilnius"]
+		},	{
+		"prompt":"What is the capital of Luxembourg?",
+		"awnser":["Luxembourg"]
+		}	]
+}

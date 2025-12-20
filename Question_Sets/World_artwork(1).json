@@ -1,0 +1,80 @@
+{
+	"title":"world artwork: module 1",
+	"questions":[
+	{
+		"prompt":"Who made Birth of venus?",
+		"awnser":["Botticeli"]
+		},	{
+		"prompt":"Who made Ceiling of the sistine chapel?",
+		"awnser":["Michelangelo"]
+		},	{
+		"prompt":"Who made The school of athens?",
+		"awnser":["Raphael"]
+		},	{
+		"prompt":"Who made Statue of david?",
+		"awnser":["Michelangelo"]
+		},	{
+		"prompt":"Who made Statue of pieta?",
+		"awnser":["Michelangeo"]
+		},	{
+		"prompt":"Who made Mona lisa?",
+		"awnser":["Davinci"]
+		},	{
+		"prompt":"Who made That last supper?",
+		"awnser":["Davinci"]
+		},	{
+		"prompt":"Who made St. george and the dragon,?",
+		"awnser":["Donatello"]
+		},	{
+		"prompt":"Who made The burial of count orgaz,?",
+		"awnser":["El greco"]
+		},	{
+		"prompt":"Who made View of toledo,?",
+		"awnser":["El greco"]
+		},	{
+		"prompt":"Who made Aristotle contemplating the bust of homer,?",
+		"awnser":["Van rinj"]
+		},	{
+		"prompt":"Who made The night watch,?",
+		"awnser":["Van rinj"]
+		},	{
+		"prompt":"Who made The blue boy,?",
+		"awnser":["Gainsborough"]
+		},	{
+		"prompt":"Who made The laughing cavalier,?",
+		"awnser":["Hals"]
+		},	{
+		"prompt":"Who made The third of may, 1808,?",
+		"awnser":["Goya"]
+		},	{
+		"prompt":"Who made The death of marat,?",
+		"awnser":["David"]
+		},	{
+		"prompt":"Who made Liberty at the barricade?",
+		"awnser":["Delacroix"]
+		},	{
+		"prompt":"Who made The thinker,?",
+		"awnser":["Rodin"]
+		},	{
+		"prompt":"Who made The kiss,?",
+		"awnser":["Rodin"]
+		},	{
+		"prompt":"Who made Impression: sunrise,?",
+		"awnser":["Monet"]
+		},	{
+		"prompt":"Who made Luncheon on the grass,?",
+		"awnser":["Manet"]
+		},	{
+		"prompt":"Who made Dancirtg class (ballet scene),?",
+		"awnser":["Degas"]
+		},	{
+		"prompt":"Who made Tahitian girls on the beach,?",
+		"awnser":["Gaugin"]
+		},	{
+		"prompt":"Who made Luncheon of the boating party,?",
+		"awnser":["Renoir"]
+		},	{
+		"prompt":"Who made At the races,?",
+		"awnser":["Degas"]
+		}	]
+}

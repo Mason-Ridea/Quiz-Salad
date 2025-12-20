@@ -1,0 +1,80 @@
+{
+	"title":"QM 1: module 1",
+	"questions":[
+	{
+		"prompt":"Who was the Norwegian composers?",
+		"awnser":["Grieg"]
+		},	{
+		"prompt":"Who was the Norwegian playwright?",
+		"awnser":["Ibsen"]
+		},	{
+		"prompt":"Who was the Norweigian traitor?",
+		"awnser":["Quisling"]
+		},	{
+		"prompt":"Who was the Finnish composer?",
+		"awnser":["Sibelius"]
+		},	{
+		"prompt":"Who was the Swedish inventor(dynamite)?",
+		"awnser":["Nobel"]
+		},	{
+		"prompt":"Who was the Swedish inventor(long shot/propeller)?",
+		"awnser":["Ericson"]
+		},	{
+		"prompt":"Who was the Swedish botanist?",
+		"awnser":["Linnaeus"]
+		},	{
+		"prompt":"Who was the Danish explorer?",
+		"awnser":["Bering"]
+		},	{
+		"prompt":"Who was the Brass nose, danish astronomer?",
+		"awnser":["Tycho brahe"]
+		},	{
+		"prompt":"Who was the Danish physicist?",
+		"awnser":["Bohr"]
+		},	{
+		"prompt":"Who was the Danish author?",
+		"awnser":["Anderson"]
+		},	{
+		"prompt":"Who was the Dutch humanist?",
+		"awnser":["Erasmus"]
+		},	{
+		"prompt":"Who was the Dutch exploter?",
+		"awnser":["Tasman"]
+		},	{
+		"prompt":"Who was the Russian chemist?",
+		"awnser":["Mendeleyev"]
+		},	{
+		"prompt":"Who was the Russian physiologist?",
+		"awnser":["Pavlov"]
+		},	{
+		"prompt":"Who was the Russian physicist, + nobel peace prize?",
+		"awnser":["Saharov"]
+		},	{
+		"prompt":"Who was the Russian monk?",
+		"awnser":["Rasputin"]
+		},	{
+		"prompt":"Who was the Austrian monk?",
+		"awnser":["Mendel"]
+		},	{
+		"prompt":"Who was the Austrian archduke (ww1)?",
+		"awnser":["Ferdinand"]
+		},	{
+		"prompt":"Who was the Austrian archduke mexico?",
+		"awnser":["Maximilian"]
+		},	{
+		"prompt":"Who was the Polish astronmer?",
+		"awnser":["Copernicus"]
+		},	{
+		"prompt":"Who was the Polish composer?",
+		"awnser":["Chopin"]
+		},	{
+		"prompt":"Who was the Polish author?",
+		"awnser":["Conrad"]
+		},	{
+		"prompt":"Who was the English courtier?",
+		"awnser":["Raleigh"]
+		},	{
+		"prompt":"Who was the Polish pianist and prime minister?",
+		"awnser":["Paderewski"]
+		}	]
+}

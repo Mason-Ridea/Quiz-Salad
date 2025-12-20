@@ -1,0 +1,29 @@
+{
+	"title":"World Capitals I: module 1",
+	"questions":[
+	{
+		"prompt":"What is the capital of Iceland?",
+		"awnser":["Reykjavik"]
+		},	{
+		"prompt":"What is the capital of India?",
+		"awnser":["New delhi"]
+		},	{
+		"prompt":"What is the capital of Indoesia?",
+		"awnser":["Jakarta"]
+		},	{
+		"prompt":"What is the capital of Iran?",
+		"awnser":["Tehran"]
+		},	{
+		"prompt":"What is the capital of Iraq?",
+		"awnser":["Baghdad"]
+		},	{
+		"prompt":"What is the capital of Ireland?",
+		"awnser":["Dublin"]
+		},	{
+		"prompt":"What is the capital of Isreal (offical)?",
+		"awnser":["Jerusalem"]
+		},	{
+		"prompt":"What is the capital of Isreal (embassies)?",
+		"awnser":["Tel aviv"]
+		}	]
+}

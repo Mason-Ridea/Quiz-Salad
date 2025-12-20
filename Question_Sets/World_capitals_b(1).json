@@ -1,0 +1,59 @@
+{
+	"title":"World Capitals B: module 1",
+	"questions":[
+	{
+		"prompt":"What is the capital of The Bahamas?",
+		"awnser":["Nassau"]
+		},	{
+		"prompt":"What is the capital of Bahrain?",
+		"awnser":["Manama"]
+		},	{
+		"prompt":"What is the capital of Bangladesh?",
+		"awnser":["Dhaka"]
+		},	{
+		"prompt":"What is the capital of Barbados?",
+		"awnser":["Bridgetown"]
+		},	{
+		"prompt":"What is the capital of Belarus?",
+		"awnser":["Minsk"]
+		},	{
+		"prompt":"What is the capital of Belgium?",
+		"awnser":["Brussels"]
+		},	{
+		"prompt":"What is the capital of Belize?",
+		"awnser":["Belmopan"]
+		},	{
+		"prompt":"What is the capital of Benin?",
+		"awnser":["Porto-novo","Port"]
+		},	{
+		"prompt":"What is the capital of Bhutan?",
+		"awnser":["Thimpu"]
+		},	{
+		"prompt":"What is the capital of Bolivia ((administrative)?",
+		"awnser":["La paz"]
+		},	{
+		"prompt":"What is the capital of Bolivia (judicial)?",
+		"awnser":["Sucre"]
+		},	{
+		"prompt":"What is the capital of Bosnia and herzegonia?",
+		"awnser":["Sarajevo"]
+		},	{
+		"prompt":"What is the capital of Botswana?",
+		"awnser":["Gaborone"]
+		},	{
+		"prompt":"What is the capital of Brazil?",
+		"awnser":["Brasilia"]
+		},	{
+		"prompt":"What is the capital of Brunei?",
+		"awnser":["Bandar seri begawan","Bander"]
+		},	{
+		"prompt":"What is the capital of Bulgaria?",
+		"awnser":["Sophia"]
+		},	{
+		"prompt":"What is the capital of Burkina faso?",
+		"awnser":["Ouagadougou"]
+		},	{
+		"prompt":"What is the capital of Burundi?",
+		"awnser":["Bujumbura"]
+		}	]
+}

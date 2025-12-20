@@ -1,0 +1,50 @@
+{
+	"title":"chem people: module 1",
+	"questions":[
+	{
+		"prompt":"Who was famout for first developing atomic theory?",
+		"awnser":["Democritus"]
+		},	{
+		"prompt":"Assistant of gaileo who discovered the barrometer?",
+		"awnser":["Torricelli"]
+		},	{
+		"prompt":"Who made atomic theory?",
+		"awnser":["Dalton"]
+		},	{
+		"prompt":"Who first discovered oxygen?",
+		"awnser":["Priestly"]
+		},	{
+		"prompt":"Killed in the french revolution, who showed that the air is made out of oxygen?",
+		"awnser":["Lavoiser"]
+		},	{
+		"prompt":"Who discovered radioactivity?",
+		"awnser":["Becquerel"]
+		},	{
+		"prompt":"Who discovered radiation indepentent of becquerel and later won the nobel prize?",
+		"awnser":["Maries"]
+		},	{
+		"prompt":"First physic nobel and discovered x-rays?",
+		"awnser":["Roentgen"]
+		},	{
+		"prompt":"Who discovered the electron?",
+		"awnser":["Thomson"]
+		},	{
+		"prompt":"Who discovered the nucleus?",
+		"awnser":["Rutherford"]
+		},	{
+		"prompt":"Who discovered to fic the nitrogen in the air?",
+		"awnser":["Haber"]
+		},	{
+		"prompt":"Who discovered the charge of the elevtron?",
+		"awnser":["Millikan"]
+		},	{
+		"prompt":"If volume increases, pressure decreases and vice versa. whose law?",
+		"awnser":["Boyle"]
+		},	{
+		"prompt":"As the temperature increases, the volume increases. whose law?",
+		"awnser":["Charles"]
+		},	{
+		"prompt":"Who made a model of the atom and got a nobel prize for it?",
+		"awnser":["Bohr"]
+		}	]
+}

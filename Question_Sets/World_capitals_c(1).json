@@ -1,0 +1,62 @@
+{
+	"title":"World Capitals B: module 1",
+	"questions":[
+	{
+		"prompt":"What is the capital of Cambodia?",
+		"awnser":["Phnom penh"]
+		},	{
+		"prompt":"What is the capital of Cameroon?",
+		"awnser":["Yaounde"]
+		},	{
+		"prompt":"What is the capital of Canada?",
+		"awnser":["Ottawa"]
+		},	{
+		"prompt":"What is the capital of Cape verde?",
+		"awnser":["Praia"]
+		},	{
+		"prompt":"What is the capital of Central african republic?",
+		"awnser":["Bangui"]
+		},	{
+		"prompt":"What is the capital of Chad?",
+		"awnser":["N'djamena"]
+		},	{
+		"prompt":"What is the capital of Chile?",
+		"awnser":["Santiago"]
+		},	{
+		"prompt":"What is the capital of China?",
+		"awnser":["Bejing"]
+		},	{
+		"prompt":"What is the capital of Colombia?",
+		"awnser":["Bogota"]
+		},	{
+		"prompt":"What is the capital of Comoros?",
+		"awnser":["Moroni"]
+		},	{
+		"prompt":"What is the capital of Congo Republic?",
+		"awnser":["Brazzaville"]
+		},	{
+		"prompt":"What is the capital of Congo Democratic Republic?",
+		"awnser":["Kinshasa"]
+		},	{
+		"prompt":"What is the capital of Costa Rica?",
+		"awnser":["San jose"]
+		},	{
+		"prompt":"What is the capital of Cote d'ivore (offical)?",
+		"awnser":["Yamoussoukro"]
+		},	{
+		"prompt":"What is the capital of Cote d'ivore (de facto)?",
+		"awnser":["Abidjan"]
+		},	{
+		"prompt":"What is the capital of Crotia?",
+		"awnser":["Zagreb"]
+		},	{
+		"prompt":"What is the capital of Cuba?",
+		"awnser":["Havana"]
+		},	{
+		"prompt":"What is the capital of Cyprus?",
+		"awnser":["Nicosia"]
+		},	{
+		"prompt":"What is the capital of Czech Republic?",
+		"awnser":["Prague"]
+		}	]
+}

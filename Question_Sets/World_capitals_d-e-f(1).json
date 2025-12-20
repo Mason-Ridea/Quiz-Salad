@@ -1,0 +1,50 @@
+{
+	"title":"World Capitals D-E-F: module 1",
+	"questions":[
+	{
+		"prompt":"What is the capital of Denmark?",
+		"awnser":["Copenhagen"]
+		},	{
+		"prompt":"What is the capital of Dijbouti?",
+		"awnser":["Dijbouti"]
+		},	{
+		"prompt":"What is the capital of Dominica?",
+		"awnser":["Roseau"]
+		},	{
+		"prompt":"What is the capital of Dominican republic?",
+		"awnser":["Santo domingo"]
+		},	{
+		"prompt":"What is the capital of East timor?",
+		"awnser":["Dili"]
+		},	{
+		"prompt":"What is the capital of Ecuador?",
+		"awnser":["Quito"]
+		},	{
+		"prompt":"What is the capital of Egypt?",
+		"awnser":["Cairo"]
+		},	{
+		"prompt":"What is the capital of El slavador?",
+		"awnser":["San salvador"]
+		},	{
+		"prompt":"What is the capital of Equatorial guinea?",
+		"awnser":["Malabo"]
+		},	{
+		"prompt":"What is the capital of Eritrea?",
+		"awnser":["Asmara"]
+		},	{
+		"prompt":"What is the capital of Estonia?",
+		"awnser":["Tallinn"]
+		},	{
+		"prompt":"What is the capital of Ethiopa?",
+		"awnser":["Addis ababa"]
+		},	{
+		"prompt":"What is the capital of Fiji?",
+		"awnser":["Suva"]
+		},	{
+		"prompt":"What is the capital of Finland?",
+		"awnser":["Helinski"]
+		},	{
+		"prompt":"What is the capital of France?",
+		"awnser":["Paris"]
+		}	]
+}

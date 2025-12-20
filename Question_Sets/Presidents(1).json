@@ -1,0 +1,80 @@
+{
+	"title":"presidents: module 1",
+	"questions":[
+	{
+		"prompt":"Who was the 1st president of the united states??",
+		"awnser":["Washington"]
+		},	{
+		"prompt":"Who was the 2nd president of the united states??",
+		"awnser":["Adams"]
+		},	{
+		"prompt":"Who was the 3rd president of the united states??",
+		"awnser":["Jefferson"]
+		},	{
+		"prompt":"Who was the 4th president of the united states??",
+		"awnser":["Madison"]
+		},	{
+		"prompt":"Who was the 5th president of the united states??",
+		"awnser":["Monroe"]
+		},	{
+		"prompt":"Who was the 6th president of the united states??",
+		"awnser":["John qunicy adams","Jqa"]
+		},	{
+		"prompt":"Who was the 7th president of the united states??",
+		"awnser":["Jackson"]
+		},	{
+		"prompt":"Who was the 8th president of the united states??",
+		"awnser":["Van buren"]
+		},	{
+		"prompt":"Who was the 9th president of the united states??",
+		"awnser":["Harrison"]
+		},	{
+		"prompt":"Who was the 10th president of the united states??",
+		"awnser":["Tyler"]
+		},	{
+		"prompt":"Who was the 11th president of the united states??",
+		"awnser":["Polk"]
+		},	{
+		"prompt":"Who was the 12th president of the united states??",
+		"awnser":["Taylor"]
+		},	{
+		"prompt":"Who was the 13th president of the united states??",
+		"awnser":["Fillmore"]
+		},	{
+		"prompt":"Who was the 14th president of the united states??",
+		"awnser":["Pierce"]
+		},	{
+		"prompt":"Who was the 15th president of the united states??",
+		"awnser":["Buchanan"]
+		},	{
+		"prompt":"Who was the 16th president of the united states??",
+		"awnser":["Lincoln"]
+		},	{
+		"prompt":"Who was the 17th president of the united states??",
+		"awnser":["Andrew johnson","Johnson"]
+		},	{
+		"prompt":"Who was the 18th president of the united states??",
+		"awnser":["Grant"]
+		},	{
+		"prompt":"Who was the 19th president of the united states??",
+		"awnser":["Hayes"]
+		},	{
+		"prompt":"Who was the 20th president of the united states??",
+		"awnser":["Garfield"]
+		},	{
+		"prompt":"Who was the 21th president of the united states??",
+		"awnser":["Arthur"]
+		},	{
+		"prompt":"Who was the 22th president of the united states??",
+		"awnser":["Cleveland"]
+		},	{
+		"prompt":"Who was the 23th president of the united states??",
+		"awnser":["Harrison"]
+		},	{
+		"prompt":"Who was the 24th president of the united states??",
+		"awnser":["Cleveland"]
+		},	{
+		"prompt":"Who was the 25th president of the united states??",
+		"awnser":["Mckinley"]
+		}	]
+}

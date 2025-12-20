@@ -1,0 +1,53 @@
+{
+	"title":"british literature 2: module 2",
+	"questions":[
+	{
+		"prompt":"Which author wrote Dr jekyll and mr hyde?",
+		"awnser":["Stevenson"]
+		},	{
+		"prompt":"Which author wrote The picture of dorian gray?",
+		"awnser":["Wilde"]
+		},	{
+		"prompt":"Which author wrote The importance of being earnest?",
+		"awnser":["Wilde"]
+		},	{
+		"prompt":"Which author wrote Waiting for godot?",
+		"awnser":["Beckett"]
+		},	{
+		"prompt":"Which author wrote Lord jim?",
+		"awnser":["Conrad"]
+		},	{
+		"prompt":"Which author wrote Heart of darkness?",
+		"awnser":["Conrad"]
+		},	{
+		"prompt":"Which author wrote The forsythe saga?",
+		"awnser":["Galsworthy"]
+		},	{
+		"prompt":"Which author wrote A passage to india?",
+		"awnser":["Forester"]
+		},	{
+		"prompt":"Which author wrote Howard's end?",
+		"awnser":["Forster"]
+		},	{
+		"prompt":"Which author wrote A portrait of the artist as a young man?",
+		"awnser":["Joyce"]
+		},	{
+		"prompt":"Which author wrote A brave new world?",
+		"awnser":["Huxley"]
+		},	{
+		"prompt":"Which author wrote Sons and lovers?",
+		"awnser":["Lawrence"]
+		},	{
+		"prompt":"Which author wrote Lost horizon?",
+		"awnser":["Hilton"]
+		},	{
+		"prompt":"Which author wrote The war of the worlds?",
+		"awnser":["Wells"]
+		},	{
+		"prompt":"Which author wrote The time machine?",
+		"awnser":["Wells"]
+		},	{
+		"prompt":"Which author wrote Of human bondage?",
+		"awnser":["Maughm"]
+		}	]
+}

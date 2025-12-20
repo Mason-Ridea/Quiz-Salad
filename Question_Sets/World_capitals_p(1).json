@@ -1,0 +1,32 @@
+{
+	"title":"World Capitals P: module 1",
+	"questions":[
+	{
+		"prompt":"What is the capital of Pakistan?",
+		"awnser":["Islamabad"]
+		},	{
+		"prompt":"What is the capital of Palau?",
+		"awnser":["Melekoek"]
+		},	{
+		"prompt":"What is the capital of Panama?",
+		"awnser":["Panama city"]
+		},	{
+		"prompt":"What is the capital of Papua new guinea?",
+		"awnser":["Port moresby"]
+		},	{
+		"prompt":"What is the capital of Paraguay?",
+		"awnser":["Asunion"]
+		},	{
+		"prompt":"What is the capital of Peru?",
+		"awnser":["Lima"]
+		},	{
+		"prompt":"What is the capital of Phillipinnes?",
+		"awnser":["Manila"]
+		},	{
+		"prompt":"What is the capital of Poland?",
+		"awnser":["Warsaw"]
+		},	{
+		"prompt":"What is the capital of Portugal?",
+		"awnser":["Lisbon"]
+		}	]
+}

@@ -1,0 +1,74 @@
+{
+	"title":"senator, governers and supreme court: module 1",
+	"questions":[
+	{
+		"prompt":"Who is the Governor of new york?",
+		"awnser":["Hochul"]
+		},	{
+		"prompt":"Who is the Governor of maryland?",
+		"awnser":["Moore"]
+		},	{
+		"prompt":"Who is the Governor of virginia?",
+		"awnser":["Youngkins"]
+		},	{
+		"prompt":"Who is the Governor of california?",
+		"awnser":["Newsome"]
+		},	{
+		"prompt":"Who is the Governor of florida?",
+		"awnser":["Desantis"]
+		},	{
+		"prompt":"Who is the Governor of texas?",
+		"awnser":["Abott"]
+		},	{
+		"prompt":"Who is the First sentor elected through write in, alaska?",
+		"awnser":["Murkowski"]
+		},	{
+		"prompt":"Who is the Senator from kentucky and ophthalmologist, former presidential canidate?",
+		"awnser":["Paul"]
+		},	{
+		"prompt":"Who is the President pro tempore?",
+		"awnser":["Grassley"]
+		},	{
+		"prompt":"Who is the Sentor of maine and former governer of the state?",
+		"awnser":["King"]
+		},	{
+		"prompt":"Who is the Minority leader of the senate?",
+		"awnser":["Schumer"]
+		},	{
+		"prompt":"Who is the Majority leader of the senate and from south dakota?",
+		"awnser":["Thune"]
+		},	{
+		"prompt":"Who is the Senator from vermont and former democratic presidential candiate?",
+		"awnser":["Sanders"]
+		},	{
+		"prompt":"Who is the Fromer democratic presidential canidate and former harvard professor?",
+		"awnser":["Warren"]
+		},	{
+		"prompt":"Who is the Former virginia governer?",
+		"awnser":["Warner"]
+		},	{
+		"prompt":"Who is the Former vice presidential canidate?",
+		"awnser":["Kaine"]
+		},	{
+		"prompt":"Who is the Supreme court justice planted by joe biden?",
+		"awnser":["Jackson"]
+		},	{
+		"prompt":"Who is the Supreme court justice, she planted by obama ?",
+		"awnser":["Sotomayor"]
+		},	{
+		"prompt":"Who is the Supreme court justice planted by george hw bush?",
+		"awnser":["Thomas"]
+		},	{
+		"prompt":"Who is the President of the senate?",
+		"awnser":["Vance"]
+		},	{
+		"prompt":"Who is the Speaker of the house?",
+		"awnser":["Johnson"]
+		},	{
+		"prompt":"Who is the Majority leader of the house?",
+		"awnser":["Scalise"]
+		},	{
+		"prompt":"Who is the Minority leader of the house?",
+		"awnser":["Jeffries"]
+		}	]
+}

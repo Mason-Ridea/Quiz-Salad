@@ -1,0 +1,38 @@
+{
+	"title":"World Capitals T: module 1",
+	"questions":[
+	{
+		"prompt":"What is the capital of Taiwan?",
+		"awnser":["Taipei"]
+		},	{
+		"prompt":"What is the capital of Tajikistan?",
+		"awnser":["Dushanbe"]
+		},	{
+		"prompt":"What is the capital of Tanzania (legislative)?",
+		"awnser":["Dodoma"]
+		},	{
+		"prompt":"What is the capital of Thailand?",
+		"awnser":["Bangkok"]
+		},	{
+		"prompt":"What is the capital of Togo?",
+		"awnser":["Lome"]
+		},	{
+		"prompt":"What is the capital of Tonga?",
+		"awnser":["Nuku'alofa"]
+		},	{
+		"prompt":"What is the capital of Trinidad and tobago?",
+		"awnser":["Port-of-spain"]
+		},	{
+		"prompt":"What is the capital of Tunisia?",
+		"awnser":["Tunis"]
+		},	{
+		"prompt":"What is the capital of Turkey?",
+		"awnser":["Ankara"]
+		},	{
+		"prompt":"What is the capital of Turkmenistan?",
+		"awnser":["Ashgabat"]
+		},	{
+		"prompt":"What is the capital of Tuvalu?",
+		"awnser":["Vaiaku village"]
+		}	]
+}

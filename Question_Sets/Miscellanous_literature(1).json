@@ -1,0 +1,26 @@
+{
+	"title":"miscellanous literature: module 1",
+	"questions":[
+	{
+		"prompt":"Which author wrote Don quixote?",
+		"awnser":["Cervantes"]
+		},	{
+		"prompt":"Which author wrote The divine comedy?",
+		"awnser":["Dante"]
+		},	{
+		"prompt":"Which author wrote Candide?",
+		"awnser":["Voltaire"]
+		},	{
+		"prompt":"Which author wrote Les miserables?",
+		"awnser":["Hugo"]
+		},	{
+		"prompt":"Which author wrote The hunchback of notre dame?",
+		"awnser":["Hugo"]
+		},	{
+		"prompt":"Which author wrote 20,000 leagues under the sea?",
+		"awnser":["Verne"]
+		},	{
+		"prompt":"Which author wrote All quiet on the western front?",
+		"awnser":["Remarque"]
+		}	]
+}

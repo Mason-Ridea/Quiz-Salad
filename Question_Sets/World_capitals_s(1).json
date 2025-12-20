@@ -1,0 +1,86 @@
+{
+	"title":"World Capitals S: module 1",
+	"questions":[
+	{
+		"prompt":"What is the capital of Saint kitts and nevis?",
+		"awnser":["Basseterre"]
+		},	{
+		"prompt":"What is the capital of Saint lucia?",
+		"awnser":["Castries"]
+		},	{
+		"prompt":"What is the capital of Saint vincent and the grenadines?",
+		"awnser":["Kingstown"]
+		},	{
+		"prompt":"What is the capital of Samoa?",
+		"awnser":["Apia"]
+		},	{
+		"prompt":"What is the capital of San marino?",
+		"awnser":["San marino"]
+		},	{
+		"prompt":"What is the capital of Sao tome and principe?",
+		"awnser":["Sao tome"]
+		},	{
+		"prompt":"What is the capital of Saudi arabia?",
+		"awnser":["Riyadh"]
+		},	{
+		"prompt":"What is the capital of Senegal?",
+		"awnser":["Dakar"]
+		},	{
+		"prompt":"What is the capital of Serbia?",
+		"awnser":["Belgrade"]
+		},	{
+		"prompt":"What is the capital of Seychelles?",
+		"awnser":["Victoria"]
+		},	{
+		"prompt":"What is the capital of Sierre leone?",
+		"awnser":["Freetown"]
+		},	{
+		"prompt":"What is the capital of Singapore?",
+		"awnser":["Singapore"]
+		},	{
+		"prompt":"What is the capital of Slovakia?",
+		"awnser":["Bratislava"]
+		},	{
+		"prompt":"What is the capital of Slovenia?",
+		"awnser":["Ljubljana"]
+		},	{
+		"prompt":"What is the capital of Solomen islands?",
+		"awnser":["Honiara"]
+		},	{
+		"prompt":"What is the capital of Somalia?",
+		"awnser":["Mogadishu"]
+		},	{
+		"prompt":"What is the capital of South africa (administrative)?",
+		"awnser":["Pretoria"]
+		},	{
+		"prompt":"What is the capital of South africa (legislative)?",
+		"awnser":["Cape town"]
+		},	{
+		"prompt":"What is the capital of South africa (judiciary)?",
+		"awnser":["Bloemfontein"]
+		},	{
+		"prompt":"What is the capital of South sudan?",
+		"awnser":["Juba"]
+		},	{
+		"prompt":"What is the capital of Spain?",
+		"awnser":["Madrid"]
+		},	{
+		"prompt":"What is the capital of Sudan?",
+		"awnser":["Khartoum"]
+		},	{
+		"prompt":"What is the capital of Suriname?",
+		"awnser":["Paramaribo"]
+		},	{
+		"prompt":"What is the capital of Swaziland?",
+		"awnser":["Mbabane"]
+		},	{
+		"prompt":"What is the capital of Sweden?",
+		"awnser":["Stockholm"]
+		},	{
+		"prompt":"What is the capital of Switzerland?",
+		"awnser":["Bern"]
+		},	{
+		"prompt":"What is the capital of Syria?",
+		"awnser":["Damascus"]
+		}	]
+}

@@ -1,0 +1,74 @@
+{
+	"title":"cabinet and mayors: module 1",
+	"questions":[
+	{
+		"prompt":"Who is the Secretary of treasury?",
+		"awnser":["Bessent"]
+		},	{
+		"prompt":"Who is the Secretary of defense?",
+		"awnser":["Hegseth"]
+		},	{
+		"prompt":"Who is the Secretary of agriculture?",
+		"awnser":["Rollins"]
+		},	{
+		"prompt":"Who is the Secretary of commerce?",
+		"awnser":["Ludnick"]
+		},	{
+		"prompt":"Who is the Secreatry of education?",
+		"awnser":["Mcmahon"]
+		},	{
+		"prompt":"Who is the Secretary of energy?",
+		"awnser":["Wright"]
+		},	{
+		"prompt":"Who is the Secretary of homeland security?",
+		"awnser":["Noem"]
+		},	{
+		"prompt":"Who is the Secretary of housing and urban development?",
+		"awnser":["Truner"]
+		},	{
+		"prompt":"Who is the Secretary of interrior?",
+		"awnser":["Burgum"]
+		},	{
+		"prompt":"Who is the Secretary of labor?",
+		"awnser":["Chavez-deremer"]
+		},	{
+		"prompt":"Who is the Secretary of transportation?",
+		"awnser":["Duffy"]
+		},	{
+		"prompt":"Who is the Secretary of veterans affairs?",
+		"awnser":["Collins"]
+		},	{
+		"prompt":"Who is the Mayor of washington?",
+		"awnser":["Bowser"]
+		},	{
+		"prompt":"Who is the Mayor of new york?",
+		"awnser":["Adams"]
+		},	{
+		"prompt":"Who is the Mayor of chicago?",
+		"awnser":["Johnson"]
+		},	{
+		"prompt":"Who is the Un ambassador?",
+		"awnser":["Waltz"]
+		},	{
+		"prompt":"Who is the White house cheif of staff?",
+		"awnser":["Wiles"]
+		},	{
+		"prompt":"Who is the CIA director?",
+		"awnser":["Ratcliffe"]
+		},	{
+		"prompt":"Who is the Chairman of joint chief of staff?",
+		"awnser":["Caine"]
+		},	{
+		"prompt":"Who is the Press secertary?",
+		"awnser":["Leavitt"]
+		},	{
+		"prompt":"Who is the Chairman of the federal reserve?",
+		"awnser":["Powell"]
+		},	{
+		"prompt":"Who is the Director of the EPA?",
+		"awnser":["Zeldin"]
+		},	{
+		"prompt":"Who is the Director of the FBI?",
+		"awnser":["Patel"]
+		}	]
+}

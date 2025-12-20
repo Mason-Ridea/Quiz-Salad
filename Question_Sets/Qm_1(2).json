@@ -1,0 +1,80 @@
+{
+	"title":"QM 1: module 2",
+	"questions":[
+	{
+		"prompt":"Who was the British castle?",
+		"awnser":["Windsor"]
+		},	{
+		"prompt":"Who was the Scottish economist?",
+		"awnser":["Smith"]
+		},	{
+		"prompt":"Who was the British imperilist?",
+		"awnser":["Rhodes"]
+		},	{
+		"prompt":"Who was the Belgian dancer?",
+		"awnser":["Mata hari"]
+		},	{
+		"prompt":"Who was the Chaucer character?",
+		"awnser":["Wife of bath"]
+		},	{
+		"prompt":"Who was the Persian mathematician?",
+		"awnser":["Omar khayyam"]
+		},	{
+		"prompt":"Who was the Turkish sultan?",
+		"awnser":["Suleiman"]
+		},	{
+		"prompt":"Who was the Itlian physicist?",
+		"awnser":["Gailieo"]
+		},	{
+		"prompt":"Who was crippled in the Battle of lepanto?",
+		"awnser":["Cervantes"]
+		},	{
+		"prompt":"Who was in the Battle of the monocacy?",
+		"awnser":["Lew wallace"]
+		},	{
+		"prompt":"What was that one 1954 battle?",
+		"awnser":["Dien bien phu"]
+		},	{
+		"prompt":"Who was the Swiss philsopher?",
+		"awnser":["Rousseau"]
+		},	{
+		"prompt":"Who was the Swiss psychologist?",
+		"awnser":["Jung"]
+		},	{
+		"prompt":"What was the Spanish city, american city?",
+		"awnser":["Toledo"]
+		},	{
+		"prompt":"Who was the Austrian psychiatrist?",
+		"awnser":["Freud"]
+		},	{
+		"prompt":"Who was the American woman, nobel in literature (1938)?",
+		"awnser":["Buck"]
+		},	{
+		"prompt":"Who was the American woman, nobel in literature (1993)?",
+		"awnser":["Morrison"]
+		},	{
+		"prompt":"Who was the Connecticut school teacher?",
+		"awnser":["Hale"]
+		},	{
+		"prompt":"Who was the Governor-general of india?",
+		"awnser":["Cornwallis"]
+		},	{
+		"prompt":"Who was behind the Ravel composition?",
+		"awnser":["Bolero"]
+		},	{
+		"prompt":"Who was the Massachusetts senator?",
+		"awnser":["Webster"]
+		},	{
+		"prompt":"Who was the Kublai khan/divine wind?",
+		"awnser":["Kamikaze"]
+		},	{
+		"prompt":"Who was the Corsican general?",
+		"awnser":["Napoleon"]
+		},	{
+		"prompt":"Who was the Italian explorer who sailed for england?",
+		"awnser":["Cabot"]
+		},	{
+		"prompt":"Who was the Hungarian composer?",
+		"awnser":["Liszt"]
+		}	]
+}

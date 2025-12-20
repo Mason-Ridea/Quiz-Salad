@@ -1,0 +1,29 @@
+{
+	"title":"World Capitals N-O: module 1",
+	"questions":[
+	{
+		"prompt":"What is the capital of Nambia?",
+		"awnser":["Windhoek"]
+		},	{
+		"prompt":"What is the capital of Nauru?",
+		"awnser":["Yaren district"]
+		},	{
+		"prompt":"What is the capital of New zealand?",
+		"awnser":["Wellington"]
+		},	{
+		"prompt":"What is the capital of Nicaragua?",
+		"awnser":["Managua"]
+		},	{
+		"prompt":"What is the capital of Niger?",
+		"awnser":["Niamey"]
+		},	{
+		"prompt":"What is the capital of Nigeria?",
+		"awnser":["Abuja"]
+		},	{
+		"prompt":"What is the capital of Norway?",
+		"awnser":["Oslo"]
+		},	{
+		"prompt":"What is the capital of Oman?",
+		"awnser":["Muscat"]
+		}	]
+}
