@@ -2,43 +2,43 @@
 	"title":"american Lit 1: module 4",
 	"questions":[
 	{
-		"prompt":"Who wrote Uncle tom's canbin?",
+		"prompt":"Who wrote Uncle Tom's Cabin?",
 		"awnser":["Harriet beacher stowe","Stowe"]
 		},	{
-		"prompt":"Who wrote Ben hur?",
+		"prompt":"Who wrote Ben Hur?",
 		"awnser":["Lew wallace"]
 		},	{
-		"prompt":"Who wrote The red badge of courage?",
+		"prompt":"Who wrote The Red Badge of Courage?",
 		"awnser":["Crane"]
 		},	{
-		"prompt":"Who wrote Maggie:a girl of the streets?",
+		"prompt":"Who wrote Maggie: a Girl of the Streets?",
 		"awnser":["Crane"]
 		},	{
-		"prompt":"Who wrote The prince and the pauper?",
+		"prompt":"Who wrote The Prince and the Pauper?",
 		"awnser":["Twain"]
 		},	{
-		"prompt":"Who wrote Death of a salesman?",
+		"prompt":"Who wrote Death of a Salesman?",
 		"awnser":["Miller"]
 		},	{
-		"prompt":"Who wrote The crucible?",
+		"prompt":"Who wrote The Crucible?",
 		"awnser":["Miller"]
 		},	{
-		"prompt":"Who wrote The little foxes?",
+		"prompt":"Who wrote The Little Foxes?",
 		"awnser":["Hellman"]
 		},	{
-		"prompt":"Who wrote The call of the wild?",
+		"prompt":"Who wrote The Call of the Wild?",
 		"awnser":["London"]
 		},	{
-		"prompt":"Who wrote Look homeward, angel?",
+		"prompt":"Who wrote Look Homeward, Angel?",
 		"awnser":["Wolfe"]
 		},	{
-		"prompt":"Who wrote The good earth?",
+		"prompt":"Who wrote The Good Earth?",
 		"awnser":["Buck"]
 		},	{
-		"prompt":"Who wrote The waste land?",
+		"prompt":"Who wrote The Wasteland?",
 		"awnser":["TS eliot","Eliot"]
 		},	{
-		"prompt":"Who wrote The devil and daniel webster?",
+		"prompt":"Who wrote The Devil and Daniel Webster?",
 		"awnser":["Benet"]
 		}	]
 }

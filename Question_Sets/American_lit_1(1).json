@@ -2,79 +2,79 @@
 	"title":"american Lit 1: module 1",
 	"questions":[
 	{
-		"prompt":"Who wrote History of plimouth plantation?",
+		"prompt":"Who wrote History of Plimouth Plantation?",
 		"awnser":["Bradford"]
 		},	{
 		"prompt":"Who wrote Thanatopsis?",
 		"awnser":["Bryant"]
 		},	{
-		"prompt":"Who wrote Old ironsides?",
+		"prompt":"Who wrote Old Ironsides?",
 		"awnser":["Holmes"]
 		},	{
-		"prompt":"Who wrote The raven?",
+		"prompt":"Who wrote The Raven?",
 		"awnser":["Edger allen poe","Poe"]
 		},	{
-		"prompt":"Who wrote Paul revere ride?",
+		"prompt":"Who wrote Paul Revere Ride?",
 		"awnser":["Longfellow"]
 		},	{
-		"prompt":"Who wrote The swan of hiawatha?",
+		"prompt":"Who wrote The Song of Hiawatha?",
 		"awnser":["Longfellow"]
 		},	{
-		"prompt":"Who wrote The wreck of hesperus?",
+		"prompt":"Who wrote The Wreck of Hesperus?",
 		"awnser":["Longfellow"]
 		},	{
-		"prompt":"Who wrote The courtship of miles standish,?",
+		"prompt":"Who wrote The Courtship of Miles Standish?",
 		"awnser":["Longfellow"]
 		},	{
-		"prompt":"Who wrote Crossing brooklyn fariy?",
+		"prompt":"Who wrote Crossing brooklyn Ferry?",
 		"awnser":["Whitman"]
 		},	{
-		"prompt":"Who wrote Song of myself?",
+		"prompt":"Who wrote Song of Myself?",
 		"awnser":["Whitman"]
 		},	{
-		"prompt":"Who wrote Barbara fritchie?",
+		"prompt":"Who wrote Barbara Ffritchie?",
 		"awnser":["Whittier"]
 		},	{
-		"prompt":"Who wrote Murders in the rue morgue?",
+		"prompt":"Who wrote Murders in the Rue Morgue?",
 		"awnser":["Poe"]
 		},	{
-		"prompt":"Who wrote The pit and pendulum?",
+		"prompt":"Who wrote The Pit and Pendulum?",
 		"awnser":["Poe"]
 		},	{
-		"prompt":"Who wrote The fall of the house of usher?",
+		"prompt":"Who wrote The Fall of the House of Usher?",
 		"awnser":["Poe"]
 		},	{
-		"prompt":"Who wrote The luck of roaring camp?",
+		"prompt":"Who wrote The Luck of Roaring Camp?",
 		"awnser":["Harte"]
 		},	{
-		"prompt":"Who wrote The celebreated jumping frog of calveras county ?",
+		"prompt":"Who wrote The Celebreated Jumping Frog of Calveras County?",
 		"awnser":["Twain"]
 		},	{
-		"prompt":"Who wrote Uncle remus?",
+		"prompt":"Who wrote Uncle Remus?",
 		"awnser":["Harris"]
 		},	{
 		"prompt":"Who wrote The sketchbook of geoffrey canyon?",
 		"awnser":["Irving"]
 		},	{
-		"prompt":"Who wrote He last of the mohicans?",
+		"prompt":"Who wrote The last of the mohicans?",
 		"awnser":["Cooper"]
 		},	{
-		"prompt":"Who wrote The deer slayer?",
+		"prompt":"Who wrote The Deer Slayer?",
 		"awnser":["Cooper"]
 		},	{
-		"prompt":"Who wrote Two years before the mast?",
+		"prompt":"Who wrote Two Years Before the Mast?",
 		"awnser":["Dana"]
 		},	{
-		"prompt":"Who wrote Self reliance?",
+		"prompt":"Who wrote Self Reliance?",
 		"awnser":["Emerson"]
 		},	{
-		"prompt":"Who wrote Little woman?",
+		"prompt":"Who wrote Little Woman?",
 		"awnser":["Alcott"]
 		},	{
 		"prompt":"Who wrote Walden?",
 		"awnser":["Thoreau"]
 		},	{
-		"prompt":"Who wrote Civil disobediance?",
+		"prompt":"Who wrote Civil Disobediance?",
 		"awnser":["Thoreau"]
 		}	]
 }

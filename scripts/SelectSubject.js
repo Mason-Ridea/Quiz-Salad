@@ -43,8 +43,7 @@ scrollSlider.oninput = UpdateElementPositions;
 function UpdateElementPositions(){
     const baseHeight = 130;
     const scrolloffset = parseInt(scrollSlider.value)*10;
-    const newYPosition = (baseHeight + scrolloffset) + "px";
-    console.log(newYPosition);          
+    const newYPosition = (baseHeight + scrolloffset) + "px";       
     CurrentMenus.forEach(element => {
         element.style.bottom = newYPosition;
     });

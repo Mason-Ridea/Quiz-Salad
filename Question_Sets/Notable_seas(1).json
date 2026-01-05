@@ -1,0 +1,83 @@
+{
+	"title":"Notable seas: module 1",
+	"questions":[
+	{
+		"prompt":"The sea which broders estonia, latvia and lithuania?",
+		"awnser":["Baltic sea","Baltic"]
+		},	{
+		"prompt":"The sea which borders belgium, netherlands, denmark, and the uk?",
+		"awnser":["North sea"]
+		},	{
+		"prompt":"The sea between greeze and turkey, also north of crete?",
+		"awnser":["Aegean"]
+		},	{
+		"prompt":"The sea east of the italian boot?",
+		"awnser":["Adriatic"]
+		},	{
+		"prompt":"The british 'highway to india'?",
+		"awnser":["Suez canal","Suez"]
+		},	{
+		"prompt":"The sea between arabia and africa and is one of the saltiest seas?",
+		"awnser":["Red sea","Red"]
+		},	{
+		"prompt":"The danube empties into this sea between crimea and turkey?",
+		"awnser":["Black sea","Sea"]
+		},	{
+		"prompt":"Most of the world's oil enters through this entrance to the persian gulf?",
+		"awnser":["Straits of hormuz","Hormuz"]
+		},	{
+		"prompt":"The northernmost sea?",
+		"awnser":["Artic ocean","Artic"]
+		},	{
+		"prompt":"Passage between the north and south islands of new zealand?",
+		"awnser":["Cook straits","Cook"]
+		},	{
+		"prompt":"The sea between austraila and new zealand?",
+		"awnser":["Tasman sea","Tasman"]
+		},	{
+		"prompt":"Passage between russia and us?",
+		"awnser":["Bering strait","Bering"]
+		},	{
+		"prompt":"A sea off antartica named for the explorer?",
+		"awnser":["Ross sea"]
+		},	{
+		"prompt":"A sea off antartica that notable for the recent discovery of the shackleton's ship: endurance?",
+		"awnser":["Weddell sea","Weddell"]
+		},	{
+		"prompt":"Sea between japan and korea?",
+		"awnser":["Sea of japan","Japan"]
+		},	{
+		"prompt":"Strait between argentina and tierra del fuego?",
+		"awnser":["Straits of magellan","Magellan"]
+		},	{
+		"prompt":"Southern entrance to sea of japan, pivotal battle of russo-japanese war?",
+		"awnser":["Tsuhima strait","Tsuhima"]
+		},	{
+		"prompt":"Oil and gas claims are obtained with the namesake of this sea?",
+		"awnser":["South china sea","South china","Sc"]
+		},	{
+		"prompt":"The us carrier lexington sunk at this sea during an early wwii navel battle?",
+		"awnser":["Coral sea"]
+		},	{
+		"prompt":"Site of pirate attacks from somalia?",
+		"awnser":["Arabian sea"]
+		},	{
+		"prompt":"This bay borders india, sri lanka, bangledesh, myanmar?",
+		"awnser":["Bay of bengal","Bengal"]
+		},	{
+		"prompt":"This bay opened the vietnam war and had a resolution named after it?",
+		"awnser":["Tonkin gulf","Tonkin"]
+		},	{
+		"prompt":"Deepest trench in the ocean that explored by piccard in trieste?",
+		"awnser":["Mariana trench","Mariana"]
+		},	{
+		"prompt":"What is the deepest point in the mariana trench?",
+		"awnser":["Challenger deep","Challenger"]
+		},	{
+		"prompt":"Deepest point in atlantic?",
+		"awnser":["Puerto rico trench","Puerto rico"]
+		},	{
+		"prompt":"Spanish cape and site of horatio nelson's greatest battle, and has a london square named after it?",
+		"awnser":["Trafalgar"]
+		}	]
+}

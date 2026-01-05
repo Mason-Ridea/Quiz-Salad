@@ -1,0 +1,71 @@
+{
+	"title":"Major rivers on cities: module 1",
+	"questions":[
+	{
+		"prompt":"What is the major river in Boston?",
+		"awnser":["Charles"]
+		},	{
+		"prompt":"What is the major river in New orleans?",
+		"awnser":["Mississippi"]
+		},	{
+		"prompt":"What is the major river in New york?",
+		"awnser":["Hudson"]
+		},	{
+		"prompt":"What is the major river in Omaha?",
+		"awnser":["Missouri"]
+		},	{
+		"prompt":"What is the major river in Porland, orgeon?",
+		"awnser":["Columbia"]
+		},	{
+		"prompt":"What is the major river in Louisville, cincinnati?",
+		"awnser":["Ohio"]
+		},	{
+		"prompt":"What is the major river in London?",
+		"awnser":["Thames"]
+		},	{
+		"prompt":"What is the major river in Paris?",
+		"awnser":["Seine"]
+		},	{
+		"prompt":"What is the major river in Rome?",
+		"awnser":["Tiber"]
+		},	{
+		"prompt":"What is the major river in Florence?",
+		"awnser":["Arno"]
+		},	{
+		"prompt":"What is the major river in Turin?",
+		"awnser":["Po"]
+		},	{
+		"prompt":"What is the major river in Quebec?",
+		"awnser":["St. lawrence","Lawrence"]
+		},	{
+		"prompt":"What is the major river in Cairo, khartum?",
+		"awnser":[""]
+		},	{
+		"prompt":"What is the major river in Bamako, timbuktu?",
+		"awnser":["Niger"]
+		},	{
+		"prompt":"What is the major river in Vientiane, phnom penh?",
+		"awnser":["Mekong"]
+		},	{
+		"prompt":"What is the major river in Kinshasa?",
+		"awnser":["Congo"]
+		},	{
+		"prompt":"What is the major river in Bonn, bridge at remagen?",
+		"awnser":["Rhine"]
+		},	{
+		"prompt":"What is the major river in Pakistan?",
+		"awnser":["Indus"]
+		},	{
+		"prompt":"What is the major river in Southern africa?",
+		"awnser":["Limpopo"]
+		},	{
+		"prompt":"What is the major river in West africa?",
+		"awnser":["Niger"]
+		},	{
+		"prompt":"What is the major river in South america?",
+		"awnser":["Amazon"]
+		},	{
+		"prompt":"What is the major river in Venezuela?",
+		"awnser":["Orincoco"]
+		}	]
+}

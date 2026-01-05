@@ -185,15 +185,29 @@ body {
 }
 
 /* for the text Input*/
-.awnser{
-    width: 26%;
-    height: 10%;
-    position: absolute;
-    left: 36.35%;
-    bottom: 10vh;
-    text-align: center;
-    box-shadow: 5px 5px 6px;
+@media screen and (min-width: 420px) {
+    .awnser{
+        width: 70vh;
+        height: 10%;
+        position: absolute;
+        left: 5vh;
+        bottom: 10vh;
+        text-align: center;
+        box-shadow: 5px 5px 6px;
+    }
 }
+@media screen and (min-width: 752px) {
+    .awnser{
+        width: 26%;
+        height: 10%;
+        position: absolute;
+        left: 36.35%;
+        bottom: 10vh;
+        text-align: center;
+        box-shadow: 5px 5px 6px;
+    }
+}
+
 /* streak counter stuff*/ 
 .streakCounter{
     

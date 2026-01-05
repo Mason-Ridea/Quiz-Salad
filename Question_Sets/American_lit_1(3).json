@@ -2,31 +2,31 @@
 	"title":"american Lit 1: module 3",
 	"questions":[
 	{
-		"prompt":"Who wrote The sound and the fury?",
+		"prompt":"Who wrote The Sound and the Fury?",
 		"awnser":["Faulkner"]
 		},	{
-		"prompt":"Who wrote Absolom, absolom?",
+		"prompt":"Who wrote Absolom, Absolom?",
 		"awnser":["Faulkner"]
 		},	{
-		"prompt":"Who wrote Winesburg ohio?",
+		"prompt":"Who wrote Winesburg, Ohio?",
 		"awnser":["Anderson"]
 		},	{
-		"prompt":"Who wrote Gone with the wind?",
+		"prompt":"Who wrote Gone with the Wind?",
 		"awnser":["Mitchell"]
 		},	{
-		"prompt":"Who wrote Native son?",
+		"prompt":"Who wrote Native Son?",
 		"awnser":["Wright"]
 		},	{
-		"prompt":"Who wrote The naked and the dead?",
+		"prompt":"Who wrote The Naked and the Dead?",
 		"awnser":["Mailer"]
 		},	{
-		"prompt":"Who wrote All the king's men?",
+		"prompt":"Who wrote All the King's Men?",
 		"awnser":["Warren"]
 		},	{
-		"prompt":"Who wrote One flew over the cuckoo's nest?",
+		"prompt":"Who wrote One flew over the Cuckoo's Nest?",
 		"awnser":["Kesey"]
 		},	{
-		"prompt":"Who wrote The sun also rises?",
+		"prompt":"Who wrote The Sun also Rises?",
 		"awnser":["Hemingway"]
 		},	{
 		"prompt":"Who wrote A farewell to arms?",
@@ -38,16 +38,16 @@
 		"prompt":"Who wrote The color purple?",
 		"awnser":["Walker"]
 		},	{
-		"prompt":"Who wrote Invisible man?",
+		"prompt":"Who wrote Invisible Man?",
 		"awnser":["Elison"]
 		},	{
-		"prompt":"Who wrote Catcher in the rye?",
+		"prompt":"Who wrote Catcher in the Rye?",
 		"awnser":["Salinger"]
 		},	{
-		"prompt":"Who wrote The pearl?",
+		"prompt":"Who wrote The Pearl?",
 		"awnser":["Steinbeck"]
 		},	{
-		"prompt":"Who wrote The jungle?",
+		"prompt":"Who wrote The Jungle?",
 		"awnser":["Sinclair"]
 		},	{
 		"prompt":"Who wrote Trees?",
@@ -59,22 +59,22 @@
 		"prompt":"Who wrote Grass?",
 		"awnser":["Sandburg"]
 		},	{
-		"prompt":"Who wrote Leaves of grass?",
+		"prompt":"Who wrote Leaves of Grass?",
 		"awnser":["Whitman"]
 		},	{
-		"prompt":"Who wrote The american spelling book?",
+		"prompt":"Who wrote The American Spelling Book?",
 		"awnser":["Webster"]
 		},	{
-		"prompt":"Who wrote Consitution?",
+		"prompt":"Who wrote The Consitution?",
 		"awnser":["Madison"]
 		},	{
-		"prompt":"Who wrote Star spangled banner?",
+		"prompt":"Who wrote Star Spangled Banner?",
 		"awnser":["Francis scott key","Key"]
 		},	{
-		"prompt":"Who wrote Moby dick?",
+		"prompt":"Who wrote Moby Dick?",
 		"awnser":["Melville"]
 		},	{
-		"prompt":"Who wrote Billy budd?",
+		"prompt":"Who wrote Billy Budd?",
 		"awnser":["Melville"]
 		}	]
 }

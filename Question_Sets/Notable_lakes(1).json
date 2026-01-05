@@ -1,0 +1,41 @@
+{
+	"title":"Notable Lakes: module 1",
+	"questions":[
+	{
+		"prompt":"What is the largest lake?",
+		"awnser":["Caspian sea","Caspian"]
+		},	{
+		"prompt":"What is the deepest lake?",
+		"awnser":["Lake baikal","Baikal"]
+		},	{
+		"prompt":"What was the fourth largest lake but shrunk by 70 due to water reduction?",
+		"awnser":["Aral sea","Aral"]
+		},	{
+		"prompt":"Largest and deepest of the great lakes and also the largest freshwater lake?",
+		"awnser":["Lake superior","Superior"]
+		},	{
+		"prompt":"The only great lake completely in the us and border chicago?",
+		"awnser":["Lake michigan","Michigan"]
+		},	{
+		"prompt":"The lake that borders cleveland and the was the site of a naval battle which bears its name?",
+		"awnser":["Lake erie","Erie"]
+		},	{
+		"prompt":"Easternmost of the great lakes?",
+		"awnser":["Lake ontario","Ontario"]
+		},	{
+		"prompt":"Which lake is connected to michigan throught the straits of mackinac?",
+		"awnser":["Huron"]
+		},	{
+		"prompt":"Largest lake by area?",
+		"awnser":["Maracaibo"]
+		},	{
+		"prompt":"Highest navigable lake?",
+		"awnser":["Titicaca"]
+		},	{
+		"prompt":"Deepest lake in africa?",
+		"awnser":["Tanganyika"]
+		},	{
+		"prompt":"Largest lake in africa?",
+		"awnser":["Victoria"]
+		}	]
+}

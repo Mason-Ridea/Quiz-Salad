@@ -28,6 +28,9 @@
             "American history 1712-90 (1.)" : "America_Hist_1712-90_p1.json",
             "American history 1712-90 (2.)" : "America_Hist_1712-90_p2.json",
             "American history 1712-90 (3.)" : "America_Hist_1712-90_p3.json",
+            "American history 1837-1852(1.)" : "American_history_1837-52(1).json",
+            "American history 1837-1852(2.)" : "American_history_1837-52(2).json",
+            "American history 1837-1852(3.)" : "American_history_1837-52(3).json",
             "Everything civil war! (1.)" : "Everything_civil_war!(1).json",
             "Everything civil war! (2.)" : "Everything_civil_war!(2).json",
             "Everything civil war! (3.)" : "Everything_civil_war!(3).json",
@@ -98,6 +101,11 @@
             "World Capital S" : "World_capitals_s(1).json",
             "World Capital T" : "World_capitals_t(1).json",
             "World Capital U, V" : "World_capitals_u-v(1).json"
+        },
+        "Natural landmarks" : {
+            "The Major river in ____":"Major_rivers_on_cities(1).json",
+            "Notable Lakes" : "Notable_lakes(1).json",
+            "Notable seas and straits":"Notable_seas(1).json"
         }
     },
     "Science (-)":{
