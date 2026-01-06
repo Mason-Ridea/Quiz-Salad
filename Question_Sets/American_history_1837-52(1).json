@@ -45,7 +45,7 @@
 		"awnser":["Brook farms","Brooks"]
 		},	{
 		"prompt":"Who sets up brook farms?",
-		"awnser":["George ripley"]
+		"awnser":["George ripley","ripley"]
 		},	{
 		"prompt":"Based upon the happenings of utopian community brook farms, who publishes the blithedale romance?",
 		"awnser":["Nathaniel hawthorne","Hawthorne"]
@@ -54,7 +54,7 @@
 		"awnser":["Webster-ashburton treaty","Webster-ashburton"]
 		},	{
 		"prompt":"Which pathfinder joins kit carson to explore the far west?",
-		"awnser":["John c. fremont"]
+		"awnser":["John c. fremont","fremont"]
 		},	{
 		"prompt":"Where does the oregon trail begins?",
 		"awnser":["Independence, missouri","Independence"]
