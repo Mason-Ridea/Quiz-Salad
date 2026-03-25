@@ -1,0 +1,35 @@
+{
+	"title":"Name of Greek Or Roman Gods: module 2",
+	"questions":[
+	{
+		"prompt":"The god of The west wind (roman)?",
+		"awnser":["Favonius"]
+		},	{
+		"prompt":"The god of The south wind (roman)?",
+		"awnser":["Auster"]
+		},	{
+		"prompt":"The god of Dawn(greek)?",
+		"awnser":["Eos"]
+		},	{
+		"prompt":"The god of Light?",
+		"awnser":["Aether"]
+		},	{
+		"prompt":"The god of Childbrith(greek)?",
+		"awnser":["Eileithyia"]
+		},	{
+		"prompt":"The god of Good beginnings?",
+		"awnser":["Janus"]
+		},	{
+		"prompt":"The god of Seed?",
+		"awnser":["Saturn"]
+		},	{
+		"prompt":"The god of Sheep/flocks(greek)?",
+		"awnser":["Pan"]
+		},	{
+		"prompt":"The god of Sheep/flocks(roman)?",
+		"awnser":["Innus"]
+		},	{
+		"prompt":"The god of Corn, earth, harvest(roman)?",
+		"awnser":["Ceres"]
+		}	]
+}

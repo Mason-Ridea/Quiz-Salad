@@ -1,0 +1,95 @@
+{
+	"title":"Name of Greek Or Roman Gods: module 1",
+	"questions":[
+	{
+		"prompt":"The god of Fame, rumor?",
+		"awnser":["Fama"]
+		},	{
+		"prompt":"The god of Lightbringer(greek)?",
+		"awnser":["Phosphor"]
+		},	{
+		"prompt":"The god of Lightbringer(roman)?",
+		"awnser":["Lucifier"]
+		},	{
+		"prompt":"The god of Dreams?",
+		"awnser":["Morpheus"]
+		},	{
+		"prompt":"The god of Revenge?",
+		"awnser":["Nemesis"]
+		},	{
+		"prompt":"The god of Punishment?",
+		"awnser":["Poena"]
+		},	{
+		"prompt":"The god of Pleasure?",
+		"awnser":["Voluptas"]
+		},	{
+		"prompt":"The god of Fortune(greek)?",
+		"awnser":["Tyche"]
+		},	{
+		"prompt":"The god of Fortune(roman)?",
+		"awnser":["Fortuna"]
+		},	{
+		"prompt":"The god of Magic, dark side of the moon, crossways(greek)?",
+		"awnser":["Hecate"]
+		},	{
+		"prompt":"The god of Magic, dark side of the moon, crossways(roman)?",
+		"awnser":["Trivia"]
+		},	{
+		"prompt":"The god of Persuasion(greek)?",
+		"awnser":["Peitha"]
+		},	{
+		"prompt":"The god of Persuasion(roman)?",
+		"awnser":["Suadela"]
+		},	{
+		"prompt":"The god of Victory(greek)?",
+		"awnser":["Nike"]
+		},	{
+		"prompt":"The god of Victory(roman?",
+		"awnser":["Victoria"]
+		},	{
+		"prompt":"The god of Spring water?",
+		"awnser":["Huturna"]
+		},	{
+		"prompt":"The god of Sleep(greek)?",
+		"awnser":["Hypnos"]
+		},	{
+		"prompt":"The god of Sleep(roman)?",
+		"awnser":["Somnus"]
+		},	{
+		"prompt":"The god of Flowers?",
+		"awnser":["Flora"]
+		},	{
+		"prompt":"The god of Discord(greek)?",
+		"awnser":["Eris"]
+		},	{
+		"prompt":"The god of Discord(roman)?",
+		"awnser":["Discordia"]
+		},	{
+		"prompt":"The god of Mischeif?",
+		"awnser":["Ate"]
+		},	{
+		"prompt":"The god of Trumpeter of the sea?",
+		"awnser":["Triton"]
+		},	{
+		"prompt":"The god of Old man of the sea?",
+		"awnser":["Nereus"]
+		},	{
+		"prompt":"The god of Health?",
+		"awnser":["Hygea"]
+		},	{
+		"prompt":"The god of The north wind(greek)?",
+		"awnser":["Boreas"]
+		},	{
+		"prompt":"The god of The west wind (greek)?",
+		"awnser":["Zephyr"]
+		},	{
+		"prompt":"The god of The south wind (greek)?",
+		"awnser":["Notus"]
+		},	{
+		"prompt":"The god of The east wind?",
+		"awnser":["Eurus"]
+		},	{
+		"prompt":"The god of The north wind(roman)?",
+		"awnser":["Aquilo"]
+		}	]
+}
